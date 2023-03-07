@@ -1,0 +1,28 @@
+bugsCharts:
+  title: "Charts for bugs"
+  charts:
+    - title: "Monthly bugs created"
+      description: "Open bugs created per month"
+      type: bar
+      query:
+        issuable_type: issue
+        issuable_state: opened
+        filter_labels:
+          - bug
+        group_by: month
+        period_limit: 24
+
+
+userStoryCharts:
+  title: "User Storys"
+  charts:
+    - title: "Monthly User Storys created"
+      description: "User Storys under work"
+      type: bar
+      query:
+        issuable_type: issue
+        issuable_state: opened
+        filter_labels:
+          - user story
+        group_by: month
+        period_limit: 24

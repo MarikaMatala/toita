@@ -1,0 +1,63 @@
+:root {
+    --md-primary-fg-color:        #000000;
+    --md-primary-fg-color--light: #000000;
+    --md-primary-fg-color--dark:  #000000;
+}
+
+.md-typeset .codehilite pre {
+    white-space: pre-wrap;
+    margin: 30px 0px;
+}
+
+.admonition > p {
+    font-size: 14px;
+}
+
+.admonition > p > a { color: #2C00FF !important 
+}
+
+.nav-logo > img {
+    max-width: 100%;
+}
+
+p > a { color: #2C00FF !important 
+}
+
+p > a:hover { color: #e2066f !important
+}
+
+td > a { color: #2C00FF !important 
+}
+
+td > a:hover { color: #e2066f !important
+}
+
+.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg,
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
+    display: none;
+}
+
+.md-nav__item .md-nav__link--active { 
+    font-weight: bold;
+}
+
+p > a,
+td > a,
+li > a { 
+    color: #6442f0 !important;
+}
+
+p > a:hover,
+td > a:hover,
+li > a:hover { 
+    color: #0f0093 !important;
+    text-decoration: underline !important;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5 {
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+image: python:3.8
+pages:
+    script:
+        - apt update && apt install git -y
+        - pip install mkdocs
+        - pip install mkdocs-material
+        - pip install plantuml-markdown
+        - git clone https://github.com/g-provost/lightgallery-markdown.git
+        - cd lightgallery-markdown
+        - python setup.py install
+        - cd ..
+        - mkdocs --version
+        - mkdocs build
+    artifacts:
+        paths:
+            - public
+    tags:
+        - general

@@ -1,0 +1,65 @@
+site_name: Pengwin Media 2022
+site_url: https://wimma-lab-2022.pages.labranet.jamk.fi/pengwin-media/core/
+site_description: Default Description
+site_author: Firstname Lastname / JAMK IT
+
+docs_dir: documents
+site_dir: public
+
+
+markdown_extensions:
+    - plantuml_markdown:
+        server: http://plantuml.com/plantuml
+    - toc:
+        baselevel: 1
+    - admonition
+    - tables
+    - sane_lists
+    - codehilite
+    - pymdownx.superfences
+    - pymdownx.critic:
+        mode: view
+    #- lightgallery
+
+theme:
+    name: material
+    language: 'en'
+    history_buttons: false
+    article_nav_bottom: false
+    article_nav_top: false
+    custom_dir: overrides
+    palette:
+        # Palette toggle for light mode
+        - media: "(prefers-color-scheme: light)"
+          scheme: custom
+          primary: orange
+          accent: orange
+          toggle:
+            icon: material/brightness-7
+            name: Switch to dark mode
+
+        # Palette toggle for dark mode
+        - media: "(prefers-color-scheme: dark)"
+          scheme: slate
+          primary: orange
+          accent: orange
+          toggle:
+            icon: material/brightness-4
+            name: Switch to light mode       
+    font:
+        text: 'Rubik'
+        code: 'Roboto Mono'
+    logo: 'assets/logo-pengwin-sm.svg'
+    features:
+        - instant
+extra_css:
+    - assets/extra.css
+    - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/css/lightgallery.min.css
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js
+    - https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.3/js/lightgallery-all.js
+    - https://unpkg.com/mermaid@8.6.4/dist/mermaid.min.js
+    - assets/lg.js
+google_analytics: 
+    - 'google-analytics-code'
+    - 'auto'

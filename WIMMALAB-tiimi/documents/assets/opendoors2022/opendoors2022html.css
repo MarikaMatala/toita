@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="WIMMA Lab Open Doors 10.6.2022 klo 10-12." />
+    <meta name="author" content="" />
+    <meta name="keywords" content="wimmalab, WIMMA Lab, WIMMA Lab Open Doors, WIMMA Lab 2022" />
+    <meta name="image" property="og:image" content="https://wimma-lab-2022.pages.labranet.jamk.fi/pengwin-media/avoimetovet-2022/img/WIMMA-opendoors-2022.png" />
+    <link rel="shortcut icon" type="image/png" href="img/fav.png" />
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <title>WIMMA Lab – Open Doors 2022</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+        rel="stylesheet" />
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="styles/bootstrap.min.css" />
+    <!-- Custom styling -->
+    <link rel="stylesheet" href="styles/main.css" />
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" data-offset="50">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="https://www.wimmalab.org/">
+                    <img src="img/logo.svg" height="40" width="40" alt="WIMMA Lab logo" />
+                </a>
+            </div>
+
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden"><a href="#page-top" class="page-scroll"></a></li>
+                    <li><a href="#info" class="page-scroll">Home</a></li>
+                    <li><a href="#sisalto" class="page-scroll">Info</a></li>
+                    <li><a href="#forms" class="page-scroll">Registration</a></li>
+                    <li><a href="#location" class="page-scroll">Location</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Info -->
+
+    <section id="info">
+        <div class="header">
+            <div class="header__content">
+                <img class="header__logo" src="img/logo_round.png" alt="WIMMA Lab -logo" />
+                <h2>Open Doors 2022</h2>
+                <h1>
+                    Welcome to WIMMA Lab<br />
+                    Open Doors!
+                </h1>
+                <p class="header__p">
+                   <b> Open doors will be held on 10.6.2022 at 10-12 in Turbiini (Piippukatu 3, 40100 Jyväskylä) and there will be virtual team introductions.</b>
+                </p>
+                <a href="#forms" class="page-scroll header__button">Participate</a> 
+                <!--<button class="header__button"></button> -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Content -->
+
+    <section id="speakers" class="content-grid padding-top">
+
+        <h2>Keynote Speakers</h2> 
+
+            <div class="schedule-card2"> 
+
+                <div class="schedule-card__image"> 
+
+                    <img src="img/Mika.jpg" alt="Ilkka Turunen, Sonatype" /> 
+
+                </div> 
+
+                <div class="schedule-card__text-container"> 
+
+                    <h3>Mika Helenius</h3> 
+
+                    <small>Stockmann <br> Elevating Customer Centric Omnichannel eCommerece Capabilities | BSO</small> 
+
+                    <p> 
+
+                        Mika is talking about the current state of software development, and what the future holds.
+
+                    </p> 
+
+                    <p><a class="schedule-card__link" href="https://www.linkedin.com/in/mikahelenius/" 
+
+                            target="_blank" rel="noreferrer noopener">LinkedIn</a></p> 
+
+                </div> 
+            </div>
+    </section>
+    <section class="content-grid">
+
+                <div class="schedule-card2">
+
+                    <div class="schedule-card__image"> 
+
+                        <img src="img/Jouni.jpg" alt="Jouni Ihanus" /> 
+    
+                    </div>
+        
+                    <div class="schedule-card__text-container"> 
+        
+                        <h3>Jouni Ihanus</h3> 
+        
+                        <small>The Social Insurance Institution of Finland (KELA) <br> SOC Manager</small>
+        
+                        <p> 
+        
+                            Jouni is talking about SOC, which is an integral part of this years WIMMA Lab.
+        
+                        </p>
+                        <p>
+                            
+                        </p>
+        
+                        <p><a class="schedule-card__link" href="https://www.linkedin.com/in/jouni-ihanus-71651441/" 
+        
+                                target="_blank" rel="noreferrer noopener">LinkedIn</a></p> 
+        
+                    </div>
+
+                </div>
+
+    </section>
+
+    <section id="wimma" class="content-grid padding-top">
+        <div>
+            <h4>WIMMA Lab</h4>
+            <h2>What is WIMMA Lab all about? </h2>
+            <p>
+                WIMMA Lab is a challenge orientated learning environment, which has been implemented almost every summer from 2011 onwards. 
+                This year we are collaborating with JYU and working in hybrid form. 
+            </p>
+            <p>
+                Students work on assignments which have been obtained from WIMMA Lab, 
+                gain experience working on projects and learn valuable skills that they can use as they progress into working life.
+            </p>
+            <p>
+                Student development is also supported by business visitors. 
+                During the summer students participate in presentations on many interesting topics and meet with representatives from different companies.
+            </p>
+        </div>
+    </section>
+
+    <section id="sisalto" class="content-grid padding-top">
+        <h4>Open doors</h4>
+        <h2>What happens in the open doors event?</h2>
+        <p>
+            WIMMA Lab open doors event offers an opportunity to get acquainted with the activities of Wimma Lab 
+            and get to know the future IT professionals participating in it! Photos and videos are taken during the event.
+        </p>
+
+        <h3>Schedule</h3>
+        <ul>
+            <li>10:00 Opening words</li>
+            <li>10:15 Opening speech Mika Helenius</li>
+            <li>10:35 Second speech Jouni Ihanus</li>
+            <li>10:50 Team introductions</li>
+            <li>11:10 Team specific presentation online & stands at Turbine</li>
+            <li>12:00 Event ends</li>
+        </ul>
+
+        <h3>WIMMA Lab teams</h3>
+
+        <div class="schedule-card schedule-card--iotitude">
+            <div class="schedule-card__image">
+                <a href="https://www.wimmalab.org/iotitude" target="_blank">
+                    <img src="img/iotitude-logo.png" alt="IoTitude" />
+                </a>
+            </div>
+            <div class="schedule-card__text-container">
+                <h3>IoTitude</h3>
+                <small>WIMMA Lab</small>
+                <p>
+                    IoTitude's assignment is to update Haastix. 
+                    Haastix is a challenge-based picture game, the core idea is that a game master creates challenges for the players (e.g. find a statue in 15 minutes).
+                    Players join to challenge with a code and send a picture of the statue to the game master, 
+                    who then can accept or reject the picture. The player who completes all the tasks first wins.
+                </p>
+                <p>
+                    They will develop Haastix further based on feedback and develop testing more. They will discharge technical debt and change frontend's react native to react. 
+                </p>
+                <p> 
+                    IoTitude works with the Pengwin Media which provides graphical support.
+                </p>
+                
+                <!--STACK-->
+
+                <span class="tag">React</span>
+                <span class="tag">Typescript</span>
+                <span class="tag">Robot Framework</span>
+                <span class="tag">Kubernetes</span>
+                <span class="tag">NodeJS</span>
+                <span class="tag">PostgreSQL</span>
+                <span class="tag">GitLab CI/CD</span>
+            </div>
+        </div>
+
+        <div class="schedule-card schedule-card--mysticons">
+            <div class="schedule-card__image">
+                <a href="https://www.wimmalab.org/mysticons" target="_blank">
+                    <img src="img/mysticons-logo.png" alt="Mysticons" />
+                </a>
+            </div>
+            <div class="schedule-card__text-container">
+                <h3>Mysticons</h3>
+                <small>WIMMA Lab</small>
+                <p>
+                    Mysticons is building a foundation for WIMMA Lab SOC. As a team they will be in charge of monitoring the security of other WIMMA Lab projects.  
+                </p>
+                <p>
+                    Through their SOC (Security operations center) they will monitor log events and other security related issues for the entirety of the WIMMA Lab.
+                </p>
+                <p>
+                    Mysticons is operating and developing through the Kubernetes platform, that works in conjuction with their SIEM.
+                </p>
+
+                <!--STACK-->
+
+                <span class="tag">Cyber Security</span>
+                <span class="tag">SOC</span>
+                <span class="tag">SIEM</span>
+                <span class="tag">SOAR</span>
+                <span class="tag">Analysis</span>
+                <span class="tag">Automation</span>
+                <span class="tag">Kubernetes</span>
+                <span class="tag">GitLab CI/CD</span>
+                <span class="tag">CSC</span>
+
+            </div>
+        </div>
+
+        <div class="schedule-card schedule-card--overflow">
+            <div class="schedule-card__image">
+                <a href="https://www.wimmalab.org/overflow" target="_blank">
+                    <img src="img/overflow-logo.png" alt="Overflow-logo" />
+                </a>
+            </div>
+            <div class="schedule-card__text-container">
+                <h3>Overflow</h3>
+                <small>WIMMA Lab</small>
+                <p>
+                    Team Overflow's task is to design a forum service for Wimma Lab learning environment based on the open-source Conduit software. 
+                    The forum includes all the features one would typically expect in a modern forum service. 
+                    The team is primarily comprised of students in JAMK's ICT engineering program.
+                </p>
+
+                <!--STACK-->
+
+                <span class="tag">React</span>
+                <span class="tag">NodeJS</span>
+                <span class="tag">Kubernetes</span>
+                <span class="tag">GitLab CI/CD</span>
+                <span class="tag">Docker</span>
+                <span class="tag">Mongodb</span>
+                <span class="tag">CSC</span>
+                <span class="tag">Express</span>
+
+            </div>
+        </div>
+
+        <div class="schedule-card schedule-card--pengwin">
+            <div class="schedule-card__image">
+                <a href="https://www.wimmalab.org/pengwin" target="_blank">
+                    <img src="img/pengwin-logo.png" alt="Pengwin Media" />
+                </a>
+            </div>
+            <div class="schedule-card__text-container">
+                <h3>Pengwin Media</h3>
+                <small>WIMMA Lab</small>
+                <p>
+                    Pengwin Media's assignment is to update and maintain all WIMMA Lab's websites and social medias. 
+                </p>
+                <p>
+                    Pengwin Media will do the marketing for WIMMA Lab and open doors event. 
+                    They will make material for other teams when needed example new colors and mockup for the Haastix.
+                </p>
+                <p>
+                    After Open Doors, Pengwin Media will start to update team websites.
+                </p>
+
+                <!--STACK-->
+
+                <span class="tag">React</span>
+                <span class="tag">Next.js</span>
+                <span class="tag">SCSS</span>
+                <span class="tag">SVG</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Registration -->
+
+    <section id="forms" class="content-grid padding-top margin-bottom">
+        <h2>Registration</h2>
+        <p>
+            Interested? Fill the form below and the Zoom link will be emailed to you before the event.
+        </p>
+        <iframe class="frames"
+            src="https://forms.office.com/Pages/ResponsePage.aspx?id=8Kqebvc_6U2M1B_71FlRuXiXZAAdYrBHvsb6-IKsNRhUMlNGNVVFQlBaRFMwMUdSQk9LTE4zQkc0RyQlQCN0PWcu&embed=true"
+            style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen></iframe>
+    </section>
+
+    <!--Location-->
+    
+    <section id="location" class="content-grid padding-top margin-bottom mapinfo">
+        <h2>Location</h2>
+        <p>
+            More information from <a href="https://www.jamk.fi/sites/default/files/2021-10/kampuskartta_lutakko_2021.pdf" target="_blank"> Campus map </a>.
+        </p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d929.12851887114!2d25.75927887210959!3d62.24124214743456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x468574118f2fb6db%3A0xf129bc7e1cb6c1ea!2sPiippukatu%203%2C%2040100%20Jyv%C3%A4skyl%C3%A4!5e0!3m2!1sen!2sfi!4v1653989756864!5m2!1sen!2sfi" 
+        style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" class="map frames"></iframe>
+    </section>
+    
+    <!-- Footer -->
+
+    <footer class="content-grid">
+        <div class="footer__logo-container">
+            <a href="https://www.wimmalab.org/en" target="_blank" rel="noreferrer noopener"><img
+                    src="img/wimmalogo.png" alt="WIMMA Lab" /></a>
+            <a href="https://www.jamk.fi/" target="_blank" rel="noreferrer noopener"><img src="img/jamk.png"
+                    alt="JAMK" /></a>
+        </div>
+        <div>
+            <p>Follow WIMMA Lab on social media:</p>
+            <div class="footer__social-media-container">
+                <a href="https://www.facebook.com/wimmalab" target="_blank" rel="noreferrer noopener"
+                    class="fa fa-facebook"></a>
+                <a href="https://twitter.com/wimmalab" target="_blank" rel="noreferrer noopener"
+                    class="fa fa-twitter"></a>
+                <a href="https://www.linkedin.com/company/wimmalab" target="_blank" rel="noreferrer noopener"
+                    class="fa fa-linkedin"></a>
+                <a href="https://www.instagram.com/wimmalab" target="_blank" rel="noreferrer noopener"
+                    class="fa fa-instagram"></a>
+            </div>
+        </div>
+    </footer>
+
+    <!-- SCRIPTS -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>

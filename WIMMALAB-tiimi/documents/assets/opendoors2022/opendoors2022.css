@@ -1,0 +1,550 @@
+/* Variables */
+:root {
+  --black: #020405;
+  --white: #FBFBFB;
+  --turquoise: #5ED9C3;
+
+  --pastel-turquoise: #D6F5F0;
+
+  --pastel-cyan: #D5F0F6;
+  --pastel-cyan-tag: #a7e1ee;
+
+  --pastel-purple: #eee1f5;
+  --pastel-purple-tag: #e2c1f3;
+
+  --pastel-blue: #dee7f7;
+  --pastel-blue-tag: #b4caf0;
+
+  --pastel-orange: #ffe0d6;
+  --pastel-orange-tag: #faa98e;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+a, a:hover {
+  text-decoration: none;
+  outline: none;
+  -webkit-transition: color 0.1s ease-in-out;
+  -moz-transition: color 0.1s ease-in-out;
+  transition: color 0.1s ease-in-out;
+}
+
+body {
+  height: 100%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+  background-color: var(--white);
+  color: var(--black);
+}
+
+/* Helper class for nav link click scroll-offset */
+.padding-top {
+  padding-top: 4em;
+}
+
+/* Helper class for section spacing */
+section.content-grid.margin-bottom {
+  margin-bottom: 6em;
+}
+
+ul {
+  font-size: 20px;
+  word-spacing: 2px;
+  margin-top: 1em;
+  list-style-type: none;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+p {
+  margin: 1em 0;
+  font-size: 21px;
+}  
+
+h1 {
+  font-size: 40px;
+  letter-spacing: -1px;
+  font-weight: 700;
+  color: var(--black);
+  line-height: 1.15;
+}
+
+h2 {
+  font-size: 36px;
+  letter-spacing: -1px;
+  font-weight: 700;
+  color: var(--black);
+  line-height: 1.15;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+h4 {
+  color: var(--turquoise);
+  font-weight: 700;
+  font-size: 28px;
+}
+
+h5 {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 2em 0 1em;
+}
+
+mapinfo {
+  font-size: 22px;
+  font-weight: 900;
+}
+
+/* Typography styles for Tablet+ widths */
+@media only screen and (min-width: 768px) {
+  h1 {
+    font-size: 44px;
+  }
+
+  h3 {
+    font-size: 28px;
+  }
+}
+
+/* Typography styles for Desktop+ widths */
+@media only screen and (min-width: 1440px) {
+  h1 {
+    font-size: 48px;
+  }
+
+  h3 {
+    margin-top: 1em;
+  }
+}
+
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+.header {
+  background: url(../img/banner-kuva.jpg);
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  height: 100vh;
+  max-height: 900px;
+  min-height: 840px;
+}
+
+.header__content {
+  margin: 0 auto;
+  padding: 6em 1em 3em;
+  max-width: 600px;
+}
+
+.header h1 {
+  margin-top: 1em;
+}
+
+.header__logo {
+  width: 100%;
+  min-width: 1em;
+  max-width: 10em;
+  margin-bottom: 15px;
+}
+
+.header__p {
+  font-size: 18px;
+  margin-bottom: 2.5em;
+}
+
+.header__button {
+  background-color: var(--black);
+  border: none;
+  outline: none;
+  padding: 12px 16px;
+  border-radius: 5px;
+  font-size: 20px;
+  color: var(--white);
+  font-weight: 600;
+}
+
+/* Header styles for Tablet+ widths */
+@media only screen and (min-width: 768px) {
+  .header__content {
+    padding-top: calc(4em + 6vh);
+    max-width: 680px;
+  }
+
+  .header__p {
+    font-size: 19px;
+  }
+
+  .header__logo {
+    max-width: 16em;
+  }
+}
+
+/* Header styles for Desktop+ widths */
+@media only screen and (min-width: 1440px) {
+  .header__content {
+    max-width: 740px;
+  }
+
+  .header__logo {
+    max-width: 18em;
+  }
+}
+
+
+/* ==========================================================================
+   Content grid
+   ========================================================================== */
+.content-grid {
+  display: grid;
+  grid-template-columns: [full-start] minmax(1em, 1fr) [contain-start] minmax(0, 74rem) [contain-end] minmax(1em, 1fr) [full-end];
+  margin: 2em 0;
+}
+
+.content-grid > * {
+  grid-column: contain;
+}
+
+/* Content grid styles for Tablet+ widths */
+@media only screen and (min-width: 768px) {
+  .content-grid {
+    margin: 1em 0;
+  }
+}
+
+
+
+/* ==========================================================================
+   Schedule card (Speakkers ja teams "cards")
+   ========================================================================== */
+.schedule-card {
+  background-color: var(--pastel-turquoise);
+
+  border-radius: 5px;
+  padding: 1.8em 1.2em;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+  margin-top: 1em;
+}
+
+.schedule-card2 {
+  background-color: var(--pastel-turquoise);
+  padding: 1em;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.schedule-card h3 {
+  margin: 0 0 .2em;
+}
+
+.schedule-card small {
+  display: inline-block;
+  font-size: 16px;
+  opacity: 0.65;
+  margin: 0 0 .2em;
+}
+
+.schedule-card__image {
+  display: flex;
+  justify-content: left;
+  align-items: flex-start;
+  padding: 1em 0 2em;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+
+.schedule-card__image img {
+  border-radius: 100%;
+  width: 128px;
+}
+
+.schedule-card__link {
+  font-weight: 600;
+}
+
+/* Schedule card styles for Tablet+ widths */
+@media only screen and (min-width: 768px) {
+  .schedule-card {
+    flex-direction: row;
+  }
+
+  .schedule-card__image {
+    padding: 0.75em;
+  }
+
+  .schedule-card__text-container {
+    padding: 0em 1em 0.5em 2em;
+  }
+}
+
+/* Schedule card variations */
+.schedule-card--iotitude {
+  background-color: var(--pastel-cyan);
+}
+
+.schedule-card--mysticons {
+  background-color: var(--pastel-purple);
+}
+
+.schedule-card--overflow {
+  background-color: var(--pastel-blue);
+}
+
+.schedule-card--pengwin {
+  background-color: var(--pastel-orange);
+}
+
+
+/* ==========================================================================
+   Technology tags (in schedule cards)
+   ========================================================================== */
+.tag {
+  display: inline-block;
+  font-weight: 500;
+  padding: 4px 10px;
+  border-radius: 5px;
+  margin-right: 0.2em;
+  margin-bottom: 0.4em;
+  white-space: nowrap;
+}
+
+/* Tag variations */
+.schedule-card--iotitude .tag {
+  background-color: var(--pastel-cyan-tag);
+}
+
+.schedule-card--mysticons .tag {
+  background-color: var(--pastel-purple-tag);
+}
+
+.schedule-card--overflow .tag {
+  background-color: var(--pastel-blue-tag);
+}
+
+.schedule-card--pengwin .tag {
+  background-color: var(--pastel-orange-tag);
+}
+
+/* ==========================================================================
+   Form and Map
+   ========================================================================== */
+
+.frames {
+  width: 100%;
+  height: 680px;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+footer {
+  background-color: var(--black);
+  color: var(--white);
+}
+
+footer.content-grid {
+  margin-bottom: 0;
+  padding: 3em 0;
+  text-align: center;
+}
+
+.footer__logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2.5em;
+}
+
+.footer__logo-container img {
+  max-height: 6em;
+  max-width: 100%;
+  margin: 1em;
+}
+
+.footer__social-media-container {
+  display: flex;
+  justify-content: center;
+}
+
+.footer__social-media-container a {
+  display: inline-block;
+  font-size: 20px;
+  background-color: var(--turquoise);
+  padding: 2px 5px;
+  color: var(--black);
+  border-radius: 100%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 7px;
+  transition: all 0.15s;
+}
+
+.footer__social-media-container a:hover {
+  transform: scale(1.05);
+}
+
+/* Footer styles for Tablet+ widths */
+@media only screen and (min-width: 768px) {
+  .footer__logo-container {
+    flex-direction: row;
+  }
+}
+
+
+/* ==========================================================================
+   Bootstrap navbar overrides
+   ========================================================================== */
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-transition: color 0.3s;
+  -moz-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
+}
+
+.navbar-default {
+  background-color: #020405;
+  border-color: #020405;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-collapse {
+  border-color: #020405;
+}
+
+.navbar-default .navbar-toggle {
+  border: none;
+  color: #eee;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #FBFBFB;
+}
+
+.navbar-default .navbar-brand:focus {
+  color: #eee;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:active {
+  color: #5ed9c3;
+}
+
+.navbar-default .navbar-brand span {
+  color: #5ed9c3;
+  -webkit-transition: color 0.3s;
+  -moz-transition: color 0.3s;
+  -o-transition: color 0.3s;
+  transition: color 0.3s;
+}
+
+.navbar-default .navbar-nav {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  -webkit-transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  -moz-transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  -o-transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  transition: color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  color: var(--white);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.navbar-default .navbar-nav > li > a:focus {
+  color: #FBFBFB;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #5ED9C3;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  color: #5ED9C3;
+  background-color: #020405;
+  border-left: 3px solid #5ED9C3;
+  padding-left: 18px;
+  box-shadow: 0 2px 10px rgba(15, 15, 15, 0.7);
+}
+
+.navbar-default .navbar-nav > .active > a:hover {
+  color: #5ED9C3;
+  background-color: #020405;
+}
+
+/* ==========================================================================
+   Bootstrap navbar overrides for Desktop widths (768px+)
+   ========================================================================== */
+@media only screen and (min-width: 768px) {
+  .navbar-default .navbar-nav > li > a:focus {
+    color: #FBFBFB;
+  }
+
+  .navbar-default .navbar-nav > li > a:hover {
+    color: #5ED9C3;
+  }
+
+  .navbar-default .navbar-nav > .active > a {
+    color: #5ED9C3;
+    background-color: transparent;
+    border-left: none;
+    padding-left: 15px;
+    box-shadow: 0 -3px 0px #5ed9c3 inset;
+  }
+
+  .navbar-default .navbar-nav > .active > a:hover,
+  .navbar-default .navbar-nav > .active > a:focus {
+    color: #5ED9C3;
+    background-color: transparent;
+    border-left: none;
+    padding-left: 15px;
+    box-shadow: 0 -3px 0px #5ed9c3 inset;
+  }
+
+  .navbar {
+    background-color: #020405;
+    border: none;
+    -webkit-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+    transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
+  }
+
+  .top-nav-collapse {
+    background: #020405;
+    padding: 0;
+  }
+}
