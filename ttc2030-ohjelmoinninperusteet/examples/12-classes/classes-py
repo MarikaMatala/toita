@@ -1,0 +1,2 @@
+# import the venicle class
+from vehicle import vehicle
