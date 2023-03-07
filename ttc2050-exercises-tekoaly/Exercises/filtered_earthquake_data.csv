@@ -1,0 +1,5 @@
+,Date,Time,Latitude,Longitude,Type,Depth,Depth Error,Depth Seismic Stations,Magnitude,Grade,Magnitude Type,Magnitude Error,Root Mean Square,ID,Source,Location Source,Magnitude Source,Status
+12571,1995-07-30,05:11:24,-23.34,-70.294,Earthquake,45.6,,,8.0,331.636,MW,,1.1,USP000714T,US,US,HRV,Reviewed
+12703,1995-10-09,15:35:54,19.055,-104.205,Earthquake,33.0,,,8.0,203.077,MW,,1.3,USP00074VC,US,US,HRV,Reviewed
+12781,1995-12-03,18:01:09,44.663,149.3,Earthquake,33.0,,,7.9,237.0,MW,,1.1,USP000782N,US,US,HRV,Reviewed
+12838,1996-01-01,08:05:11,0.729,119.931,Earthquake,24.0,,,7.9,158.0,MW,,1.2,USP00079ZV,US,US,HRV,Reviewed
