@@ -1,0 +1,52 @@
+@hostname = [::1]
+@port = 5002
+@host = {{hostname}}:{{port}}
+
+### Get all
+GET http://{{host}}/api/vehicles/
+
+### Create (with license plate, should pass the validation)
+POST http://{{host}}/api/vehicles/
+Content-Type: application/json
+
+{
+    "type":"EV",
+    "make":"Hyundai",
+    "model":"Kona",
+    "license_plate": "ABC-123"
+}
+
+### Create (no license plate, should fail the validation)
+POST http://{{host}}/api/vehicles/
+Content-Type: application/json
+
+{
+    "type":"EV",
+    "make":"Tesla",
+    "model":"3"
+}
+
+### Create (should fail the validation, duplicate license plate!)
+POST http://{{host}}/api/vehicles/
+Content-Type: application/json
+
+{
+  "type": "Passenger car",
+  "make": "Honda",
+  "model": "Jazz",
+  "license_plate": "ABC-123"
+}
+
+### Create (Should fail the validation, invalid license plate)
+POST http://{{host}}/api/vehicles/
+Content-Type: application/json
+
+{
+  "type": "Van",
+  "make": "Ford",
+  "model": "Transit",
+  "license_plate": "456"
+}
+
+
+

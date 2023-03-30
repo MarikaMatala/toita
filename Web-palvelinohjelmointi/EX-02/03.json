@@ -1,0 +1,13 @@
+const express = require('express');
+const app = express();
+
+app.use('/your-route', (req, res, next) => {
+  if (!req.query.yourQueryString) {
+    return res.status(401).send('Unauthorized');
+  }
+  next();
+});
+
+app.get('/your-route', (req, res) => {
+  // your route logic here
+});
