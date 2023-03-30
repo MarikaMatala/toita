@@ -17,6 +17,6 @@ Tässä tarkempaa tietoa, mitä Github-sivulta löytyy.
 Githubista löytyy myös minun CV ja hakukirje.
 
 
-Turku Distillerylle tehty Wordpress-nettisivu kesällä -22. Tässä linkki Figmaan (asiakas on jälkikäteen muutellut sivua): https://www.figma.com/file/OqeZsx2WZba1NJ5c9FARZT/Kaiho?node-id=176%3A144
+Turku Distillerylle tehty Wordpress-nettisivu kesällä -22. Tässä linkki Figmaan, miltä sivusto näytti (asiakas on jälkikäteen muutellut sivua): https://www.figma.com/file/OqeZsx2WZba1NJ5c9FARZT/Kaiho?node-id=176%3A144
 
 LinkedIn profiilini: https://www.linkedin.com/in/marika-matalamaki/
