@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.37 548.76">
+        <defs>
+            <style>
+                .a{fill:#022491; animation: move1 5s infinite;}
+                
+                .b{fill:#fff; animation: move2 1s infinite;}
+                .c{fill:#d8dd4a; animation: move3 2s infinite;}
+                .d{fill:#db4b4b; animation: move4 5s infinite;}
+                
+
+                @keyframes move1 {
+                    30% {
+                      transform: scale(1.1);
+                      fill: blue;
+                    }
+                }
+
+                @keyframes move2 {
+                    60% {
+                        transform: scale(0.63);
+                        transition: 1s ease-in-out;
+                        fill: rgb(0, 0, 0);
+                    }
+                }
+
+                @keyframes move3 {
+                    100% {
+                      transform: rotate(230deg);
+                      fill: pink;
+                    }
+                }
+              
+            </style>
+        </defs>
+        <title> Toinen animaatioharjoitus</title>
+        <polygon class="a" points="86.06 169.4 1.02 167.88 53.96 101.31 29.13 19.97 108.79 49.74 178.48 0.99 174.79 85.96 242.69 137.17 160.73 159.91 133.01 240.31 86.06 169.4"/>
+        <path class="b" d="M260.58,71.22l-3.65,83.69,0,.52.42.32,66.88,50.45-80.72,22.4-.51.14-.17.49-27.31,79.2-46.25-69.85-.29-.44h-.52l-83.76-1.5,52.14-65.57.32-.41-.15-.5L112.54,90,191,119.35l.49.19.43-.31,68.65-48m1.08-2-70.3,49.17L111,88.38l25,82.06-53.4,67.15,85.79,1.54,47.36,71.54,28-81.11,82.67-22.94L257.93,155l3.73-85.71Z" transform="translate(-82.63 -69.24)"/>
+        <rect class="c" x="379.87" y="99.26" width="186" height="186"/>
+        <path class="b" d="M648,169V354H463V169H648m1-1H462V355H649V168Z" transform="translate(-82.63 -69.24)"/>
+        <circle class="d" cx="200.37" cy="437.76" r="110.5"/>
+        <path class="b" d="M283,397a110,110,0,1,1-77.78,32.22A109.25,109.25,0,0,1,283,397m0-1A111,111,0,1,0,394,507,111,111,0,0,0,283,396Z" transform="translate(-82.63 -69.24)"/>
+    </svg>
+</body>
+</html>
