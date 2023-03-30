@@ -14,9 +14,13 @@ Tässä tarkempaa tietoa, mitä Github-sivulta löytyy.
 - Web-visualisoinnin tehtävät syksyltä -22.
 - Olio-ohjelmointi keväällä -23 (kurssi vielä kesken).
 
-Githubista löytyy myös minun CV ja hakukirje.
 
+# Muuta osaamista ja tietoa:
+- Olen toiminut JIOn eli Jyväskylän Insinööriopiskelijoiden viestintävastaavana vuonna -22, joten JIOn somesta löytyy minun tekemiäni mainoksia viime vuodelta. Päivitin ja ylläpidin myös hallituksen nettisivuja. Nettisivut olivat Wordpress-pohjaiset.
+- Tällä hetkellä toimin Kyberkilta ryn hallituksen jäsenenä. Kyberkilta on Jamkin alaista toimintaa ja järjestämme mm. HackTheBox-kerhoa viikottain.
+- Githubista löytyy myös minun CV ja hakukirje.
+- Turku Distillerylle tehty Wordpress-nettisivu kesällä -22. Tässä linkki Figmaan, miltä sivusto näytti (asiakas on jälkikäteen muutellut sivua): https://www.figma.com/file/OqeZsx2WZba1NJ5c9FARZT/Kaiho?node-id=176%3A144
 
-Turku Distillerylle tehty Wordpress-nettisivu kesällä -22. Tässä linkki Figmaan, miltä sivusto näytti (asiakas on jälkikäteen muutellut sivua): https://www.figma.com/file/OqeZsx2WZba1NJ5c9FARZT/Kaiho?node-id=176%3A144
-
-LinkedIn profiilini: https://www.linkedin.com/in/marika-matalamaki/
+ 
+ # Lisätietoa annan itsestäni mielelläni LinkedInin kautta
+  - LinkedIn profiilini: https://www.linkedin.com/in/marika-matalamaki/
