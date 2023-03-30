@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\obj\Debug\T10 Student.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\obj\Debug\T10 Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\obj\Debug\T10 Student.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\bin\Debug\T10 Student.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\bin\Debug\T10 Student.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\bin\Debug\T10 Student.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\obj\Debug\T10 Student.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T10 Student\obj\Debug\T10 Student.pdb

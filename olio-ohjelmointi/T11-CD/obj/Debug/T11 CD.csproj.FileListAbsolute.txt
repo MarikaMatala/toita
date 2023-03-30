@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\obj\Debug\T11 CD.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\obj\Debug\T11 CD.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\obj\Debug\T11 CD.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\bin\Debug\T11 CD.exe.config
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\bin\Debug\T11 CD.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\bin\Debug\T11 CD.pdb
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\obj\Debug\T11 CD.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T11 CD\obj\Debug\T11 CD.pdb

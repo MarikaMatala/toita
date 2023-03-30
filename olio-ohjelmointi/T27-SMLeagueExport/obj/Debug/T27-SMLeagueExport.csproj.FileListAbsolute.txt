@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\bin\Debug\T27-SMLeagueExport.exe.config
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\bin\Debug\T27-SMLeagueExport.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\bin\Debug\T27-SMLeagueExport.pdb
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\obj\Debug\T27-SMLeagueExport.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\obj\Debug\T27-SMLeagueExport.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\obj\Debug\T27-SMLeagueExport.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\obj\Debug\T27-SMLeagueExport.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T27-SMLeagueExport\obj\Debug\T27-SMLeagueExport.pdb

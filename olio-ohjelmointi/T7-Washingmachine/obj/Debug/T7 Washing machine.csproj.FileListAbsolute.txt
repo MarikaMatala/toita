@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\bin\Debug\T7 Washing machine.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\bin\Debug\T7 Washing machine.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\bin\Debug\T7 Washing machine.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\obj\Debug\T7 Washing machine.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\obj\Debug\T7 Washing machine.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T7 Washing machine\obj\Debug\T7 Washing machine.pdb

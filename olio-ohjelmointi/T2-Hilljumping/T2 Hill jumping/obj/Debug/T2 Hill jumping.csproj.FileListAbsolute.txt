@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\bin\Debug\T2 Hill jumping.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\bin\Debug\T2 Hill jumping.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\bin\Debug\T2 Hill jumping.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T2 Hill jumping\T2 Hill jumping\obj\Debug\T2 Hill jumping.pdb

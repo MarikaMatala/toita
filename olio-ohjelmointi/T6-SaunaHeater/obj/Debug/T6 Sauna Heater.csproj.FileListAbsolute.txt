@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\bin\Debug\T6 Sauna Heater.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\bin\Debug\T6 Sauna Heater.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\bin\Debug\T6 Sauna Heater.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\obj\Debug\T6 Sauna Heater.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\obj\Debug\T6 Sauna Heater.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\obj\Debug\T6 Sauna Heater.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\obj\Debug\T6 Sauna Heater.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T6 Sauna Heater\obj\Debug\T6 Sauna Heater.pdb

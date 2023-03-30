@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\bin\Debug\T5 Names.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\bin\Debug\T5 Names.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\bin\Debug\T5 Names.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\obj\Debug\T5 Names.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\obj\Debug\T5 Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\obj\Debug\T5 Names.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\obj\Debug\T5 Names.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T5 Names\obj\Debug\T5 Names.pdb

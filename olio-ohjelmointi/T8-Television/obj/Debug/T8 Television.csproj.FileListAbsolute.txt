@@ -1,0 +1,16 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\obj\Debug\T8 Television.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\obj\Debug\T8 Television.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\obj\Debug\T8 Television.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\bin\Debug\T8 Television.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\bin\Debug\T8 Television.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\bin\Debug\T8 Television.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\obj\Debug\T8 Television.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T8 Television\obj\Debug\T8 Television.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\bin\Debug\T8 Television.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\bin\Debug\T8 Television.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\bin\Debug\T8 Television.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\obj\Debug\T8 Television.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\obj\Debug\T8 Television.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\obj\Debug\T8 Television.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\obj\Debug\T8 Television.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\ttc8440\T8 Television\obj\Debug\T8 Television.pdb
