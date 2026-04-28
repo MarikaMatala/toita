@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T33 MailBook with Lambda", "T33 MailBook with Lambda.csproj", "{6BE3F795-F9FC-4225-BBCC-631674D4A876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE3F795-F9FC-4225-BBCC-631674D4A876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE3F795-F9FC-4225-BBCC-631674D4A876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE3F795-F9FC-4225-BBCC-631674D4A876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE3F795-F9FC-4225-BBCC-631674D4A876}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC4F9BE-FDA8-4DA5-B53C-0D4819B55A9D}
+	EndGlobalSection
+EndGlobal

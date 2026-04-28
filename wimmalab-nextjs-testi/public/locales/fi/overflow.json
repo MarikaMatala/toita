@@ -1,0 +1,61 @@
+{
+    "page-title": "Overflow",
+    "hero-h1": "WIMMA Lab forum",
+    "hero-p": "Team Overflow's task is to design a forum service for Wimma Lab learning environment based on the open-source Conduit software. The forum includes all the features one would typically expect in a modern forum service. The team is primarily comprised of students in JAMK's ICT engineering program.",
+    
+    "h1-team": "Team introduction",
+    "p-team": "We are developing a functional forum application using the open-source Conduit software. DevSecOps will be managed using the GitLab pipeline and Docker containers. The front end will be implemented in the JavaScript language using React interface builder library. The project will be stored on the CSC-pouta cloud platform. These tools and methods are new to our team so there is plenty of learning to be done.",
+
+    "h2-assignment": "Tehtävät ja tavoitteet",
+    "p-assignment": "Palvelusta tulee olemaan hyötyä yrityksille, opiskelijoille ja ohjaajille. Jos yrityksillä tai yksityisyrittäjillä on jonkinlaisia projekti- tai kehityshaasteita opiskelijoille, he voivat täyttää ja lähettää lomakkeen Future Factoryn tiimille. Kun toimeksianto on hyväksytty FF-tiimin puolesta, FF-tiimin jäsen voi lisätä toimeksiannon palveluumme.",
+    "p2-assignment": "JAMKin Future Factory -kurssin opiskelijat voivat helposti selailla toimeksiantoja ja valita kiinnostavimman toimeksiannon ja siellä auki olevan tiimiroolin itselleen. Opiskelija voi käyttää suodatinta ja lajittelua saadakseen hänelle parhaiten sopivat tehtävät näkyviin. Palvelumme avulla pyrimme rakentamaan tiimejä, jotka koostuvat eri alojen opiskelijoista ja/tai eri tiimiroolin omaavista opiskelijoista.",
+    "p3-assignment": "Ensimmäiseen versioon palvelusta pyrimme lisäämään tärkeimmät ominaisuudet sekä pyrimme toteuttamaan ensimmäisen version siten, että sinne voidaan myöhemmin lisätä helposti muita tarpeellisia ominaisuuksia.",
+    
+    "h2-technologies": "Käytetyt teknologiat",
+    "p-technologies": "Teknologioita, joita käytimme: -Microsoft Power Automate: Ajatuksena oli, että Power Automaten käyttö muutamissa kohdissa olisi kiva lisäys. -Kubernetes & Gitlab CI/CD: Palvelu on tarkoitus laittaa pyörimään kubernetesin päälle, samalla hyödyntäen GitLabin CI/CD pipelinejä. Mysticons oli tässä asiantuntijana ja antoi meille ohjeet. -React: React oli useammalle tiimin jäsenestä tuttu, ja on toimiva kieli, joten sitä käytämme frontissa. - Node.js: Oli myös käytössä frontissa. -.NET Core: ASP.NET Core oli myös useammalle tiimin jäsenestä tuttu, joten käytimme sitä kielenä backendissä. -PostgreSQL: Tietokantaan valitsimme PostgreSQL, koska se on nopea laittaa pystyyn ja helppo käyttää. -Cypress: Aluksi oli suunnitteilla tehdä Robot Frameworkia käyttäen testejä, mutta vaihdoimmekin Cypressiin, koska sillä on muun muassa helppoa tehdä testejä. - Admin-frontendissä käytetyt teknologiat: Node.js, React, Formik, Axios, Material UI, Yup",
+
+    "h2-challenges": "Kohdatut haasteet ja niiden ratkaisu",
+    "h4-challenge1": "Autentikoinnin lisäys",
+    "p-challenge1": "Ajatuksena oli, että saisimme käytettyä Keycloakia palvelun kehitysvaiheessa autentikoinnissa. Haka-tunnistautuminen käyttää Saml2.0 (The Security Assertion Markup Language), ja Keycloak tukee Saml2.0:aa. Näin ollen Keycloakista vaihto Hakaan olisi ollut helpompaa. Saml2.0 lisäys backendin koodiin olikin astetta vaikeampaa. Emme saaneet sitä Keycloakin kanssa toimimaan, joten kokeilimme myös Oktaa. Vaihdon avulla teimme pientä edistystä. Autentikaatio toimi nyt jotenkuten, mutta siinä oli edelleen jotain rikki ja ratkaisua ei ehditä keksiä ajan vähyyden vuoksi. Jouduimme luopumaan tämän teosta, eli nyt ensimmäisessä versiossa ei ole autentikointia mukana.",
+    "h4-challenge2": "Mitä tietoja voimme säilyttää?",
+    "p-challenge2": "Tätä jouduimme pohtimaan paljon suunnitteluvaiheessa. Totesimme, että nyt kehitysvaiheessa käytämme omia koulun sähköposteja tai tekaistuja tunnuksia, mutta palvelun käyttöönotossa tätä varten tulisi tehdä rekisteriseloste. Suunnitteilla olisi, että tiedot, joita otetaan opiskelijoilta on koulun sähköposti, ja tietoa pidettäisiin palvelussa vain max. viikon ajan. Emme itse ehtineet nyt tehdä rekisteriselostetta, joten mahdollisen projektin jatkajan on tehtävä se.",
+    "h4-challenge3": "Kubernetes ja kontit",
+    "p-challenge3": "Konttien laitossa Kuberneteksen päälle ja GitLab CI/CD pipelinejen toimivuudessa kohdattiin haasteita. Erroreita tuli useampi tätä tehtäessä, mutta ne saatiin ratkaistua yhteistyössä Mysticonsin kanssa.",
+
+    "h2-learned": "Yhteenveto",
+    "p-learned": "Kesä meni oikein hyvillä fiiliksillä, ja koko tiimi oppi paljon Gitin käytöstä. Opimme asioita useammista teknologioista: osalle useampi käytössä ollut teknologia oli uutta ja niille joille oli tuttua, he pääsivät parantamaan taitojaan sen teknologian parissa. Power Automate sekä Kubernetes & GitLab CI/CD-yhdistelmä olivat aikalailla koko tiimille uutta. Työskentely tehtiin etänä Discordia käyttäen, ja se onnistui hyvin.",
+
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Veeti Hakala", 
+    "h4-member1": "Team Leader / Junior Developer",
+    "p-member1": "I recently completed my first year of studies. I am aiming to graduate in 2,5 years. I am specializing in full-stack developing. My strengths are time management, working with people and managing large entities. I'm interested in smart technologies and innovative technological solutions.",
+
+    "h3-member2": "Mays Al-Azzawi", 
+    "h4-member2": "Software Developer",
+    "p-member2": "I began my studies in ICT engineering at JAMK in autumn 2021. I always had a passion for technology but as a woman in this field it is hard to raise one's voice and say one enjoys the programming and video gaming industries. That motivates me to help other girls and women to be seen in this field.",
+
+    "h3-member3": "Arho Mahlamäki", 
+    "h4-member3": "Junior Developer",
+    "p-member3": "I study ICT at JAMK. I have been programming as a hobby for many years and finally decided to become a professional. I have a range of experience in different technologies. I'm interested in cyber security, machine learning, 3D printing and whatever else.",
+    
+    "h3-member4": "Maha Sroor", 
+    "h4-member4": "Researcher",
+    "p-member4": "My background in electrical and electronic engineering. I specialize in information systems, digital identity, self-sovereign identity ecosystems, and domain-specific modeling. My main interest now is software development. My focus is the behavioral interaction among containers, DevOps, and clouds in the software ecosystem.",
+    
+    "h3-member5": "Michael Herman", 
+    "h4-member5": "Junior Developer",
+    "p-member5": "I have recently completed my first year of studies in ICT engineering here at JAMK. The studies I have completed so far are rather general. My primary professional interests are cyber security and data analysis.",
+    
+    "h3-member6": "Onni Roivas", 
+    "h4-member6": "Junior Developer",
+    "p-member6": "I just completed my first year of ICT studies at JAMK. I enjoyed the programming courses the most. I found the learning experience to be very gratifying. I do not have any IT experience prior to my studies but I have always been interested in computers and tinkering with them.",
+    
+
+    "h3-member7": "Adham Naderi", 
+    "h4-member7": "Junior Developer",
+    "p-member7": "I have just completed my first year of studies in Information and Communication Technology at JAMK. The experience has been a blast, but at the same time very hard and time-consuming. I am currently learning React. My aim is to be a JavaScript programmer and developer.",
+
+    "h2-twitter": "Follow us on Twitter"
+    
+    }

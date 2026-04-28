@@ -1,0 +1,58 @@
+{
+  "page-title": "Tietoa yrityksille",
+  "h1-for1": "Tietoa",
+  "h1-for2": "yrityksille",
+  "h1": "Tule tutustumaan tuleviin ammattilaisiin",
+  "h1-subheading": "WIMMA Lab tarjoaa yrityksellesi paraatipaikan verkostoitua ja rekrytoida huippuopiskelijoita rennon epävirallisissa tunnelmissa.",
+  
+  "h2-companies": "Hyviä syitä yhteistyöhön",
+  "p-what-is-wimma-lab": "Eli toisin sanoen, miksi yrityksesi kannattaa olla hyvin edustettuna juuri tälle opiskelijajoukolle?",
+  "li-reasons-1": "WIMMA Lab on jo yhdeksän vuoden ajan toiminut projektioppimisympäristö. Aikaisemmin se on tunnettu nimillä Summer Factory (2011 – 2014) ja Challenge Factory (2014 – 2017).",
+  "li-reasons-2": "WIMMA Labin ~25 opiskelijan joukko on kasattu haastatteluprosessin kautta. Joukkueesta koulitaan kesän aikana yrityksellesi loistavia projektityöntekijöitä.",
+  "li-reasons-3": "WIMMA Labin konseptia on kehitetty mm. TIVIT Cloud Software Finland, DIMECC Cyber Trust sekä DIMECC N4S -ohjelmissa.",
+  "li-reasons-4": "Inssiforum myönsi kunniamaininnan WIMMA Labin vuoden 2016 toteutukselle.",
+
+  "h2-how-to-participate": "Tapoja osallistua",
+  "p-how-to-participate": "Tarvitseeko yrityksesi uutta osaamista, tai haluatko saada yrityksesi opiskelijoiden tietoisuuteen? WIMMA Labiin osallistuu monipuolisesti osaajia ensimmäisen vuoden opiskelijoista niihin, joilla on enää harjoittelu ja opinnäytetyö suoritettavana.",
+
+  "h3-assignment": "Toimeksiannot",
+  "p-assignment": "Jos yritykselläsi on jokin uusi idea, tai jotakin jo olemassa olevaa tuotetta halutaan kehittää, voit ehdottaa sitä WIMMA Labiin toimeksiannoksi. Pääset ohjaamaan virtuaaliyritystä, jossa opiskelijat kehittävät ideaa pidemmälle ja valmistavat kesän aikana toimivia prototyyppejä ja proof-of-concepteja.",
+
+  "h3-even-sponsorship": "Tapahtumat",
+  "p-even-sponsorship": "Tarjoa WIMMA Labilaisille vaikka eväsretki puistoon, ja kerro minkälaista on työskennellä yrityksessäsi. Tutustu opiskelijoihin rennon jutustelun merkeissä ja rekrytoi samalla sopivimmat osaajat mukaan tiimiisi – rekrytointihan onnistuu parhaiten vatsa täynnä.",
+
+  "h3-guest-lectures": "Vierailijaluennot",
+  "p-guest-lectures": "Yritysvierailijat voivat tulla WIMMA Labiin jakamaan tietämystään esimerkiksi toimeksiantojen aihepiireihin tai projektityöskentelyyn liittyen. Samalla yritys tulee opiskelijoille tutuksi.",
+
+  "h3-mentoring": "Mentorointi",
+  "p-mentoring": "Tule sparraamaan tulevia mestareita! Voit esimerkiksi avustaa tiimejä haastavien teknisten ongelmien kanssa, jakaa vinkkejä tai innostaa, kannustaa ja rohkaista opiskelijoita eteenpäin. Samalla pääset tutustumaan opiskelijoihin henkilökohtaisemmin.",
+
+  "h2-events": "Tapahtumia, joissa yrityksesi voisi olla edustettuna",
+    
+  "month-events-kettuketer": "Kesäkuu",
+  "h3-events-kettuketer": "KettuKeter",
+  "p-events-kettuketer": "Yrityksesi saa mahdollisuuden esittäytyä ja osallistua illan tapahtumiin sekä tarjota samalla ryhmälle esim. ruokailun ja juomat.",
+
+  "month-events-kaunailta": "Heinäkuu",
+  "h3-events-kaunailta": "Kaunailta",
+  "p-events-kaunailta": "Yrityksesi pääsee isännöimään projektinlopetus-saunailtaa koko porukalle, tarjoten samalla esim. pizzat ja juomat.",
+
+  "p-participating-tips": "Vinkki: Yhdistäkää voimianne! Konsortiot ovat aina tervetulleita.",
+
+  "h2-experiences": "Kokemuksia WIMMA Labista",
+
+  "p-experience-1": "“Lorem ipsum on 1500-luvulta lähtien olemassa ollut teksti, jota käytetään usein täytetekstinä ulkoasun testaamiseen graafisessa suunnittelussa, kun oikeata tekstisisältöä ei vielä ole.”",
+  "p-experience-1-who": "Etunimi Sukunimi",
+  "p-experience-1-company": "Tyopaikka",
+
+  "p-experience-2": "“Lorem ipsum on 1500-luvulta lähtien olemassa ollut teksti, jota käytetään usein täytetekstinä ulkoasun testaamiseen graafisessa suunnittelussa, kun oikeata tekstisisältöä ei vielä ole.”",
+  "p-experience-2-who": "Etunimi Sukunimi",
+  "p-experience-2-company": "Tyopaikka",
+
+  "h2-contact-us": "Ota siis yhteyttä ja onnistu rekrytoinnissa!",
+
+  "h2-social-media": "WIMMA Lab sosiaalisessa mediassa"
+ 
+  
+
+}

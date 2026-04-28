@@ -1,0 +1,67 @@
+# Introduction 
+
+## Definitions of Terms 
+
+### SOC 
+
+A security operations center (SOC) is a command center facility for a team of information technology (IT) professionals with expertise in information security (infosec) who monitors, analyzes, and protects an organization from cyber-attacks and help the company leaders make decisions on the company security policies and investments. 
+
+### SIEM 
+
+SIEM (Security Information and Event Management) is a system and software that includes security information management and analysis and incident detection, management and response. Specifically, SIEM works by collecting logs and event data from Clients and compares the data to sets of rules that determine the level of the threat for the event. If the event threat level rises above a certain level, the event causes an alert in the SIEM. 
+
+### SOAR 
+
+SOAR (Security Orchestration, Automation, and Response) is a system that holds different aspects for incident management. Incident management can be done semi-automatically with the help of artificial intelligence. 
+
+### Kubernetes 
+
+In short, Kubernetes is an orchestrator system for containers. Containers are ex., individual parts of an application that are isolated from the host system and can be moved easily on another container platform. Kubernetes is easily scalable, and workloads can be distributed between different containers aka pods easily. 
+
+### CSC 
+
+CSC – IT Center for Science is a Finnish center of expertise in information technology owned by the Finnish state and higher education institutions. CSC offers virtualization services for students for free. Higher education students can login to my.csc.fi using Haka-login. In WIMMA Lab CSC and cPouta are used to replace paid cloud services such as Google cloud, AWS cloud or Azure cloud. 
+
+## Assignment 
+
+For 2022 WIMMA Lab Mysticons assignment was to build a working SOC with SIEM. Our SOC and SIEM would improve and monitor other WIMMA Lab group projects’ security. Our duty was also to improve Kubernetes installation from previous year and automate its installation and deployment on CSC cloud platform, and to help other teams install Kubernetes based on our guides that they could deploy their applications on top of their Kubernetes clusters. 
+
+## Tools we used 
+
+* Visual Studio Code to edit code and markdown documentation with the following modules: 
+
+* Paste Image to paste clipped images directly into markdown format 
+
+* Remote – WSL to remotely edit files in virtual machines 
+
+* Markdown Preview Enhanced to see live preview of markdown documentation 
+
+* Kitty or Putty to Log in to CSC virtual machines, puttygen to generate SSH keys 
+
+* Kali (image) in Oracle VM Virtualbox to do penetration and vulnerability testing 
+
+* Discord - Daily communication and hybrid meetings in voice chat 
+
+* Discord apollo bot to record work attendance with tags: present, home, unavailable 
+
+* CLI tools 
+
+* Microk8s 
+
+* Docker 
+
+## Architecture explained 
+
+CSC is used to create virtual machines to use. It is free for students. 
+
+Kubernetes is used by our clients (other teams), and the guide is for you to learn what it is, so you know how our clients’ applications are run. Also, for consulting it is important to learn about Kubernetes. 
+
+Prometheus is software that is installed in Kubernetes. Prometheus will send Kubernetes log data to Grafana. Grafana provides a dashboard from the Prometheus logs.  
+
+Wazuh is the main SIEM and will provide a dashboard with security events and work as a HIDS (Host Intrusion Detection System).  Wazuh is installed with elastic stack and Kibana will provide you many ways to edit a dashboard for your liking. Wazuh can be configured many ways and 3rd party software can be added easily. 
+
+Agents are used to send data from hosts to manager. Agents can be installed to multiple hosts and different operating systems to send data to one manager. 
+
+Wazuh agent collects log data from the host and sends it to Wazuh manager. Wazuh agent can collect log data from 3rd party software, for example Suricata. Suricata is an open-source network threat detection engine that provides capabilities including intrusion detection (IDS), intrusion prevention (IPS) and network security monitoring. In our case we use Suricata as NIDS (Network Intrusion Detection System). 
+
+Cortex XDR is a detection and response platform. In our case we didn't have much time to get familiar with Cortex XDR. Wish we had more time to get familiar with it and use all the power of it. We couldn't get all out of it because our environment is so small, and we can't install the agents to users endpoints (their personal computers). We used it to monitor Linux servers and Kubernetes clusters.

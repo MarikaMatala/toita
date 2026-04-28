@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\bin\Debug\net6.0\T37 DICE.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\bin\Debug\net6.0\T37 DICE.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\bin\Debug\net6.0\T37 DICE.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\bin\Debug\net6.0\T37 DICE.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\bin\Debug\net6.0\T37 DICE.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\refint\T37 DICE.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\T37 DICE.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T37-Dice\obj\Debug\net6.0\ref\T37 DICE.dll

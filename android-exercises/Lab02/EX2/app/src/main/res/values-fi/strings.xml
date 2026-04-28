@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="leftTop">vasenYlä</string>
+    <string name="rightTop">oikeaYlä</string>
+    <string name="leftBottom">vasenAla</string>
+    <string name="rightBottom">oikeaYlä</string>
+    <string name="greeting">Hei Android!</string>
+</resources>

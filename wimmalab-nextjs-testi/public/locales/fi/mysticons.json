@@ -1,0 +1,60 @@
+{
+    "page-title": "Mysticons",
+    "hero-h1": "Foundation for WIMMA Lab SOC",
+    "hero-p": "As a team they will be in charge of monitoring the security of other WIMMA Lab projects. Through their SOC (Security operations center) they will monitor log events and other security related issues for the entirety of the WIMMA Lab. Mysticons is operating and developing through the Kubernetes platform, that works in conjuction with their SIEM.",
+    
+    "h1-team": "Team introduction",
+    "p-team-1": "Welcome to the world of Mysticons! We are a group built upon different skill sets, all with interest towards cyber security. Our aim is to create the best possible foundation for WIMMA Lab SOC.",
+    "p-team-2": "Our skills include: leadership, project management, cloud deployment, containers, problem solving, team-working, communication and various other general programming skills.",
+    
+    "h2-assignment": "Project purpose and goal",
+    "p-assignment-1": "Mysticons assignments were WIMMA Lab internal assignments given by Marko “Narsuman” Rintamäki. The goal with Power Automate was to reduce the workload of teachers when the workspaces with needed materials for the course could be created automatically, and students could be as well added to groups automatically. With Kubernetes the goal was to get as far as possible with the development of the cluster and bring DevSecOps methods to the process as was achievable in given time frame.",
+    "p-assignment-2": "The idea behind the Kubernetes cluster is that the cluster could be used to replace paid cloud services in student projects such as WIMMA Lab projects. Adding DevSecOps and the CI/CD pipelines to the cluster students are taught modern ways of software development. Such as automated testing with Robot Framework and SAST and DAST checks in pipelines.",
+   
+
+    "h2-technologies": "Technologies used",
+    "p-technologies": "MS Power Automate, Teams, MS Forms, MS Excel, OneDrive, SharePoint, GitLab, email (Outlook). Kubernetes, DevSecOps, CI/CD pipelines, Robot Framework, script, Ansible. Technologies had to be compatible, in both solutions. In addition, Kubernetes used open-source technologies.",
+
+    "h2-challenges": "Challenges",
+    "p-challenges-1": "The created Power Automate workflow uses features which require Power Automate Premium license, with the license flow creation can be quite simple. However, joining GitLab API to the flow required some knowledge about JSON scripting. Understanding of loops was very helpful when creating alternative event flows for error situations.",
+    "p-challenges-2": "Kubernetes assignment was a huge challenge itself, as the assignment scope was very wide with the DevSecOps twist. Everything in the Kubernetes project was new to the team and processes were created with trial-and-error methods. Strong teamwork was needed to solve challenges and to achieve the accomplished results.",
+    "p-challenges-3": "Due to the scale of the project, Mysticons was able to only scratch the surface during the summer. But with good and thorough documentation is intended to give a good start to those who will join to the project later.",
+
+    "h2-learned": "What we learned",
+    "p-learned": "Mysticons had very strong team spirit during the summer 2021. The team was not afraid of challenges but worked actively to achieve the goals. Although not all goals were achieved, the team learned a lot during the summer.",
+
+
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Toni Peltola", 
+    "h4-member1": "Team Leader / Junior DevSecOps Architect",
+    "p-member1": "ICT engineering student with a huge interest towards cyber security. My aim at WIMMA Lab is to sharpen my knowledge about the topic, and to truly understand your SOC's and SIEM's. With Mysticons this can be possible! My personal interests include practicing Karate, various sources of science fiction, a massive library of books and playing Final Fantasy XIV.",
+    
+    "h3-member2": "Olli Pösö", 
+    "h4-member2": "Junior DevSecOps Developer",
+    "p-member2": "Third-year ICT student at JAMK with specialization in programming. Experience from C#, HTML, PHP, SQL, JavaScript and OutSystems. Living in Jyväskylä. My hobbies include playing video games and enjoying nature. Eager to learn new things about ICT and life!",
+    
+    "h3-member3": "Tero Räsänen", 
+    "h4-member3": "Junior DevSecOps Developer",
+    "p-member3": "Second-year ICT engineering student at JAMK, from Espoo and living in Jyväskylä. I am interested in data analytics and programming, mostly Python. I get excited about new technologies and I like to learn new things. In my free time I like to play video games, cycle and spend time with friends.",
+    
+    "h3-member4": "Kristian Kantola", 
+    "h4-member4": "Junior DevSecOps Architect",
+    "p-member4": "ICT engineering student at JAMK University of Applied Sciences since 2020. Personal enthusiasm and school and hobby-related experience from Full Stack Programming, DevOps, GitLab CI/CD, Docker and Project Management (Agile, ScrumBan) & Leadership. Project Manager of Future Factory Spring/2022 Team 6 ALL STARS.",
+    
+    
+    "h3-member5": "Eero Järvinen", 
+    "h4-member5": "Junior Security Operations Center Architect",
+    "p-member5": "Cyber-security orientation student at JAMK University of Applied Sciences. I have experience with Kali Linux, virtual machines, auditing, log-collection and firewall management. My goals for the summer of WIMMA Lab would be to understand more of the container related security and automated deployment of cluster-solutions. Personal interests and hobbies include looking into new cybersecurity solutions, cycling and path of exile.",
+        
+    "h3-member6": "Mamia Agbese", 
+    "h4-member6": "Junior DevSecOps Developer",
+    "p-member6": "Doctoral researcher at the University of Jyväskylä. I have experience as a researcher, advisory services, retail services, marketing and sales. My goal for the summer in WIMMA Lab is to improve my IT skills and render my expertise where needed. Personal interests and hobbies include watching movies, hiking and exploring eateries.",
+
+    "h3-member7": "Arbaaz Jariwala", 
+    "h4-member7": "Junior DevSecOps Developer",
+    "p-member7": "Research Assitant at the University of Jyväskylä. First-year Masters's student in Information Systems. I have experience in data analysis and project management. With WIMMA Lab I would love to enhance my project management skills and give my help as and when needed. My hobbies are soccer and muay-Thai.",
+
+    "h2-twitter": "Follow us on Twitter"
+    
+    }

@@ -1,0 +1,434 @@
+// -----------------------------------------------------------------------------
+// Home (index.js)
+// -----------------------------------------------------------------------------
+
+.hero--home {
+  background-color: #78F0E6;
+
+  .hero__h1 {
+    margin-top: 2rem;
+    max-width: 480px;
+
+    @include breakpoint(sm) {
+      max-width: 540px;
+    }
+
+    @include breakpoint(md) {
+      max-width: 580px;
+    }
+  }
+}
+.h2-section {
+	margin-bottom: 3rem;
+  text-align: center;
+  
+	@include breakpoint(lg) {
+	  text-align: center;
+	  margin-bottom: 4rem;
+	}
+}
+
+.svg-icon {
+	width: 100px;
+  height: auto;
+}
+
+.company-logo {
+  &__wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+
+    @include breakpoint(sm) {
+      gap: 1rem;
+    }
+
+    @include breakpoint(md) {
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+  }
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: $border-radius;
+  padding: 1.7rem;
+
+  > * {
+    max-width: 9rem;
+  }
+  
+
+  // Make flex items square
+  &::before {
+    content: "";
+    display: inline-block;
+    width: 0;
+    height: 0;
+    padding-bottom: 100%;
+  }
+
+  &--iotitude {
+    background-color: $bg-iotitude;
+  }
+
+  &--overflow {
+    background-color: $bg-overflow;
+  }
+
+  &--mysticons {
+    background-color: $bg-mysticons;
+
+    > * {
+      max-width: 8.5rem;
+    }
+  }
+
+  &--pengwin {
+    background-color: $bg-pengwin;
+  }
+
+}
+
+// =====================
+// Profile cards styling
+// =====================
+.instructors {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+  align-content: flex-start;
+
+&__card {
+	position: relative;
+	overflow: hidden;
+	margin: 10px;
+	width: 320px;
+	height: 380px;
+	border-radius: $border-radius;
+	color: $txt-black;
+	text-align: left;
+	line-height: 1.4em;
+	background-color: $pastel-blue;
+
+}
+&__img {
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 3rem; 
+  max-width: 180px;
+}
+
+&__caption {
+  width: 100%;
+  position: absolute;
+  left: 10%;
+  bottom: 10%;
+}
+
+&__social {
+  max-width: 40px;
+  position: absolute;
+  right: 15%;
+  bottom: 15%
+}
+  
+	p {
+	  font-size: 1.063rem;
+	  margin: 1rem 0 0;
+	}
+  
+	a {
+	  color: $link-social;
+	}
+}
+
+// ===============
+// History styling
+// ===============
+.history {
+  max-width: 1080px;
+  margin: 0 auto;
+
+  &__section-wrapper {
+    position: relative;
+    margin-left: 2.25rem;
+    padding-bottom: 1.25rem;
+
+    @include breakpoint(sm) {
+      margin-left: 2.5rem;
+    }
+
+    &:last-of-type {
+      padding-bottom: 0;
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: -2rem;
+      height: 100%;
+      width: 4px;
+      background-color: $pastel-blue;
+
+      @include breakpoint(sm) {
+        left: -2.5rem;
+      }
+    }
+  }
+
+  &__section {
+    background-color: $pastel-blue;
+    border-radius: $border-radius;
+
+    &::before {
+      content: "";
+      position: absolute;
+      width: 1.2rem;
+      height: 1.2rem;
+      left: -2.5rem;
+      top: 1.8rem;
+      border-radius: 100%;
+      background: $pastel-blue-dark;
+      border: 4px solid #fff;
+      -webkit-box-shadow: 0 0 0 3px $pastel-blue;
+      box-shadow: 0 0 0 3px $pastel-blue;
+
+      @include breakpoint(sm) {
+        left: -3rem;
+      }
+    }
+  }
+
+  // Overwrite default Accordion styles
+  .accordion-wrapper {
+    display: block;
+  }
+
+  .accordion-title {
+    width: 100%;
+    background: none;
+    border: 1px solid transparent;
+
+    & + * {
+      margin: 0;
+    }
+
+    p {
+      font-family: 'Space Grotesk', $fallback-stack;
+      font-weight: 700;
+      font-size: 1.5rem;
+      color: $txt-black;
+
+      &::before {
+        content: '';
+        position: absolute;
+        background-image: url('../../svgs/chevron2.svg');
+        margin: 0.35rem 0 0 -1.75rem;
+      }
+    }
+
+    // Triangle
+    &::before {
+      content: "";
+      position: absolute;
+      left: -0.65rem;
+      top: 1.7rem;
+      width: 0;
+      height: 0;
+      border-top: 12px solid transparent;
+      border-bottom: 12px solid transparent;
+      border-right: 12px solid $pastel-blue;
+    }
+
+    // Triangle shadow
+    &::after {
+      content: "";
+      position: absolute;
+      width: 0;
+      height: 0;
+      z-index: -1;
+    }
+
+    &:hover {
+      border: 1px solid $pastel-blue-dark;
+
+      &::after {
+        left: -0.72rem;
+        top: 1.58rem;
+        border-top: 14px solid transparent;
+        border-bottom: 14px solid transparent;
+        border-right: 14px solid $pastel-blue-dark;
+      }
+    }
+
+    &:focus {
+      border: 1px solid $pastel-blue-dark;
+      outline: none;
+      box-shadow: 0 0 0 1px $pastel-blue-dark;
+    }
+
+    &:focus-within {
+      &::after {
+        left: -0.85rem;
+        top: 1.45rem;
+        border-top: 16px solid transparent;
+        border-bottom: 16px solid transparent;
+        border-right: 16px solid $pastel-blue-dark;
+      }
+    }
+  }
+
+  .accordion-content {
+    padding: 1.25rem;
+
+    @include breakpoint(sm) {
+      padding: 1.5rem;
+    }
+  }
+
+  h3 {
+    margin: 0 0 1rem;
+  }
+
+  .p-intro {
+    margin: 0;
+    max-width: auto;
+    text-align: left;
+
+    &:not(:only-child) {
+      margin-bottom: 1rem;
+    }
+  }
+
+  &__card-wrapper {
+    display: grid;
+    gap: 1rem;
+
+    a:hover, a:focus {
+      outline: none;
+      box-shadow: 0 0 0 1px $pastel-blue-dark;
+      background-color: #e6effc;
+    }
+    
+    @include breakpoint(lg) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
+
+.history-card {
+  border: 1px solid $pastel-blue-dark;
+  border-radius: $border-radius;
+  padding: 1.25rem;
+  height: 100%;
+  transition: all 0.1s ease;
+  
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  background-color: #e6effc;
+
+  @include breakpoint(sm) {
+    flex-direction: row;
+    gap: 1.5rem;
+  }
+
+  &__image {
+    flex-shrink: 0;
+
+    img {
+      border-radius: 100%;
+      overflow: hidden;
+    }
+
+    svg {
+      width: 100px;
+      height: auto;
+      padding: 0.2rem 0.5rem 0.5rem;
+    }
+  }
+
+  h4 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: -0.2px;
+  }
+
+  &__p {
+    font-size: 1rem;
+    line-height: 1.7;
+    margin: 0.5rem 0 0;
+    color: $txt-grey;
+  }
+}
+
+// ================
+// Nutshell styling
+// ================
+.nutshell{
+  &__grid-container {
+    display: grid;
+    width: 100%;
+    margin-bottom: 2rem;
+
+    @include breakpoint(lg) {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 20px;
+
+    }
+  }
+
+  &__box {
+    border-radius: 8px;
+    margin-top: 1rem;
+    padding: 2rem 1.3rem 1rem 1rem;
+    background-color: $nutshell-bg;
+
+    @include breakpoint(lg) {
+      padding: 2rem 1.3rem 1rem 1rem;
+      margin-top: 0;
+    }
+  }
+  &__icon {
+    height: 70px;
+    position:relative;
+    top: 2rem;
+    left: 3rem;
+    transform:translate(-53%,-53%);
+
+    svg {
+      color: $txt-black;
+    }
+    
+    @include breakpoint(lg) {
+      height: 70px;
+      float: left;
+    }
+  }
+
+  &__content {
+    margin-left: 15px;
+    margin-top: 0;
+    color: $txt-black;
+
+    @include breakpoint(lg) {
+      text-align: left;
+      margin-left: 110px;
+      margin-top: 0;
+    }
+
+    h4 {
+      font-size: 1.25rem;
+      letter-spacing: -0.5px;
+      margin: 0 0 0.75rem;
+    }
+
+    p {
+      margin-top: 0.75rem;
+    }
+  }
+}

@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\bin\Debug\T4 Palindrome.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\bin\Debug\T4 Palindrome.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\bin\Debug\T4 Palindrome.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\obj\Debug\T4 Palindrome.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\obj\Debug\T4 Palindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\obj\Debug\T4 Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\obj\Debug\T4 Palindrome.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T4 Palindrome\obj\Debug\T4 Palindrome.pdb

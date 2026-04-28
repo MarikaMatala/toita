@@ -1,0 +1,58 @@
+# Automating CSC and Kubernetes 
+
+We had a task to automate Kubernetes deployment on the cloud with as little user input as possible. Kubernetes platform was to be installed to our clients, other project groups in WIMMA Lab, which we would be monitoring. For cloud, we were using CSC. To automate CSC deployments, there are few ways to do it. We researched the following: 
+
+* OpenStack API 
+
+* Terraform 
+
+* Ansible 
+
+* OpenStack SDK 
+
+We learned to use first 3 of these: OpenStack API, Terraform and Ansible. 
+
+## OpenStack API 
+
+CSC is based on OpenStack that has an API that can sent http requests via different tools (Curl, Postman, Power Automate...) to do tasks on the platform. These tasks can be automated quite straightforwardly with ex. Power Automate or Curl. 
+
+Follow our OpenStackAPI guides here: 
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/Automate%20CSC%20instance%20setup/01-openstackapi/ 
+
+## Terraform 
+
+Terraform is a resource deployment tool that can be eg. used to setup instances in various cloud environments. To automate things with Terraform, a .tf file with its own syntax is written. 
+
+Follow our Terraform guides here: 
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/Automate%20CSC%20instance%20setup/04-terraform/ 
+
+## Ansible 
+
+Ansible is an automation tool for various cases. It is mostly used to deploy the same configuration (apps, tools, users, permissions..) on multiple devices on local or cloud networks. Ansible uses a playbook in simple yaml syntax. For both Terraform and Ansible, a script is provided what is the desired outcome for the deployment, and the tool itself executes the scripts needed to get there. 
+
+Follow our Ansible guides here: 
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/Automate%20CSC%20instance%20setup/02-ansible/ 
+
+## Other useful sources:  
+
+https://docs.csc.fi/cloud/pouta/api-access/ 
+
+https://docs.openstack.org/api-quick-start/ 
+
+https://docs.openstack.org/api-ref/compute/ 
+
+https://registry.terraform.io/providers/terraform-provider-openstack/openstack/latest/docs 
+https://docs.ansible.com/ansible/latest/collections/openstack/cloud/server_module.html 
+
+## Shortcomings 
+
+Ideally the task was to get Kubernetes running on a new cloud instance with just press of a button, but there were some issues to it: 
+
+User needs to have existing project on CSC to authenticate to with above tools. For this, the user needs to login and navigate to CSC API page to look up credentials for the project or download certain credential file to use in the setup. 
+
+Tools can be a bit buggy with the current OpenStack version of CSC. Terraform and ansible scripts might finish with error message even though everything goes smoothly, and the instance will be built to CSC 
+
+Using the API will need multiple http requests to create event just one instance. This can still be automated by running the API requests inside script and getting the required info from each request (eg. authentication token from AUTH request to use on further requests) 

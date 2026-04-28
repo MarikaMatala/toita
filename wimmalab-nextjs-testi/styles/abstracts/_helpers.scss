@@ -1,0 +1,78 @@
+.simple-grid {
+  display: grid;
+  gap: 2rem;
+
+  @include breakpoint(lg) {
+    grid-template-columns: 1fr 1fr;
+    place-content: end;
+    gap: 3rem;
+  }
+
+  h2, h3 {
+    margin-top: -0.25rem;
+  }
+
+  &.margin-b {
+    @include breakpoint(xxl) {
+      margin-bottom: 9rem;
+    }
+  }
+}
+
+.margin-b {
+  margin-bottom: 4rem;
+
+  @include breakpoint(lg) {
+    margin-bottom: 6rem;
+  }
+}
+
+.margin-t {
+  margin-top: 1.5rem;
+}
+
+.p-narrow {
+  max-width: $breakpoint-xs;
+}
+
+// object fades in on load
+.fade-in {
+  opacity: 0;
+  transition: opacity 0.1s ease;
+
+  &.loaded {
+    opacity: 1;
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+.p-bigger {
+  font-size: 1.188rem;
+}
+
+.h2-centered {
+  margin-bottom: 3rem;
+
+  @include breakpoint(lg) {
+    text-align: center;
+    margin-bottom: 4rem;
+  }
+}
+
+// Hidden descriptive titles in SVG links
+.visually-hidden { 
+    border: 0;
+    padding: 0;
+    margin: 0;
+    position: absolute !important;
+    height: 1px; 
+    width: 1px;
+    overflow: hidden;
+    clip: rect(1px 1px 1px 1px); /* IE6, IE7 - a 0 height clip, off to the bottom right of the visible 1px box */
+    clip: rect(1px, 1px, 1px, 1px); /*maybe deprecated but we need to support legacy browsers */
+    clip-path: inset(50%); /*modern browsers, clip-path works inwards from each corner*/
+    white-space: nowrap; /* added line to stop words getting smushed together (as they go onto seperate lines and some screen readers do not understand line feeds as a space */
+}

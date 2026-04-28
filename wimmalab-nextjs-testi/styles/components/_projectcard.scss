@@ -1,0 +1,184 @@
+.project-card {
+  background-color: $pastel-blue;
+  border-radius: $border-radius;
+  padding: 2rem 2rem 0 2rem;
+  margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  
+  @include breakpoint(card) {
+    flex-direction: row;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  &__iotitude {
+    background-color: $bg-iotitude;
+
+    .tag {
+      background-color: #A7E1EE;
+    }
+  }
+
+  &__mysticons {
+    background-color: $bg-mysticons;
+
+    .tag {
+      background-color: #D2C1F2;
+    }
+  }
+
+  &__overflow {
+    background-color: $bg-overflow;
+
+    .tag {
+      background-color: #B4CAF0;
+    }
+  }
+
+  &__pengwin {
+    background-color: $bg-pengwin;
+
+    .tag {
+      background-color: #ffd194;
+    }
+  }
+
+  &__desc {
+    @include breakpoint(card) {
+      margin: 1.5rem 2.5rem 2rem 1rem;
+    }
+
+    @include breakpoint(xl) {
+      margin-right: 4rem;
+    }
+  }
+
+  &__image {
+    flex-grow: 1;
+    width: 100%;
+    margin-top: 2rem;
+
+    @include breakpoint(card) {
+      width: 45%;
+    }
+
+    @include breakpoint(lg) {
+      width: 50%;
+    }
+  }
+
+  small {
+    font-size: 1.063rem;
+    font-weight: bold;
+    letter-spacing: -0.2px;
+    line-height: 1.3;
+    color: $txt-black;
+  }
+
+  h3 {
+    // font-family: 'Inter', $fallback-stack;
+    margin: 0.75rem 0 0;
+    font-weight: 600;
+    letter-spacing: -0.7px;
+    line-height: 1.3;
+    font-size: 1.6rem;
+    color: $txt-black;
+
+    @include breakpoint(xs) {
+      margin-top: 0.85rem;
+      font-size: 1.7rem;
+      letter-spacing: -0.8px;
+    }
+  }
+
+  &__description {
+    font-size: 1rem;
+    color: $txt-black;
+    margin: 1rem 0 1.5rem;
+    display: none;
+
+    @include breakpoint(xs) {
+      display: block;
+    }
+
+    @include breakpoint(card) {
+      display: none;
+    }
+
+    @include breakpoint(lg) {
+      margin: 1rem 0 1.5rem;
+    }
+
+    @include breakpoint(xxl) {
+      display: block;
+    }
+  }
+
+  &__img-outer-container {
+    width: calc(100% + 2rem);
+    height: 16rem;
+    border-radius: $border-radius 0 $border-radius 0;
+    overflow: hidden;
+
+    @include breakpoint(xs) {
+      height: 20rem;
+    }
+
+    @include breakpoint(sm) {
+      height: 24rem;
+    }
+
+    @include breakpoint(card) {
+      height: 29rem;
+    }
+  }
+
+  &__img-inner-container {
+    width: 30rem;
+    height: 16.75rem;
+    border-radius: $border-radius;
+    overflow: hidden;
+
+    @include breakpoint(xs) {
+      width: 36rem;
+      height: 28rem;
+    }
+
+    @include breakpoint(sm) {
+      width: 48rem;
+      height: 38rem;
+    }
+  }
+}
+
+.tag {
+  &__container {
+    margin: 2rem 0 0.5rem;
+
+    @include breakpoint(xs) {
+      margin-top: 1rem;
+    }
+
+    @include breakpoint(card) {
+      margin-top: 2rem;
+    }
+    
+    @include breakpoint(xxl) {
+      margin-top: 1rem;
+    }
+  }
+
+  display: inline-flex;
+  align-items: center;
+  background-color:#A7E1EE;
+  color: $txt-black;
+  font-weight: 500;
+  font-size: 1rem;
+  padding: .4rem .6rem;
+  border-radius: $border-radius;
+  margin-right: .4rem;
+  margin-bottom: .4rem;
+}

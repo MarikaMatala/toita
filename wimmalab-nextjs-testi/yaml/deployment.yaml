@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  labels:
+    app: pengwin
+  name: pengwin
+  namespace: default
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: pengwin
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: pengwin
+    spec:
+      containers:
+      - image: gitlab.labranet.jamk.fi:4567/wimmalab2021/pengwin/wimmalab2021-nextjs:latest
+        imagePullPolicy: Always
+        name: pengwin

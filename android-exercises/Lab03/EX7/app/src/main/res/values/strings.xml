@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First Application With Navigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+</resources>

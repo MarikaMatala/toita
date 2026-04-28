@@ -1,0 +1,39 @@
+// -----------------------------------------------------------------------------
+// Application-wide base styles
+// -----------------------------------------------------------------------------
+
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+figure {
+  margin: 0;
+}
+
+dl, dt, dd {
+  margin: 0;
+  padding: 0;
+}
+
+small {
+  display: inline-block;
+  font-size: 1rem;
+  color: $txt-lightgrey;
+  line-height: 1.55;
+}

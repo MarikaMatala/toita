@@ -1,0 +1,85 @@
+{
+  "page-title": "Tietoa opiskelijoille",
+  "h1-for1": "Tietoa",
+  "h1-for2": "opiskelijoille",
+  "h1": "Opi enemmän yhdessä tekemällä",
+  "h1-subheading": "Hae mukaan WIMMA Labiin ratkaisemaan oikeita toimeksiantoja, kartuttamaan työelämässä tarpeellisia taitoja ja verkostoitumaan alan yrityksiin.",
+  "apply-button": "Hae WIMMA Labiin",
+
+  "h2-students": "Etumatkaa työelämään",
+
+  "p-wimma-lab-offers-1": "WIMMA Lab on ainutlaatuinen tilaisuus verkostoitua yritysten edustajien kanssa ja saada kokemusta työelämän kaltaisesta projektityöskentelystä. WIMMA Labissa kasvatat luottamusta omiin taitoihisi ja parannat asemaasi työmarkkinoilla.",
+  "p-wimma-lab-offers-2": "WIMMA Labissa työskennellään osana virtuaaliyritystä, joita on neljä: IoTitude, Mysticons, Overflow ja Pengwin Media. Virtuaaliyritykset toteuttavat toimeksiantoja, jotka on saatu yrityksiltä, JAMKilta tai WIMMA Labin sisäisesti. Tekemistä riittää sekä projektinhallinnassa että teknisissä ja visuaalisissa tehtävissä.",
+
+  "h3-apply-to-wimma-lab": "Kuinka liityt joukkoon",
+  "p-apply-to-wimma-lab-1": "WIMMA Labin osallistujat valitaan haastatteluilla. Ilmoita osallistumisaikeistasi täyttämällä ilmoittautumislomake, niin saat kutsun haastatteluihin sähköpostiisi. Haastattelussa käydään läpi, mitä haluaisit oppia, mitä jo osaat ja millaisessa roolissa voisit työskennellä WIMMA Labissa. Positiivisella asenteella, motivaatiolla ja halulla oppia uutta on suuri merkitys!",
+  "p-apply-to-wimma-lab-2": "Ilmoittautumislomake avataan vuoden alkupuolella helmi–maaliskuussa. Haastattelut järjestetään huhtikuussa.",
+
+  "h2-roles": "Tehtäviä ja rooleja",
+  "p-roles": "WIMMA Labin toimeksiannot vastaavat todellisia työelämän tarpeita. Mahdolliset roolit vaihtelevat vuosittain toimeksiantojen ja osallistujien kiinnostuksen kohteiden mukaan.",
+
+  "li-roles-frontend": "Frontend-kehitys",
+  "li-roles-backend": "Backend-kehitys",
+  "li-roles-servicedesign": "Palvelumuotoilu",
+
+  "li-roles-testing": "Testausautomaatio",
+
+  "li-roles-uidesign": "UI/UX-suunnittelu",
+  "li-roles-graphicdesign": "Graafinen suunnittelu",
+  "li-roles-photography": "Valokuvaus",
+  "li-roles-some": "Sosiaalinen media",
+
+  "h3-responsibility": "Kaipaatko enemmän vastuuta?",
+  "p-responsibility": "WIMMA Lab tarjoaa erinomaisen tilaisuuden laajentaa omaa osaamista ja opetella johtamistaitoja rennossa ja kannustavassa ympäristössä.",
+  
+  "h3-team-leader": "Tiiminvetäjä",
+  "p-team-leader": "Jokainen WIMMA Labin virtuaaliyritys tarvitsee tiiminvetäjän! Tiiminvetäjä johtaa tiimin työskentelyä ketteriä menetelmiä, kuten Daily Scrumia ja sprinttejä hyödyntäen. Tiiminvetäjänä opit kommunikoimaan paremmin, näkemään projektit uudesta näkökulmasta ja saat arvokasta kokemusta projektin johtamisesta.",
+  
+  "h3-student-coach": "Opiskelijaohjaaja",
+  "p-student-coach": "Haluaisitko oppia toimimaan isomman tiimin ohjauksen parissa? Opiskelijaohjaajalla on tärkeä rooli, sillä hän on WIMMA Labin ruorissa kesä–heinäkuun ajan. Toimenkuvaan kuuluu muun muassa yhteydenpito yrityksiin ja sponsoreihin sekä tapahtumien ja esitysten järjestäminen opiskelijoille. Opiskelijaohjaaja tukee, kannustaa ja opastaa tiiminvetäjiä ja varmistaa, että projektityöskentely sujuu sulavasti.",
+
+  "h2-timeline": "Tapahtumien aikajana",
+
+  "h3-orientation-week": "Orientaatioviikko",
+  "p-orientation-week": "WIMMA Lab käynnistyy! Orientaatioviikolla tutustutaan WIMMA Labin käytänteisiin, toimeksiantoihin ja tiimiläisiin.",
+  "h3-open-doors": "Avoimet ovet",
+  "p-open-doors": "Perinteinen avoimien ovien päivä, jolloin kaikilla kiinnostuneilla on mahdollisuus tulla tutustumaan kesän projekteihin ja tiimeihin.",
+  "h3-kettuketer": "KettuKeter",
+  "p-kettuketer": "WIMMA Labin yhteistyökumppanin sponsoroimaa vapaamuotoisempaa olemista, missä WIMMA Labilaiset ja sen sidosryhmät tutustuvat toisiinsa.",
+  "h3-kaunailta": "Kaunailta",
+  "p-kaunailta": "WIMMA Labin virallinen päätöstilaisuus, johon ovat tervetulleita kaikki WIMMA Labissa ja sen kanssa yhteistyössä toimineet henkilöt.",
+  "h3-retro-day": "Retro Day",
+  "p-retro-day": "Mitä jäi kesältä käteen? Syksyllä järjestettävä esittelypäivä, jolloin käydään läpi WIMMA Labin tuloksia.",
+
+  "month-orientation-week": "Toukokuu",
+  "month-open-doors": "Kesäkuu",
+  "month-kettuketer": "Kesäkuu",
+  "month-kaunailta": "Heinäkuu",
+  "month-retro-day": "Syyskuu",
+
+  "h2-faq": "Kysymyksiä & vastauksia",
+  "p-faq-more-info": "Jäikö jokin vielä epäselväksi? WIMMA Labin Black Book ja muut oppaat antavat kattavan kuvan siitä, mitä WIMMA Labissa tapahtuu.",
+  "button-faq-guides": "Siirry oppaisiin",
+
+  "p-faq-q1": "Saanko WIMMA Labista opintopisteitä?",
+  "p-faq-a1": "Kyllä. Kesälle voi hakea opintotukea.",
+  "p-faq-q2": "Saanko työtodistuksen? Entä suosittelijoita?",
+  "p-faq-a2": "Kyllä!",
+  "p-faq-q3": "Missä vaiheessa opintoja voin osallistua?",
+  "p-faq-a3": "Voit osallistua silloin, kun se sinulle parhaiten sopii. Yleensä osallistujat ovat toisen ja kolmannen vuoden opiskelijoita, mutta myös ensimmäisen vuoden opiskelijat ovat tervetulleita!",
+
+  "p-faq-q4": "Pitääkö minulla olla joitain tiettyjä kursseja suoritettuna, jotta voin osallistua?",
+  "p-faq-a4": "Ei tarvitse: halu oppia uutta ja kehittyä on tärkeintä.",
+  "p-faq-q5": "Miten osallistujat valitaan?",
+  "p-faq-a5": "Haastatteluilla. Tarkoituksena on kartoittaa opiskelijoiden motivaatiota, asennetta ja halua oppia uutta.",
+  "p-faq-q6": "En tiedä, olenko tarpeeksi taitava. Voinko epäonnistua?",
+  "p-faq-a6": "WIMMA Lab on turvallinen ympäristö kehittää taitojaan ja kokeilla uutta. Tulosvastuuta ei ole.",
+
+  "h2-experiences": "Labilaisten kokemuksia",
+
+  "exp1-comment": "Opin WIMMA Labissa paljon mm. projektien vetämisestä, kommunikaatiosta sekä tapahtumien ja palaverien organisoimisesta. Parasta oli WIMMA Labin yhteinen henki, joka syntyi kesän aikana. WIMMA Labiin kannattaa hakea, sillä se oli parasta, mitä koin JAMKin opiskelujeni aikana ja auttoi myöhemmin työllistymisessä.",
+  "exp1-title": "Opiskelijaohjaaja",
+
+  "exp2-comment": "Parasta WIMMA Labissa oli yhdessä tekeminen sekä vierailijat eri yrityksistä. Mielestäni WIMMA Lab on potentiaalisesti hyödyllisempi kuin tavanomainen kesätyöpaikka vastuullisemman roolin ja uusien kontaktien ansiosta.",
+  "exp2-title": "Opiskelijaohjaaja"
+}

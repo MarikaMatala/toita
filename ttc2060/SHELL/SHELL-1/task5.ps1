@@ -1,0 +1,1 @@
+﻿Get-ADuser -filter 'enabled -eq $false' -properties Name, homedirectory -SearchBase 'OU=BES Students,OU=BES,DC=school,DC=domain' |% { Write-Host ("Removing homedir for:" +$_.Name + ",path:" + $_.homedirectory); Remove-Item -Path $_.homedirectory -Force -Recurse }

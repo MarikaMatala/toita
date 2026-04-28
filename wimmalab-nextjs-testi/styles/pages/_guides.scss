@@ -1,0 +1,203 @@
+.mdx {
+  position: relative;
+
+  h2, h3, h4 {
+    font-family: 'Inter', $fallback-stack;
+  }
+
+  h2, h3 {
+    margin: 4rem 0 2rem;
+  }
+
+  h3 {
+    font-size: 1.8rem;
+    letter-spacing: -0.75px;
+  }
+
+  h4 {
+    margin: 2rem 0 1rem;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem 0 2rem;
+  }
+
+  ol {
+    margin: 1rem 0 2rem;
+
+    li {
+      font-size: 1.063rem;
+      line-height: 1.77;
+      padding-left: 0.5rem;
+    }
+  }
+
+  ul li {
+    position: relative;
+    font-size: 1.063rem;
+    padding-left: 1.75rem;
+    line-height: 1.77;
+
+    &::before {
+      content: "";
+      position: absolute;
+      background-color: #c0c4c9;
+      border-radius: 50%;
+      width: 0.375rem;
+      height: 0.375rem;
+      top: 0.7rem;
+      left: 0.3em;
+    }
+  }
+
+  em {
+    display: inline-block;
+    color: $txt-lightgrey;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+  }
+
+  img {
+    margin-top: 1rem;
+    max-width: 100%;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+    th, td {
+      padding: 8px 10px;
+      border: 1px #7e7e7e;
+      border-style: solid solid solid solid;
+    }
+
+
+    thead {
+      tr {
+        background-color: #949494;
+        color: #ffffff;
+        text-align: left;
+      }
+    }
+
+    tbody {
+      tr {
+        border-bottom: 1px solid #dddddd;
+      }
+      tr:nth-of-type(even) {
+        background-color: #f3f3f3;
+      }
+      tr:last-of-type {
+        border-bottom: 2px solid #000000;
+      }
+    }
+  }
+  .switch_chapter {
+    text-align: center;
+    a {
+      color: red;
+      padding: 20px;
+    }
+  }
+}
+
+
+.guides {
+  a {
+    color: $link-color;
+    transition: color 0.15s ease;
+  }
+
+  a:hover, a:focus {
+    color: $link-hover;
+  }
+
+  .navbar {
+    a {
+      color: $txt-white;
+    }
+  }
+
+  &__content {
+    display: grid;
+    --padding: 1rem;
+    grid-template-columns: [full-start] minmax(var(--padding), 1fr) [contain-start] minmax(0, $breakpoint-md) [contain-end] minmax(var(--padding), 1fr) [full-end];
+    padding: 2rem 0 6rem;
+    min-height: calc(100vh - 8rem - 72px);
+
+    p {
+      font-size: 1.063rem;
+    }
+
+    @include breakpoint(sm) {
+      --padding: 3rem;
+      padding-top: 6rem;
+    }
+
+    @include breakpoint(md) {
+      --padding: 4rem;
+    }
+
+    @include breakpoint(lg) {
+      --padding: 2rem;
+    }
+    
+    > * {
+      grid-column: contain;
+    }
+  }
+}
+
+.book {
+  &__container {
+    border: 1px solid #eaeaea;
+    margin-bottom: 1rem;
+    border-radius: $border-radius;
+    padding: 1.5rem;
+    transition: all 0.15s ease;
+
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+
+    @include breakpoint(md) {
+      flex-direction: row;
+    }
+    
+    p {
+      font-size: 1rem;
+      margin-bottom: 1.25rem;
+      color: $txt-grey;
+    }
+  }
+
+  &__img-container {
+    width: 100%;
+    max-width: 10rem;
+  }
+}
+
+.switch-chapter {
+  &__bg-wrapper {
+    background-color: $bg-black;
+    color: $txt-white;
+    height: 8rem;
+    padding: 1rem;
+  }
+
+  max-width: $breakpoint-md;
+  margin: 0 auto;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  a {
+    color: $txt-white;
+  }
+
+}

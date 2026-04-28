@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Album Collection</title>
+  </head>
+  <body>
+    <h1>Album Collection</h1>
+    <div class="result"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.27.2/axios.min.js" integrity="sha512-odNmoc1XJy5x1TMVMdC7EMs3IVdItLPlCeL5vSUPN2llYKMJ2eByTTAIiiuqLg+GdNr9hF6z81p27DArRFKT7A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>
+  const result = document.querySelector('.result')
+  const baseUrl = `${window.location.origin}/api`
+  const fetchVehicles = async () => {
+    try {
+      const { data } = await axios.get(`${baseUrl}/vehicles`)
+
+      const vehicles = data.data.map((vehicle) => {
+        return `<ul><li>${vehicle.make}</li><li>${vehicle.model}</li><li>${vehicle.type}</li></ul>`
+      })
+      result.innerHTML = vehicles.join('')
+    } catch (error) {
+      console.log(error)
+      result.innerHTML = `<div class="alert alert-danger">Could not fetch data</div>`
+    }
+  }
+  fetchVehicles()
+</script>
+</body>
+</html>

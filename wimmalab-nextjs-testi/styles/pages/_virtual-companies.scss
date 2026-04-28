@@ -1,0 +1,260 @@
+// -----------------------------------------------------------------------------
+// Styles for virtual companies
+// -----------------------------------------------------------------------------
+
+.hero {
+  &--virtual-company {
+    .hero__container {
+      width: 100%;
+      max-width: $breakpoint-xxl;
+      align-items: flex-start;
+
+      .hero__h1 {
+        max-width: $breakpoint-lg;
+        text-align: left;
+        margin: 3rem 0 1rem;
+
+        @include breakpoint(sm) {
+          font-size: 3.2rem;
+        }
+      }
+    }
+
+    .p-bigger {
+      max-width: $breakpoint-lg;
+    }
+  }
+
+  &--iotitude {
+    background-color: $bg-iotitude;
+
+    svg {
+      max-width: 132px;
+    }
+  }
+
+  &--mysticons {
+    background-color: $bg-mysticons;
+
+    svg {
+      max-width: 120px;
+    }
+  }
+
+  &--overflow {
+    background-color: $bg-overflow;
+
+    svg {
+      max-width: 132px;
+    }
+  }
+
+  &--pengwin {
+    background-color: $bg-pengwin;
+
+    svg {
+      max-width: 132px;
+    }
+  }
+
+}
+
+.project-info {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 2rem;
+
+  @include breakpoint(xs) {
+    flex-direction: row;
+    gap: 4rem;
+  }
+
+  @include breakpoint(sm) {
+    gap: 8rem;
+  }
+
+  h4 {
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0.75rem 0;
+  }
+}
+
+.img-iotitude {
+  .image__bg {
+    background-color: $bg-iotitude;
+  }
+}
+.img-mysticons {
+  .image__bg {
+    background-color: $bg-mysticons;
+  }
+}
+.img-overflow {
+  .image__bg {
+    background-color: $bg-overflow;
+  }
+}
+.img-pengwin {
+  .image__bg {
+    background-color: $bg-pengwin;
+  }
+}
+
+
+
+// -----------------------------------------------------------------------------
+// General template for cards
+// -----------------------------------------------------------------------------
+.introduction {
+  max-width: $breakpoint-lg;
+  margin: 0 auto;
+}
+
+.team-member__wrapper {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.virtual-card {
+  border-radius: $border-radius;
+  padding: 1.5rem;
+  background-color: $pastel-purple;
+  border-radius: $border-radius;
+
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+
+  @include breakpoint(lg) {
+    padding: 2rem;
+    flex-direction: row;
+    gap: 2rem;
+  }
+
+  h3 {
+    font-family: 'Inter', $fallback-stack;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: -0.8px;
+    margin: 0 0 0.25rem;
+  }
+
+  h4 {
+    margin: 0 0 1.5rem;
+    line-height: 1.55;
+    color: $txt-grey;
+    font-weight: 600;
+    font-size: 1rem;
+  }
+
+  p {
+    margin: 0 0 1rem;
+    font-size: 1rem;
+    color: $txt-black;
+
+    &:not(:first-of-type) {
+      margin: 0;
+    }
+  }
+
+  .profile-image {
+    max-width: 128px;
+    flex-shrink: 0;
+
+    img {
+      border-radius: 100%;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.5rem;
+    li {
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+  }
+  
+  &--iotitude {
+    background-color: $bg-iotitude;
+    
+    a, a:visited {
+      color: $link-iotitude;
+
+      .btn__text::after {
+        background-color: $link-iotitude;
+      }
+    }
+  }
+
+  &--purple {
+    background-color: $pastel-purple;
+
+    a, a:visited {
+      color: $link-mysticons;
+
+      .btn__text::after {
+        background-color: $link-mysticons;
+      }
+    }
+  }
+
+  &--blue {
+    background-color: $pastel-blue;
+
+     a, a:visited {
+      color: $link-overflow;
+
+      .btn__text::after {
+        background-color: $link-overflow;
+      }
+    }
+  }
+
+  &--pengwin {
+    background-color: $bg-pengwin;
+    
+    a, a:visited {
+      color: $link-pengwin;
+
+      .btn__text::after {
+        background-color: $link-pengwin;
+      }
+    }
+  }
+}
+
+.assignment {
+  ul {
+    li {
+      line-height: 1.7;
+      font-size: 1.063rem;
+    }
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Twitter
+// -----------------------------------------------------------------------------
+.twitter-grid {
+  margin: 0 auto 4rem;
+  width: 100%;
+  max-width: 550px;
+  padding: 0 1rem 1rem;
+
+}
+
+.tweet-h2 {
+  padding: 0 1rem;
+}

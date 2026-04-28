@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="button_txt">Klikkaa Minua!</string>
+    <string name="button_clicked_txt">Painiketta Klikattu!</string>
+    <string name="portrait_txt">Pystyasento</string>
+    <string name="landscape_txt">Vaaka-asento</string>
+</resources>

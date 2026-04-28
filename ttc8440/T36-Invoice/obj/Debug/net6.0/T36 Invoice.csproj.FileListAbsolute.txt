@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\bin\Debug\net6.0\T36 Invoice.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\bin\Debug\net6.0\T36 Invoice.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\bin\Debug\net6.0\T36 Invoice.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\bin\Debug\net6.0\T36 Invoice.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\bin\Debug\net6.0\T36 Invoice.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\refint\T36 Invoice.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\T36 Invoice.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T36-Invoice\obj\Debug\net6.0\ref\T36 Invoice.dll

@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\bin\Debug\net6.0\T42 Patterns.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\bin\Debug\net6.0\T42 Patterns.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\bin\Debug\net6.0\T42 Patterns.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\bin\Debug\net6.0\T42 Patterns.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\bin\Debug\net6.0\T42 Patterns.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\refint\T42 Patterns.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\T42 Patterns.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T42-Patterns\obj\Debug\net6.0\ref\T42 Patterns.dll

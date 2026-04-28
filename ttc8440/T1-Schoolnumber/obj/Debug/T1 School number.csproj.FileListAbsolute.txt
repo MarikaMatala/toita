@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\bin\Debug\T1 School number.exe.config
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\bin\Debug\T1 School number.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\bin\Debug\T1 School number.pdb
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\obj\Debug\T1 School number.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\obj\Debug\T1 School number.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\obj\Debug\T1 School number.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\obj\Debug\T1 School number.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T1 School number\obj\Debug\T1 School number.pdb

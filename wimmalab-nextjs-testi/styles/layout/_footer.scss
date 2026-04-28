@@ -1,0 +1,131 @@
+// -----------------------------------------------------------------------------
+// Footer styles
+// -----------------------------------------------------------------------------
+
+.footer {
+  background-color: $bg-black;
+  color: #eee;
+  padding-bottom: 1rem;
+
+  a {
+    color: $link-color;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+
+    > * {
+      margin: 2rem 0;
+      flex: 1;
+    }
+
+    @include breakpoint(xl) {
+      flex-direction: row;
+      justify-content: space-between;
+    }
+  }
+
+  &__logo svg {
+    max-width: 140px;
+  }
+
+  &__p {
+    margin: 2em 0 1.5em;
+    line-height: 1.6;
+  }
+
+  &__social-media-container {
+    list-style-type: none;
+    display: flex;
+    align-items: flex-start;
+    margin: 0;
+    padding: 0;
+
+    a {
+      transition: all 0.2s ease-in-out;
+      margin-left: 0.25rem;
+    }
+  }
+
+  &__title {
+    font-size: 1.063rem;
+    font-weight: 700;
+    color: $txt-white;
+    margin: 0 0 1rem;
+  }
+
+  &__links {
+    list-style-type: none;
+    margin: 0 0 2.5rem;
+    padding: 1rem 0;
+
+    li {
+      padding-bottom: 0.7rem;
+    }
+
+    li a {
+      padding: 2px 4px 2px 0;
+    }
+  }
+
+  &__right-container {
+    margin-bottom: 0;
+
+    @include breakpoint(md) {
+      display: flex;
+
+       > * {
+         flex: 1;
+       }
+    }
+
+    @include breakpoint(md) {
+      gap: 3rem;
+    }
+    
+  }
+
+  &__contact-container {
+    margin-bottom: 0.5rem;
+  }
+
+  &__contact {
+    padding: 1rem 0;
+    margin-bottom: 2.5rem;
+
+    dt {
+      font-weight: 400;
+      margin-bottom: 0.5rem;
+    }
+
+    dd {
+      margin-bottom: 1.5rem;
+    }
+
+    a {
+      padding: 2px 4px 2px 0;
+    }
+  }
+
+  &__jamk {
+    display: flex;
+    justify-content: center;
+
+    @include breakpoint(sm) {
+      justify-content: flex-end;
+    }
+  }
+
+  &__copyright {
+    border-top: 1px solid $txt-black;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    @include breakpoint(sm) {
+      justify-content: flex-start;
+    }
+  }
+}

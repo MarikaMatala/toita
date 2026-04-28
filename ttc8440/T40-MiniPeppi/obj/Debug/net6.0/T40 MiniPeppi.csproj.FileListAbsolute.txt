@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\bin\Debug\net6.0\T40 MiniPeppi.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\bin\Debug\net6.0\T40 MiniPeppi.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\bin\Debug\net6.0\T40 MiniPeppi.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\bin\Debug\net6.0\T40 MiniPeppi.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\bin\Debug\net6.0\T40 MiniPeppi.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\refint\T40 MiniPeppi.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\T40 MiniPeppi.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T40-MiniPeppi\obj\Debug\net6.0\ref\T40 MiniPeppi.dll

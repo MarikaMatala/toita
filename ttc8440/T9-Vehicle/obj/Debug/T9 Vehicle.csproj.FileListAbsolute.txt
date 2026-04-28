@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\bin\Debug\T9 Vehicle.exe.config
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\bin\Debug\T9 Vehicle.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\bin\Debug\T9 Vehicle.pdb
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\obj\Debug\T9 Vehicle.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\obj\Debug\T9 Vehicle.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\obj\Debug\T9 Vehicle.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\obj\Debug\T9 Vehicle.exe
+C:\Users\marik\OneDrive\Työpöytä\olio-ohjelmointi\T9 Vehicle\obj\Debug\T9 Vehicle.pdb

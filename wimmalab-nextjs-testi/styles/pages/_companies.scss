@@ -1,0 +1,274 @@
+// -----------------------------------------------------------------------------
+// Companies
+// -----------------------------------------------------------------------------
+.hero--companies {
+  background-color: $pastel-blue;
+
+  .hero__h1 {
+    max-width: 580px;
+  }
+
+  .hero__for svg {
+    color: $pastel-blue-darker;
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// General template for cards
+// -----------------------------------------------------------------------------
+
+.company-card {
+  border-radius: $border-radius;
+  padding: 1.5rem;
+  background-color: $pastel-blue;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  &--purple {
+    background-color: $pastel-purple;
+    margin-bottom: 1rem;
+  }
+
+  &--pastel-blue {
+    background-color: $pastel-blue;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// What WIMMA Lab is
+// -----------------------------------------------------------------------------
+
+.work-with-us {
+  ul {
+    list-style-type: none;
+    padding-left: 2.2rem;
+  }
+
+  li {
+    margin: 1rem 0;
+    position: relative;
+
+    &::before {
+      position: absolute;
+      left: -2.2rem;
+      top: 0.3rem;
+      width: 1.3rem;
+      height: 1.3rem;
+      padding-left: 0.1rem;
+      padding-bottom: 0.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      content: "✓";
+      border-radius: 100%;
+      font-weight: bold;
+      font-size: 1.25rem;
+      color: $pastel-blue-darker;
+      border: 2px solid $pastel-blue-darker;
+      text-shadow: 1px 2px 0 #fff, -1px -2px 0 #fff;
+    }
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// How to participate
+// -----------------------------------------------------------------------------
+
+.participate {
+  @include breakpoint(lg) {
+    padding-bottom: 10rem;
+  }
+}
+
+.get-involved-card {
+  &__wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 0 1rem;
+  }
+
+  margin-bottom: 1rem;
+
+  > * {
+    padding: 1.5rem;
+    background-color: $pastel-blue;
+    border-radius: $border-radius;
+
+    @include breakpoint(sm) {
+      padding: 2rem;
+    }
+  }
+
+  h4 {
+    margin: 1rem 0 0;
+  }
+
+  p {
+    margin: 0.75rem 0 0;
+  }
+  
+  @include breakpoint(lg) {
+    &__wrapper {
+      flex-flow: column wrap;
+      max-height: 860px;
+    }
+    
+    flex-basis: calc(50% - 0.5rem);
+    max-width: calc(50% - 0.5rem);
+
+    &:nth-child(3) > *,
+    &:nth-child(4) > * {
+      transform: translateY(6rem);
+    }
+  }
+
+  svg {
+    max-width: 90px;
+    color: $txt-black;
+  }
+
+  .icon-events {
+    max-width: 68px;
+  }
+
+  .icon-assignment {
+    max-width: 98px;
+  }
+
+  .icon-mentor {
+    max-width: 84px;
+  }
+}
+
+
+// ==============
+// Events styling
+// ==============
+
+.events {
+  &__month-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-bottom: 0.5rem;
+    margin-top: 2rem;
+    color: $txt-lightgrey;
+  }
+
+  &__month {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin: 0;
+  }
+
+  &__card {
+    padding: 1.5rem;
+    background-color: $pastel-purple;
+    border-radius: $border-radius;
+
+    p {
+      margin: 0.75rem 0 0;
+    }
+  }
+
+  svg {
+    max-width: 20px;
+    max-height: 20px;
+  }
+
+  &__img {
+    margin-bottom: 2rem;
+  }
+
+  .image__bg {
+    background-color: $pastel-purple;
+  }
+}
+
+
+// -----------------------------------------------------------------------------
+// Experiences working with WIMMA Labs
+// -----------------------------------------------------------------------------
+
+.experience {
+  h2 {
+    text-align: center;
+  }
+
+}
+
+
+// -----------------------------------------------------------------------------
+// How to contact us
+// -----------------------------------------------------------------------------
+.contact {
+  .simple-grid {
+    gap: 1rem;
+  }
+}
+
+.contact-card {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  background-color: $pastel-blue;
+  border-radius: $border-radius;
+  padding: 1.5rem;
+
+  @include breakpoint(sm) {
+    padding: 2rem;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  @include breakpoint(lg) {
+    flex-direction: column;
+  }
+
+  @include breakpoint(xxl) {
+    flex-direction: row;
+  }
+
+  &__image-container {
+    margin: 1rem auto 0;
+    min-width: 100px;
+    max-width: 160px;
+    width: 100%;
+
+    @include breakpoint(sm) {
+      margin: 0;
+    }
+
+    img {
+      border-radius: 100%;
+    }
+  }
+
+  p {
+    margin: 0.25rem 0 0;
+  }
+
+  &__details {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 100%;
+
+    &-icon {
+      margin-top: -0.25rem;
+      padding-left: 1rem;
+    }
+
+    a {
+      color: $pastel-blue-darker2;
+    }
+  }
+}

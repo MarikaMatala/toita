@@ -1,0 +1,59 @@
+# How the SOC is managed and monitored  
+
+Most of our time went into the building of the SOC environment, so the actual day to day SOC activities were not within our timeframe. This is mostly for the future WIMMA Lab generations to build, but here are some general ideas on how the SOC should be run.  
+
+## Day-to-day activities 
+
+As Mysticons we work together with the customer to build a security structure to fit their individual needs. On the customers' side we are installing our Agent within their Kubernetes cluster, that's running on a CSC virtual machine. Through this agent we will then gather log data from the events that take place withing the customers built environment. The data collected gets sent to our agent master running within our own SOC environment, and through there they’re sent towards our SIEM implementation. 
+
+Our SIEM is monitored by our security analysts, who then go through the logs and determine the actions that are necessary based on the information the logs have provided. Upon the start of the project, we are working without an additional SOAR system, but this could be implemented in the long run once the procedures of the "SOC rotation" become more familiar to us. Despite this SOAR is a built-in feature within our plans. SOAR is something that future WIMMA Lab generations should look further into.  
+
+As analysts our job is to work on alerts, monitoring, threat management and general awareness. We will write detailed threat analysis reports, educate ourselves on the modern situation within the field of cyber threats and make sure that our customers feel like our service provides the best possible security for them. 
+
+On top of our daily tasks, analyzing and threat hunting, we also work as consultants for our customer teams. We offer help with setting up the environment, how to work with Kubernetes and of course help them out with their cyber security issues. Our aim is to educate and give out knowledge so that the personal aspects of data breaches can be minimized and that human error as a factor becomes less severe. 
+
+## General SOC Roles 
+
+Typically, a SOC is built around tiers. The SOC analysts work within the first tier, and this is where most of the alerts are handled. When something malicious is noticed the alerts are forwarded towards the second tier, where the incident responders work, who then act upon the threat in a necessary fashion. On the third tier work the subject matter experts and threat hunters. On top of this, on the upper level there is both the SOC Manager and CISO (chief information security officer). More on these roles further down.  
+
+More information about SOC roles at:  
+
+https://gbhackers.com/how-to-build-and-run-a-security-operations-center/  
+
+## SOC roles for WIMMA Lab 2022 
+
+Our SOC consists of seven people, who come from varying backgrounds. We have distributed our roles based on these attributes. Also, since we are only seven people strong, we have had to allocate dual roles for everyone. We are aware of the usual tier 1, tier 2 and tier 3 roles, but as we are a small team, these tiers are unnecessary. We at Mysticons must wear many hats and work both on low- and high-level issues, so tiers become non-essential. They might be essential to the future of Mysticons though, and for instance new attending people would be given tier 1 jobs first, which are the analyst jobs.  
+
+We also have two general roles, either analyst or tester. We also have a customer representative for each of the other WIMMA Lab teams. 
+
+The tasks of an analyst are to monitor and report log events and update the playbook, as necessary. 
+
+The tasks of a tester include cyber security related customer tasks, such as penetration testing. 
+
+### SOC Manager & CISO  
+
+The main responsibility of the SOC manager is to lead and manage the SOC center. During WIMMA Lab the SOC manager is also responsible for building SOC strategies, playbook documenting, threat analysis, incident flowcharts and work task distribution. We have attributed the dual role of both SOC Manager and CISO to the same person due to the small nature of our SOC. 
+
+### SOC Architect 
+
+The SOC architect is our main software and hardware specialist. The SOC architect is responsible for researching and building the tools we need to have for a fully operation SOC service. The SOC architect works in close co-operation with the customer contacts and together they form the core of the daily operations within the SOC. 
+
+### IoTitude contact 
+
+The contact is responsible for customer related services for IoTitude. Their responsibility is to set up our SIEM environment (Wazuh, Cortex XDR) for the customers’ Kubernetes cluster. On top of this their responsibility is to help IoTitude with their security needs and consult them for their improvement.  
+
+### Overflow contact 
+
+The contact is responsible for customer-related services for Overflow. Their responsibility is to set up our SIEM environment (Wazuh, Cortex XDR) to the customers’ Kubernetes cluster. On top of this their responsibility is to help IoTitude with their security needs and consult them for their improvement.  
+
+### Pengwin contact 
+
+The contact is responsible for customer-related services for Pengwin. The Situation with Pengwin is different from Overflow and IoTitude, as they do now work with Kubernetes and do not really have that many things to monitor. For this reason, we have not installed our agents on Pengwin's systems. Instead, we are mostly working with them as consultants on more general security issues.  
+
+### Communications manager 
+
+The communications manager is responsible for all outside and inside communications in relatation to the SOC. 
+
+### Documentation manager 
+
+The documentation manager is responsible for our day-to-day documentation. 

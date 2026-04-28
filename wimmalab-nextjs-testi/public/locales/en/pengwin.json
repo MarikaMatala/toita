@@ -1,0 +1,47 @@
+{
+    "page-title": "Pengwin Media",
+    "hero-h1": "Wimmalab.org and Media",
+    "hero-p": "Pengwin Media will do the marketing for WIMMA Lab and open doors event. They will make material for other teams when needed example new colors and mockup for the Haastix. After Open Doors, Pengwin Media will start to update team websites.",
+    
+    "h1-team": "Team introduction",
+    "p-team": "Pengwin Media is responsible for maintaining and updating sites for Mysticon, IoTitude, Overflow and WIMMA Lab. Our team works in cooperation with other virtual companies (Mysticon, IoTitude, Overflow) and produces material and assets for their needs. Pengwin Media also has the responsibility of maintaining and updating WIMMA Lab's social media channels.",
+    
+    "h2-assignment": "Miksi halutaan kehittää? toimeksiantajat?",
+    "p-assignment": "Yhtä tiettyä toimeksiantajaa ei Pengwin medialla ollut. Toimeksiantajaan roolissa WIMMA Labissa toimi JAMK, WIMMA Lab ja muut tiimit. Tähän voi keksiä lisää tekstiä. Tekstejä voi ja pitääkin tyylitellä paremmiksi.......",
+    
+    "h2-technologies": "Käytetyt teknologiat",
+    "p-technologies1": "Päätimme toteuttaa wimmalab.org-sivun uudistuksen Next.js:llä. Next.js on sovelluskehys, joka tekee Reactin käytöstä mielekästä myös perinteisemmissä nettisivuissa. Hyödynsimme oppaat-osiossa markdown-tiedostoja, jotta sisällön päivitys olisi mahdollisimman helppoa ja vaivatonta. Tällaisen ominaisuuden toteuttamiselle löytyi Next.js:stä tukea ja dokumentaatiota. Muita Next.js:n tarjoamia etuja ovat mm. kuvien automaattinen optimointi, tuki lokalisoinnille, hakukoneoptimointi ja nopeat latausajat.",
+    "p-technologies2": "Tyylit toteutimme SCSS:llä, suunnitteluun käytimme Figmaa ja ikonien, logojen ja muun svg-grafiikan toteuttamisessa hyödynsimme Illustratoria.",
+    
+    "h2-challenges": "Haasteet ja niiden ratkaiseminen",
+    "p-challenges1": "Next.js oli suurimmalle osalle Pengwin Medialaisista uusi teknologia, joten opeteltavaa on ollut paljon. Työmäärästä huolimatta saimme toteutettua aiempaa huomattavasti laajemmat, hakukoneoptimoidut ja informatiiviset verkkosivut.",
+    "p-challenges2": "Toinen haaste oli projektin nopea aikataulu: Next.js-projekti päästiin aloittamaan Avoimien ovien jälkeen, sillä toteutimme ensin perinteisillä HTML/CSS -tekniikoilla kevyesti päivitetyt sivut tapahtuman markkinointia varten. Tämän vuoksi täysin uuden verkkosivun suunnitteluun ja toteutukseen oli käytettävissä vain noin puolet kesästä.",
+    
+    "h2-learned": "Yhteenveto",
+    "p-learned": "Verkkosivuston toteuttamisen prosessi ensimmäisestä suunnittelupalaverista valmiin sivuston julkaisemiseen tuli kesän aikana tutuksi. WIMMA Labissa karttuneita taitoja on hyvä lähteä soveltamaan työelämään tai syksyllä jatkuvien opintojen parissa. WIMMA Lab tarjosi erinomaisen mahdollisuuden verkostoitua muihin opiskelijoihin ja työelämän edustajiin, ja oli ainutlaatuisen kokemus, jollaista ei opiskelujen aikana muualta saa.",
+    
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Santtu Korpisalo", 
+    "h4-member1": "Team Leader / Graphic Designer",
+    "p-member1": "Hey! I'm Santtu, an ICT engineering student and I'm currently in my second year. I'm originally from Ähtäri, but I moved to Jyväskylä in 2016. In IT I'm mostly interested in programming and all visual things, in the future I would like to learn more about user interfaces and user experience. I mostly spend my free time enjoying video games or craft beer.",
+
+    "h3-member2": "Marika Matalamäki", 
+    "h4-member2": "Media Producer / Communications",
+    "p-member2": "Hey! I'm Marika Matalamäki and I'm a second year student of Information and Communication Technology. I'm the team leader of Pengwin Media. I have education in the media field. My areas of interest and expertise are e.g. video production, graphic design and other media assignments.",
+    
+    "h3-member3": "Lauri Kuuva", 
+    "h4-member3": "Media Producer",
+    "p-member3": "Hi, I am Lauri! I am a 26-year-old first-year ICT-engineer student at JAMK. My hobbies are playing video games, fishing, and listening to music. Some topics I am interested in include cyber security, electronics, software engineering and development practices. My goal for the future is to work in the cyber security field.",
+    
+    "h3-member4": "Hanna Salminen", 
+    "h4-member4": "Junior Web Developer",
+    "p-member4": "I'm currently second-year ICT student in JAMK. I didn't really have experience in this field before I started the studies. I'm interested in making websites, cyber security and data-analytics. In my free time I play computer games with friends around the world and pets take lots of my time.",
+    
+    "h3-member5": "Dang Le", 
+    "h4-member5": "Junior Web Developer",
+    "p-member5": "Hello! I am from Vietnam and I am a first-year student of ICT programme at JAMK. In the future, I want to be a software engineer or a web developer. As of now, I am interested in front-end development and either UX/UI design or graphic design. I like listening to music and learning foreign languages in my free time.",
+    
+    "h2-twitter": "Follow us on Twitter"
+    
+    }

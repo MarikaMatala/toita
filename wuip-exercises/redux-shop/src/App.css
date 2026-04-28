@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+.Container {
+  margin: 10px;
+  border: 1px dotted gray;
+  width: 350px;
+  height: 400px;
+  float: left;
+  padding: 20px;
+
+}
+.Container img {
+  height: 145px;
+  margin: 0 auto;
+  justify-content: center;
+}
+.dis {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+}
+.button {
+  display: flex;
+  float: right;
+}
+.page {
+  width: 65%;
+  text-align: center;
+}
+.cartPage {
+  width: 30%;
+  text-align: center;
+  display: inline-block;
+  
+}
+
+.header1 {
+  width: 65%;
+  display: flex;
+  float: left;
+  text-align: left;
+  justify-content: left;
+  padding-left: 10px;
+}
+
+.header2 {
+  width: 30%;
+  display: flex;
+  float: right;
+}
+
+.CartContainer {
+  margin: 10px;
+  border: 1px dotted gray;
+  width: 400px;
+  height: 100px;
+  padding: 20px;
+  clear: both;
+  display: inline-block;
+  align-items: center;
+  font-size: 90%;
+  overflow: auto;
+}
+
+.CartContainer img {
+  width: 50px;
+  margin-right: 20px;
+  display: inline-block;
+  
+}
+
+.cartItemText {
+  text-align: right;
+  display: inline-block;
+}
+
+.cartTotal {
+  text-align: center;
+}
+

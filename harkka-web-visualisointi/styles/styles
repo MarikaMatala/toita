@@ -1,0 +1,188 @@
+/* PienentÃ¤Ã¤ sivujen marginaalit yhteen prosenttiin laitteissa, joissa nÃ¤ytÃ¶n leveys on maksimissaan 1080px.  
+Muuttaa myÃ¶s navbarin displayn blockiksi selkeyden vuoksi.  */
+@media only screen and (max-width: 1080px) {
+    article.page {
+        margin-left: 1%;
+        margin-right: 1%;  
+}
+    li {
+        display: block;
+}
+}
+
+/* PuhelinmÃ¤Ã¤rityksistÃ¤ poiketen, tyÃ¶pÃ¶ytÃ¤versiossa on leveÃ¤mmÃ¤t marginaalit ja navbar inline-blockina. */
+@media only screen and (min-width: 1081px) {
+    article.page {
+        margin-left: 17%;
+        margin-right: 17%;
+}
+    li {
+        display: inline-block;
+}   
+}
+
+/* Koko sivustolla fonttina verdana, marginaalit nolla ja fonttikoko 100% ellei erikseen mÃ¤Ã¤ritellÃ¤.*/
+body {
+    font-family: 'verdana';
+    font-size: 100%;
+    margin: 0; 
+}
+
+header{
+    background: rgba(10,10,10, 0.9);    /* Tausta lÃ¤pinÃ¤kyvÃ¤ tumma, tÃ¤tÃ¤ kÃ¤ytetÃ¤Ã¤n myÃ¶s nav, footer ja section.full rakenteissa.*/
+    color: #52B2CF;                     /* Tekstin vÃ¤ri vaaleansininen.*/                
+    text-align: center;                 /* Teksti keskitetty.*/
+    font-size: 130%;                    /* Fonttia isonnettu*/
+    padding: 1em;                       /* TÃ¤ytettÃ¤ lisÃ¤tty otsikon irroittamiseksi muusta sisÃ¤llÃ¶stÃ¤.*/
+    letter-spacing: 0.15em;             /* LisÃ¤tty kirjaimiin vÃ¤listystÃ¤.*/
+    font-family: 'Castoro';             /* Custom fontti 'Castoro'. Tuotu Google Fontsista.*/
+    text-shadow: 2px 2px black;         /* Luo otsikolle varjon.*/
+}
+
+h2 { 
+    text-align: center;
+    color: #52B2CF;
+    text-shadow: 2px 2px black;
+    padding-bottom: 2%;                 /* LisÃ¤tty tÃ¤ytettÃ¤ pohjalle, jotta otsikot erottautuisivat sisÃ¤llÃ¶stÃ¤ paremmin.*/
+    font-size: 160%;
+}
+
+h3, h4{   
+    color: #64A6BD;
+}
+
+h1,h2,h3, h4 {
+    font-family: 'Castoro';
+    text-shadow: 2px 2px black;
+}
+
+h4{
+    font-size: 120%;
+}
+
+nav, footer{   
+    background: rgba(10,10,10, 0.9); 
+    text-align: center;
+    clear: both;                        /* Ei salli floateja nav tai footer elementtien pÃ¤Ã¤llÃ¤. */
+    color: #F0EBEB;
+}
+
+footer {
+    border-radius: 0.75em 0.75em 0em 0em; /* PyÃ¶ristÃ¤Ã¤ elementin ylÃ¤reunat.*/
+}
+
+nav{
+    border-radius: 0em 0em 0.75em 0.75em; /* PyÃ¶ristÃ¤Ã¤ elementin alareunat.*/
+}
+
+img.bg{                   
+  min-width: 1024px;
+  width: 100%;                          /* LeveysmÃ¤Ã¤rityksillÃ¤ saadaan kuva nÃ¤kymÃ¤Ã¤n koko sivun leveydeltÃ¤ ja korkeudelta. */
+  position: fixed;                      /* Kuva pysyy taustalla liikkumattomana. */
+  top: 0;                               
+  left: 0;                              /* Top ja left mÃ¤Ã¤rityksillÃ¤ eliminoidaan valkoiset tyhjÃ¤t tilat. */
+  z-index: -1;                          /* z-indexillÃ¤ kuva nÃ¤kyy kaiken muun sisÃ¤llÃ¶n takana.*/
+}
+
+/* Omakuvan mÃ¤Ã¤ritykset. */
+img.portrait{
+  width: 13em;                          
+  height: auto;                         /* Korkeus skaalautuu leveyden mukaan, joten kuvasuhde sÃ¤ilyy.*/
+  padding-left: 1%;
+  padding-right: 1%;
+  display: block;                       
+  margin-left: auto;
+  margin-right: auto;                   /* Display: block ja automaattiset marginaalit keskittÃ¤vÃ¤t kuvan. */
+}
+
+/* Kuvagallerian kuvien mÃ¤Ã¤ritykset. */
+img.gallery{
+    width: 13%;
+    text-align: center;
+}
+
+/* Linkkivalikon mÃ¤Ã¤ritykset. */
+nav{   
+    margin-bottom: 2%;
+    padding-bottom: 0.5%;
+}
+
+/* Pohjaosion mÃ¤Ã¤ritykset. */
+footer{
+   padding-top: 1%;
+   padding-bottom: 1%;
+   bottom: 0;                           /* Elementti kiinnittyy pohjaan.*/
+}
+
+/* Section -lohkojen mÃ¤Ã¤ritykset*/
+section.full{
+    color: #F0EBEB;
+    border: 1px solid #AC9675;          /* Luo ohuen ruskean reunan.*/
+    word-wrap: break-word;              /* Katkaisee pitkÃ¤t sanat.*/                 
+    padding: 2%;
+    background: rgba(10,10,10, 0.9); 
+    border-radius: 0.75em;              /* PyÃ¶ristÃ¤Ã¤ elementin kaikki reunat.*/
+    margin-bottom: 2%;
+}
+
+/* KeskittÃ¤Ã¤ sisÃ¤llÃ¶n. KÃ¤ytetÃ¤Ã¤n kuvagalleriassa. */
+section.centered{
+    text-align: center;
+}
+
+/* Seuraavat ul ja li a ovet navbarin mÃ¤Ã¤rityksiÃ¤*/
+ul {
+  margin: 0;
+  padding: 0; 
+}
+
+li a {
+  display: block;
+  color: #F0EBEB;
+  text-align: center;
+  padding: 0.344em;
+  text-decoration: none;
+}
+
+/* Muuttaa linkin vÃ¤riÃ¤, kun hiiri on linkin pÃ¤Ã¤llÃ¤. */
+a:hover:not(.active) {
+  background-color: #F0EBEB;
+  color: black;
+}
+
+/* Poistaa linkeistÃ¤ alleviivauksen. */
+a{
+    text-decoration: none;
+}
+
+/* Kursivoitu teksti on vaaleansinistÃ¤. */
+i{
+    color: #64A6BD;
+    font-size: 110%;
+}
+
+/* Linkit ovat vaaleansinisiÃ¤. (Navbarin linkeillÃ¤ omat mÃ¤Ã¤ritykset)*/
+a{
+    color: #64A6BD;
+}
+
+/* NÃ¤ytÃ¶n alareunaan ilmestyvÃ¤n painikkeen mÃ¤Ã¤ritykset.*/
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px; 
+  z-index: 99;
+  border: none; 
+  outline: none; 
+  background: rgba(10,10,10, 0.9); 
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 18px;
+}
+
+#myBtn:hover {
+  background-color: #555; /* */
+}

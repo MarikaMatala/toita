@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\bin\Debug\T22-Cards.exe.config
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\bin\Debug\T22-Cards.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\bin\Debug\T22-Cards.pdb
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\obj\Debug\T22-Cards.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\obj\Debug\T22-Cards.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\obj\Debug\T22-Cards.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\obj\Debug\T22-Cards.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T22-Cards\obj\Debug\T22-Cards.pdb

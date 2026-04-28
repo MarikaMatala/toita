@@ -1,0 +1,30 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\bin\Debug\net6.0\T31 Random.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\bin\Debug\net6.0\T31 Random.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\bin\Debug\net6.0\T31 Random.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\bin\Debug\net6.0\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\bin\Debug\net6.0\T31 Random.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\refint\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\T31 Random.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31 Random\obj\Debug\net6.0\ref\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\bin\Debug\net6.0\T31 Random.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\bin\Debug\net6.0\T31 Random.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\bin\Debug\net6.0\T31 Random.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\bin\Debug\net6.0\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\bin\Debug\net6.0\T31 Random.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\refint\T31 Random.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\T31 Random.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T31-Random\obj\Debug\net6.0\ref\T31 Random.dll

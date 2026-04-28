@@ -1,0 +1,18 @@
+.svg {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    min-height: 100vh;
+    transition: transform 300ms east-in-out;
+}
+
+.a :active {
+    transition: all 1s ease;
+    opacity: 1;
+    fill: black;
+}
+

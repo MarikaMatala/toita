@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\bin\Debug\net6.0\T39 Timer.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\bin\Debug\net6.0\T39 Timer.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\bin\Debug\net6.0\T39 Timer.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\bin\Debug\net6.0\T39 Timer.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\bin\Debug\net6.0\T39 Timer.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\refint\T39 Timer.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\T39 Timer.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T39-Timer\obj\Debug\net6.0\ref\T39 Timer.dll

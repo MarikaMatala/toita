@@ -1,0 +1,58 @@
+{
+    "page-title": "IoTitude",
+    "hero-h1": "Haastix: a stimulating challenge web based game for mobile devices",
+    "hero-p": "IoTitude's assignment is to update Haastix. Haastix is a challenge-based picture game, the core idea is that the game master creates challenges for players (e.g. find a statue in 15 minutes). Players join the game with a code and send a picture of the statue to the game master who then can accept or reject the picture. The player who completes all the challenges first wins.",
+    
+    "h1-team": "Team introduction",
+    "p-team": "IoTitude is a technology company working for the WIMMA Lab project and it is composed of a multi-talent team, from backend developers to marketing specialists. IoTitude is working on an upgraded version of Haastix which is a social game application for creating and managing different challenges. The aim of the project is to upgrade and rebrand the application with more features, quality of life updates and with a better general user feel. For this project, IoTitude uses multiple agile development methods and is able to achieve this because of the diverse talent composition of the team.",
+    
+    "h2-assignment": "Tehtävät",
+    "p-assignment": "IoTitude-tiimillä on tänä kesänä toimeksiantona toteuttaa ”Haastepeli”. Pelin ideana on, että pelimestari keksii haasteen pelaajille, kuten esimerkiksi ”etsi leskenlehti, aikaa 15 minuuttia”. Pelaajat liittyvät koodilla peliin mukaan ja lähettävät Pelimestarille kuvan todistuksena suorituksesta. Pelimestari hylkää tai hyväksyy suoritukset.",
+    "p2-assignment": "Tätä perusideaa lähdetään myöhemmin kesällä vielä kehittelemään pidemmälle. Ideoina on heitetty mm. koneoppimisesta kuvien tunnistuksessa, useampien minipelien haastehuoneista, avatarien generoinnista… vain taivas on rajana.",
+    "p3-assignment": "IoTituden teknologiastäkki näyttää seuraavalta: React Native, NodeJS, PostgreSQL, MinIO, Robot Framework, Jest, Kubernetes ja GitLab CI/CD.",
+
+    "h2-technologies": "Teknologiat",
+    "p-technologies": "IoTituden teknologiastäkki näyttää seuraavalta: React Native, NodeJS, PostgreSQL, MinIO, Robot Framework, Jest, Kubernetes ja GitLab CI/CD.",
+
+    "h2-challenges": "Millaisia haasteita kohdattiin? Miten ne selvitettiin?",
+    "p-challenges": "Kaikki Pengwin median ryhmäläiset eivät olleet käyttäneet Next.js frameworkiä aiemmin, mutta siitä huolimatta niillä saatiin tehtyä hakukoneoptimoidut, tyylikkäät ja informatiiviset verkkosivut. Toinen haaste, oli projektin nopea aikataulu. Pengwin media toteutti ensin vanhemmilla tekniikoilla päivitetymmät sivut WIMMA Labin avoimet ovet-tapahtumaan ja siksi Täysin uuden verkkosivun suunnitteluun ja toteutukseen aikaa oli käytettävissä noin 7 viikkoa.",
+
+    "h2-learned": "Mitä opittiin, millaista oli työskennellä, fiilikset?",
+    "p-learned": "Kesän aikana tutuksi tuli verkkosivuston tekemisen prosessi ensimmäisestä suunnittelupalaverista valmiin verkkosivuston julkaisemiseen. Kesän aikana uutta opittiin paljon ja opittuja taitoja on hyvä lähteä soveltamaan työelämään tai syksyllä takaisin opintojen parissa. WIMMA Lab tarjosi erinomaisen mahdollisuuden verkostoitua muihin opiskelijoihin ja työelämän edustajiin ja ainutlaatuisen kokemuksen, millaista ei opiskelujen aikana muualta saa.",
+
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Ruusu Walkeajärvi", 
+    "h4-member1": "Team Leader / Junior Developer",
+    "p-member1": "I'm a third year ICT engineer student and my focus is on software development; my first profession is electrician and there I found my way into ICT studies. I'm interested in project management and leading projects and teams. I have been tutor in my second year of my studies and that has given me opportunity to learn facilitating and being comfortable speaking in front of people. On my free time I like to play cello and do various fiber arts. I have started implementing my knowledge about coding into designing knitting patterns. I balance sitting all day by training historical fencing and jogging with my dog.",
+    
+    "h3-member2": "Joonas Himmanen", 
+    "h4-member2": "Junior Software Developer",
+    "p-member2-1": "I am a year N Information Systems student at University of Jyväskylä. I specialize in product development, project and marketing management although I consider myself a jack of all trades but master of none. I work at the JYU StartupLab and I am in charge of the startup side of the lab. I am currently working on my master's thesis with the topic “Creating a growth hacking strategy for a technology company on the other side of the planet”.",
+    "p-member2-2": "I have been working on my own startup idea for years now and I now wonder if I will ever be able to deliver a finished product. I also have a degree in Japanology from the University of Stockholm. In my free time, I tinker with computers, play PC games and travel.",
+    
+    "h3-member3": "Petteri Kovanen", 
+    "h4-member3": "Junior Software Developer",
+    "p-member3": "I'm a third-year software engineering student at JAMK. My interests are programming and new technologies. I'm also very interested in learning how different machines work physically. During my free time I like playing video games, coding, working out and hiking. I'm always open to learning new things.  ",
+    
+    "h3-member4": "Roman Kiuru", 
+    "h4-member4": "Junior Software Developer",
+    "p-member4": "I am a first-year student at JAMK, studying Information and Communications Technology. I won't back away when I face a problem that I can not solve straight away. Challenges motivate me to work even harder.",
+    
+    "h3-member5": "Tomi Hyvärinen", 
+    "h4-member5": "Junior Software Developer",
+    "p-member5-1": "I am a third-year student at JAMK, studying Information and Communications Technology. My previous studies include metal work and electrical degrees. I worked for 11 years in a metal company, where I worked as a Foreman and worked closely in 3D-modeling.",
+    "p-member5-2": "I started a new chapter in my life about 4 years ago, when I decided to get new challenges in my life. I ended up studying ICT field because there you will need creativity, logic and a systematic way of thinking. I've always viewed these as a strength and a special point of interest of mine.",
+    "p-member5-3": "School takes up a lot of my time nowadays. When I have free time, I like to spend it with my family, and in the evenings/nights I often go skateboarding or play computer games, such as Aion & Counter Strike.",
+    
+    "h3-member6": "Joni Laukka", 
+    "h4-member6": "Junior Software Developer",
+    "p-member6": "I am a final year software engineering student at JAMK University of Applied Sciences. My strengths are front-end development and databases. I am also interested in virtual reality development. I was also a part of WIMMA Lab 2019's Overflow team.",
+
+    "h3-member7": "Herkko Mehtälä", 
+    "h4-member7": "Junior DevOps Engineer",
+    "p-member7": "Young problem solver, avid hiker and soon-to-be ICT engineer. I'm equipped with a big heart and a desire to learn more. I've done software development before and now in JAMK I'm orienting towards the cyber security field. Some of my hobbies and current interests include:",
+    
+    "h2-twitter": "Follow us on Twitter"
+    
+    }

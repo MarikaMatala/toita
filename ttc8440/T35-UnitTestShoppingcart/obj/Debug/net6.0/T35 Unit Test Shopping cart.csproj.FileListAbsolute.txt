@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\bin\Debug\net6.0\T35 Unit Test Shopping cart.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\bin\Debug\net6.0\T35 Unit Test Shopping cart.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\bin\Debug\net6.0\T35 Unit Test Shopping cart.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\bin\Debug\net6.0\T35 Unit Test Shopping cart.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\bin\Debug\net6.0\T35 Unit Test Shopping cart.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\refint\T35 Unit Test Shopping cart.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\T35 Unit Test Shopping cart.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T35-UnitTestShoppingcart\obj\Debug\net6.0\ref\T35 Unit Test Shopping cart.dll

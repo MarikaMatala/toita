@@ -1,0 +1,151 @@
+{
+  "page-title": "WIMMA Lab",
+  "h1": "Future of project-based learning is here",
+  "h1-subheading": "WIMMA Lab is a learning environment where students solve assignments in multidisciplinary project teams.",
+
+  "h2-nutshell": "WIMMA Lab in a nutshell",
+
+  "h3-nutshell-1": "Challenge focused learning",
+  "p-nutshell-1": "WIMMA Lab is a two and a half month project where students of JAMK University of Applied Sciences participate as trainees. The students solve challenges given by partner companies, research programs or Universities. Goal of the project is to develop production ready solutions.",
+  "h3-nutshell-2": "Power of teamwork",
+  "p-nutshell-2": "At WIMMA Lab, students gain experience on project-based teamwork in multidisciplinary teams. Students solve challenges while learning the dynamics of teamwork and value of collaboration.",
+  "h3-nutshell-3": "Agile development",
+  "p-nutshell-3": "WIMMA Lab is all about building from an idea to execution. Virtual companies use agile development methods, such as Sprints and Kanban boards. However, the goal is not to build quick and dirty demos, but solutions that can be tested in a production environment.",
+  "h3-nutshell-4": "Contacts to businesses",
+  "p-nutshell-4": "In addition to gaining skills, students' transition to working life is supported by company visitors. During the summer, experts on project-related topics consult WIMMA Lab and share their experiences. Students get great opportunities to network with company representatives.",
+
+  "h2-companies": "Virtual companies",
+
+  "h2-assignments": "Assignments",
+
+  "h4-assignments-1": "IoTitude",
+  "h3-assignments-1": "Web-based Challenge Game for Mobile Devices",
+  "p-assignments-1": "IoTitude's assignment is to update Haastix. Haastix is a challenge-based picture game, the core idea is that a game master creates challenges for the players (e.g. find a statue in 15 minutes). Players join the game with a code and send a picture of the statue to the game master, who then can accept or reject the picture. The player who completes all the tasks first wins.",
+
+  "h4-assignments-2": "Mysticons",
+  "h3-assignments-2": "Foundation for WIMMA Lab SOC",
+  "p-assignments-2": "As a team they will be in charge of monitoring the security of other WIMMA Lab projects. Through their SOC (Security Operations Center) they will monitor log events and other security related issues for the entirety of the WIMMA Lab. Mysticons is operating and developing through the Kubernetes platform which works in conjuction with their SIEM.",
+
+  "h4-assignments-3": "Overflow",
+  "h3-assignments-3": "Forum for WIMMA Lab",
+  "p-assignments-3": "Team Overflow's task is to design a forum service for WIMMA Lab learning environment based on the open-source Conduit software. The forum includes all the features one would typically expect in a modern forum service. The team is primarily comprised of students in JAMK's ICT engineering program.",
+
+  "h4-assignments-4": "Pengwin Media",
+  "h3-assignments-4": "Wimmalab.org and Social Media Marketing",
+  "p-assignments-4": "Pengwin Media will do the marketing for WIMMA Lab and Open Doors event. They will make materials for other teams when needed, for example new colors and mockup for the Haastix. After Open Doors, Pengwin Media will start to update team websites.",
+
+  "more-button": "Read more",
+
+  "h2-instructors": "Coaches",
+
+  "h4-instructors-1": "Marko “Narsu” Rintamäki",
+  "p-instructors-1": "Product Owner",
+    "h4-instructors-2": "Eliel Taskinen",
+  "p-instructors-2": "Student Coach",
+  "h4-instructors-3": "Paavo Nelimarkka",
+  "p-instructors-3": "Coach",
+  "h4-instructors-4": "Kari Pitkäniemi",
+  "p-instructors-4": "Coach",
+  "h4-instructors-5": "Teemu Kontio",
+  "p-instructors-5": "Coach",
+
+  "h2-history": "History",
+  "p-big-history": "The WIMMA Lab concept is evolving year by year. It was formerly known as Challenge Factory (2014 - 2017) and Summer Factory (2011 - 2014).",
+
+  "h3-history-2022": "2022",
+
+  "h4-history-2022-1": "IoTitude",
+  "p-history-2022-1": "Used multiple agile development methods to rebrand and update Haastix, a challenge-based picture game. The core idea is that the game master creates challenges for players (e.g. find a statue in 15 minutes) and the one who completes all the challenges first wins.",
+  "h4-history-2022-2": "Overflow",
+  "p-history-2022-2": "Designed a forum service for WIMMA Lab learning environment based on the open-source Conduit software. The forum includes all the features one would typically expect in a modern forum service.",
+  "h4-history-2022-3": "Mysticons",
+  "p-history-2022-3": "Monitored the security of other WIMMA Lab projects and log events as well as other security related issues for the entirety of the WIMMA Lab through their SOC (Security Operations Center). Mysticons was operating and developing through the Kubernetes platform which worked in conjuction with their SIEM.",
+  "h4-history-2022-4": "Pengwin Media",
+  "p-history-2022-4": "Did the marketing for WIMMA Lab and Open Doors event. They made materials for other teams when needed, for example new colors and mockup for the Haastix. After Open Doors, Pengwin Media started to update team websites.",
+  "h4-history-2022-5": "Project Kaiho",
+  "p-history-2022-5": "Project Kaiho was a late entry to the WIMMA Lab assignments. With a group composed of various members of other teams, they built a website for a distillery using WordPress and Elementor.",
+
+  "h3-history-2021": "2021",
+
+  "p-history-2021": "WIMMA Lab was organized in virtual form.",
+
+  "h4-history-2021-1": "IoTitude",
+  "p-history-2021-1": "Designed and developed Haastix mobile game utilizing WebSockets and React Native to encourage players to move around and explore their surroundings. In the game, the Game Master gives players a task and players take pictures that fit the description with their smartphones.",
+  "h4-history-2021-2": "Overflow",
+  "p-history-2021-2": "Developed “Future Factory Marketplace” service for JAMK with React and ASP.NET Core. The service makes it possible for students to familiarize themselves with assignments and team up with like-minded students for a Future Factory course.",
+  "h4-history-2021-3": "Mysticons",
+  "p-history-2021-3": "Created the Kubernetes platform and CI/CD pipelines that allow the services of other teams in WIMMA Lab 2021 to function. Mysticons also developed a forms-sheet with Power Automate that allows teachers to easily create Microsoft Teams channels and GitLab repositories for their courses.",
+  "h4-history-2021-4": "Pengwin Media",
+  "p-history-2021-4": "Re-designed the WIMMA Lab brand by updating logos and creating a new website utilizing Next.js. Pengwin Media collaborated with other virtual companies and provided frontend coding, testing, and mockups. In addition, Pengwin Media kept WIMMA Lab's social media channels updated.",
+
+  "h3-history-2020": "2020",
+  "p-history-2020": "WIMMA Lab was on break due to COVID-19.",
+
+  "h3-history-2019": "2019",
+
+  "h4-history-2019-1": "IoTitude",
+  "p-history-2019-1": "Developed Jonoxi, a scalable queueing service using technologies such as PWA, serverless cloud functions and Firebase. The user can join a queue and track their queueing number.",
+  "h4-history-2019-2": "Overflow",
+  "p-history-2019-2": "Developed a service called TACS for managing airsoft games. Their assignment was to expand on the already existing EHASA-system, which could create and organise games. With the added functionality of TACS, it allowed the game organisers to see players' positions on the map in real time, and to share tactical plans with teams.",
+  "h4-history-2019-3": "Mysticons",
+  "p-history-2019-3": "Built a CI/CD pipeline and improved on the current DevSecOps model, produced software for a robot and extended its features, and made learning music easier through games for JAMK University of Applied Sciences' educational purposes.",
+  "h4-history-2019-4": "Pengwin Media",
+  "p-history-2019-4": "Provided media content, video production, UI design and graphic design for the WIMMA Lab brand and its virtual companies, and helped the other virtual companies with their assignments.",
+
+  "h3-history-year-2018": "2018",
+
+  "h4-history-2018-1": "IoTitude",
+  "p-history-2018-1": "Developed a 'virtual friend' game system for children in a hospital environment using IoT technology.",
+  "h4-history-2018-2": "Overflow",
+  "p-history-2018-2": "Researched indoor positioning and NB-IoT technology that helped them develop the MoTrak tracking system to locate and monitor assistive technology indoors.",
+  "h4-history-2018-3": "Mysticons",
+  "p-history-2018-3": "Developed the RPA-bot to help the work of the secretaries of JAMK University of Applied Sciences and developed a tool to track students' GitLab activity.",
+  "h4-history-2018-4": "Pengwin Media",
+  "p-history-2018-4": "Provided media content, video production, UI design and graphic design for the WIMMA Lab brand and its virtual companies, and helped the other virtual companies with their assignments.",
+
+  "h3-history-2017": "2017",
+  "p-big-history-2017": "The WIMMA Lab brand was established.",
+
+  "h4-history-2017-1": "IoTitude",
+  "p-history-2017-1": "Developed Mood-O-Meter, which collects data on people's moods. The data is collected by an IoT device with buttons for different moods and the statistics could be seen in real time in an user interface.",
+  "h4-history-2017-2": "Overflow",
+  "p-history-2017-2": "Researched the possibilities of SDN networks and developed a system called Puikkari for controlling them.",
+  "h4-history-2017-3": "Mysticons",
+  "p-history-2017-3": "Implemented data analysis methods to visualize data collected by other virtual companies, developed a sensor to identify vacant parking slots using machine learning and created a pipeline for monitoring sensors and IoT devices.",
+  "h4-history-2017-4": "Pengwin Game",
+  "p-history-2017-4": "Developed a mobile game about growing, making and selling wine to support the studies of tourism and catering at JAMK University of Applied Sciences. It was implemented with the Unity game engine.",
+  "h4-history-2017-5": "Pengwin Media",
+  "p-history-2017-5": "Provided media content, video production, UI design and graphic design for the WIMMA Lab brand and its virtual companies, and helped the other virtual companies with their assignments.",
+
+  "h3-history-2016": "2016",
+  "p-big-history-2016": "The concept of virtual companies was established. All of the newly-founded virtual companies worked on developing a sewage monitoring and maintenance system with IoT technologies. The aim was to prevent flooding in city centres and speed up street maintenance.",
+
+  "h4-history-2016-1": "IoTitude",
+  "p-history-2016-1": "Worked as a developer team of measurement, monitoring and management applications. The IoTitude Game team developed an educational game for Social Services and Health Care students.",
+  "h4-history-2016-2": "Overflow",
+  "p-history-2016-2": "Developed an SDN network solution between measurement devices and the cloud.",
+  "h4-history-2016-3": "Kumos",
+  "p-history-2016-3": "Produced the Rancher cloud platform for the containerised components of the system.",
+
+  "h3-history-2015": "2015",
+
+  "h4-history-2015-1": "Contriboard",
+  "p-history-2015-1": "A real-time tool for teams to brainstorm together.",
+  "h4-history-2015-2": "Jarmo",
+  "p-history-2015-2": "A tool for monitoring application load and performance.",
+  "h4-history-2015-3": "Noise generator",
+  "p-history-2015-3": "A tool for simulating and stress testing different network conditions.",
+
+  "h3-history-2014": "2014",
+  "p-big-history-2014": "The course's name changed to Challenge Factory.",
+
+  "h4-history-2014": "Toolbar",
+  "p-history-2014": "Toolbar improved on last year's concept of making a project platform with required tools included, to a platform that lets you collect the tools and sites you need into one place. This made Toolbar a flexible choice for all kinds of projects.",
+
+  "h3-history-2011-2013": "2011-2013",
+  "p-big-history-2011-2013": "The course started as Summer Factory.",
+
+  "h4-history-2011-2013": "FreeNest",
+  "p-history-2011-2013": "A project management platform that provides a collection of tools for smooth project work. FreeNest's features include forums, private chats and file sharing."
+
+}

@@ -1,0 +1,79 @@
+// -----------------------------------------------------------------------------
+// Accordion component
+// -----------------------------------------------------------------------------
+
+
+.accordion-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.accordion-title {
+  text-align: left;
+  background: $pastel-cyan;
+  border: none;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+  & + * {
+    margin-top: 0.75rem;
+  }
+
+  p {
+    position: relative;
+    font-weight: 400;
+    color: $txt-grey;
+    font-size: 1.15rem;
+    letter-spacing: -0.2px;
+    line-height: 1.5;
+    padding: 1.2rem 1.5rem 1.2rem 3rem;
+    margin: 0;
+
+    &::before {
+      content: '';
+      position: absolute;
+      width: 24px;
+      height: 24px;
+      margin: 0.125rem 0 0 -1.75rem;
+      background-image: url('../../svgs/chevron.svg');
+      background-size: 24px 24px;
+      background-repeat: no-repeat;
+      transform: rotate(-90deg);
+      transition: transform 0.2s ease-out;
+    }
+  }
+
+  &.open {
+    border-radius: $border-radius;
+
+    p::before {
+      transform: rotate(0deg);
+    }
+  }
+}
+
+.accordion-item {
+  overflow: hidden;
+  transition: max-height 0.3s cubic-bezier(1, 0, 1, 0), background-color 0.3s ease;
+  height: auto;
+  max-height: 2000px;
+}
+
+.accordion-item.collapsed {
+  max-height: 0;
+  transition: max-height 0.35s cubic-bezier(0, 1, 0, 1);
+}
+
+.accordion-item.hidden {
+  visibility: hidden;
+}
+
+.accordion-content {
+  padding: 0.5rem 2rem 2.5rem;
+
+  .faq__p {
+    color: $txt-lightgrey;
+    font-size: 1.063rem;
+    margin: 0;
+  }
+}

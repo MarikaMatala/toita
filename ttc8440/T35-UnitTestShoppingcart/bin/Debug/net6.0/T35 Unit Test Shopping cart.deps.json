@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "T35 Unit Test Shopping cart/1.0.0": {
+        "runtime": {
+          "T35 Unit Test Shopping cart.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "T35 Unit Test Shopping cart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

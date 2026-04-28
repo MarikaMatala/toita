@@ -1,0 +1,15 @@
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\bin\Debug\net6.0\T32 Delegate.exe
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\bin\Debug\net6.0\T32 Delegate.deps.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\bin\Debug\net6.0\T32 Delegate.runtimeconfig.json
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\bin\Debug\net6.0\T32 Delegate.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\bin\Debug\net6.0\T32 Delegate.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.AssemblyInfoInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.AssemblyInfo.cs
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\refint\T32 Delegate.dll
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.pdb
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\T32 Delegate.genruntimeconfig.cache
+C:\Users\marik\OneDrive\Työpöytä\ttc8440-main-T31-42\T31-42\T32-Delegate\obj\Debug\net6.0\ref\T32 Delegate.dll

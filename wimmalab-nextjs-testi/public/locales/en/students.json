@@ -1,0 +1,85 @@
+{
+  "page-title": "For students",
+  "h1-for1": "For",
+  "h1-for2": "students",
+  "h1": "Get a head start to working life",
+  "h1-subheading": "Participate in WIMMA Lab and you’ll have a unique opportunity to solve real-world problems in a team, network with companies and practise skills you’ll need in your working life.",
+  "apply-button": "Apply to WIMMA Lab",
+
+  "h2-students": "A better way to learn",
+
+  "p-wimma-lab-offers-1": "WIMMA Lab offers many opportunities for students that participate, from networking with representatives of companies to learning a new and modern technology. All of this combined will give you a headstart to your working life and newfound confidence in your work.",
+  "p-wimma-lab-offers-2": "In WIMMA Lab, students work in one of the four virtual companies: IoTitude, Mysticons, Overflow or Pengwin Media. Each one has a different assignment every summer, and there is a role for everybody regardless of your technical background.",
+
+  "h3-apply-to-wimma-lab": "How to participate",
+  "p-apply-to-wimma-lab-1": "Application process is simple and straightforward: you only need to fill out an application form and be yourself in the interview with the coaches. You don't need to know everything, since you are here to learn. The only requirements are motivation, positive attitude and determination to learn as much as possible.",
+  "p-apply-to-wimma-lab-2": "Application form opens at the start of the year, usually around February or March. Interviews are held in April.",
+
+  "h2-roles": "Find your role",
+  "p-roles": "WIMMA Lab's assignments reflect the current demands of the field. Possible roles vary based on the year's assignments and students' personal interests.",
+
+  "li-roles-frontend": "Front-end Development",
+  "li-roles-backend": "Back-end Development",
+  "li-roles-servicedesign": "Service Design",
+
+  "li-roles-testing": "Test Automation",
+
+  "li-roles-uidesign": "UI/UX Design",
+  "li-roles-graphicdesign": "Graphic Design",
+  "li-roles-photography": "Photography",
+  "li-roles-some": "Social Media",
+
+  "h3-responsibility": "Interested in more responsibility?",
+  "p-responsibility": "We encourage personal growth. WIMMA Lab is the perfect chance to practise your skills to be more comfortable as a leader.",
+  
+  "h3-team-leader": "Team Leader",
+  "p-team-leader": "Every team needs a Team Leader! Team Leader guides their team with agile methods, such as Daily Scrum, Sprint Planning, and Sprint Review. They are the contact between coaches and teams, and they strive to keep everyone on the same page. As a Team Leader you learn to see projects from a new perspective and gain valuable experience in leading a project.",
+  
+  "h3-student-coach": "Student Coach",
+  "p-student-coach": "WIMMA Lab couldn't function without Student Coaches! Student Coach is the backbone that keeps the whole operation running smoothly throughout June and July. They are the first contact with the companies and sponsors and they guide and support Team Leaders. They also organise events like Open Doors and KettuKeter.",
+
+  "h2-timeline": "Course timeline",
+
+  "h3-orientation-week": "Orientation week",
+  "p-orientation-week": "WIMMA Lab begins! Students are introduced to WIMMA Lab practices, assignments and also to each other.",
+  "h3-open-doors": "Open Doors",
+  "p-open-doors": "WIMMA Lab's biggest event, where students present their plans for the summer and network with companies. Anyone who's interested can stop by!",
+  "h3-kettuketer": "KettuKeter",
+  "p-kettuketer": "To wind down after Open doors, WIMMA Lab and its stakeholders get together for a fun evening.",
+  "h3-kaunailta": "Kaunailta",
+  "p-kaunailta": "WIMMA Lab’s official closing event. Everyone who has participated in or worked with WIMMA Lab is invited!",
+  "h3-retro-day": "Retro Day",
+  "p-retro-day": "When summer holidays are over, WIMMA Lab gathers one last time to present the final results.",
+
+  "month-orientation-week": "May",
+  "month-open-doors": "June",
+  "month-kettuketer": "June",
+  "month-kaunailta": "July",
+  "month-retro-day": "September",
+
+  "h2-faq": "Questions & answers",
+  "p-faq-more-info": "Want to know more? WIMMA Lab Black Book and other guides give a thorough look into the inner workings of WIMMA Lab.",
+  "button-faq-guides": "To Guides",
+
+  "p-faq-q1": "Do I get ECTS credits in WIMMA Lab?",
+  "p-faq-a1": "Yes, you get ECTS credits and can apply for student allowance.",
+  "p-faq-q2": "Do I get an employment certificate and referees?",
+  "p-faq-a2": "Yes, both.",
+  "p-faq-q3": "At which point of my studies can I participate?",
+  "p-faq-a3": "You can apply at any point of your studies, even right after your first year.",
+
+  "p-faq-q4": "Do I need to take courses or have certain skills before applying?",
+  "p-faq-a4": "No. Your motivation and urge to learn are more important than the skills you already have.",
+  "p-faq-q5": "How are the participants selected?",
+  "p-faq-a5": "By interviews. The purpose of the interviews is to learn about students' motivation and skills.",
+  "p-faq-q6": "I'm not sure if I'm skilled enough. Can I fail?",
+  "p-faq-a6": "WIMMA Lab is a safe environment to try new things and fail. You are here to learn!",
+
+  "h2-experiences": "Comments from participants",
+
+  "exp1-comment": "I learned a lot in WIMMA Lab about leading projects, communication, scheduling meetings and organizing events. I loved the team spirit that formed during the summer. I recommend applying to WIMMA Lab, because it was the best thing I experienced during my studies in JAMK and it helped me get employed.",
+  "exp1-title": "Student Coach",
+
+  "exp2-comment": "Best thing about WIMMA Lab was working together and meeting people from different companies. I believe that WIMMA Lab is potentially more beneficial than a conventional summer job due to wider range of responsibilities and new contacts.",
+  "exp2-title": "Student Coach"
+}

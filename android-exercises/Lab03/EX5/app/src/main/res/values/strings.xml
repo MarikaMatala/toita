@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Launch a Map</string>
+    <string name="info_text">Give a location:</string>
+    <string name="button_text">Show a Map</string>
+</resources>

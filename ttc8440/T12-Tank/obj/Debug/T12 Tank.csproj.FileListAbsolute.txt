@@ -1,0 +1,8 @@
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\bin\Debug\T12 Tank.exe.config
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\bin\Debug\T12 Tank.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\bin\Debug\T12 Tank.pdb
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\obj\Debug\T12 Tank.csproj.AssemblyReference.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\obj\Debug\T12 Tank.csproj.SuggestedBindingRedirects.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\obj\Debug\T12 Tank.csproj.CoreCompileInputs.cache
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\obj\Debug\T12 Tank.exe
+C:\Users\marik\OneDrive\Työpöytä\OLIO-KURSSI\teht\ttc8440\T12 Tank\obj\Debug\T12 Tank.pdb

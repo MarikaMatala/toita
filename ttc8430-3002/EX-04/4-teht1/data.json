@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "name": "Wish you were here",
+            "artist": "Pink Floyd",
+            "length": 4.54
+        },
+        {
+            "id": 2,
+            "name": "Africa",
+            "artist": "Toto",
+            "length": 4.32
+        },
+        {
+            "id": 3,
+            "name": "With Or Without You",
+            "artist": "U2",
+            "length": 4.53
+        },
+        {
+            "id": 4,
+            "name": "Right Here In My Arms",
+            "artist": "HIM",
+            "length": 3.30
+        }
+    ]
+}

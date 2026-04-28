@@ -1,0 +1,138 @@
+{
+  "page-title": "WIMMA Lab",
+  "h1": "Projektipohjaisen oppimisen tulevaisuus on täällä",
+  "h1-subheading": "WIMMA Lab on kesäisin järjestettävä oppimisympäristö, jossa opiskelijat ratkaisevat toimeksiantoja monialaisissa projektiryhmissä.",
+
+  "h2-nutshell": "WIMMA Lab pähkinänkuoressa",
+
+  "h3-nutshell-1": "Haastekeskeinen oppimiskonsepti",
+  "p-nutshell-1": "WIMMA Lab on Marko “Narsu” Rintamäen alkuun saattama projektimalli, jossa opiskelijat pääsevät harjoittelemaan koulussa oppimiaan taitoja oikeiden toimeksiantojen parissa. Opiskelijat saavat myös loistavan mahdollisuuden oppia uusia asioita, joita ei välttämättä koulun penkillä opi.",
+  "h3-nutshell-2": "Tehokasta tiimityöskentelyä",
+  "p-nutshell-2": "Opiskelijat jaetaan virtuaaliyrityksiin, eli pienryhmiin, joissa he toimivat työntekijöinä kahden ja puolen kuukauden ajan. WIMMA Lab on loistava tilaisuus oppia tiimityötaitoja monialaisissa tiimeissä ja ratkaista haasteita yhdessä.",
+  "h3-nutshell-3": "Ketterää kehitystä",
+  "p-nutshell-3": "WIMMA Labissa sovelletaan ketterän kehityksen ideologian mukaisia menetelmiä, kuten esimerkiksi sprinttimallin mukaista työskentelyä sekä Kanban-tauluja. Uusia käytänteitä testataan jatkuvasti ja sulautetaan prosessiin mukaan, jos ne koetaan hyviksi.",
+  "h3-nutshell-4": "Kontakteja työelämään",
+  "p-nutshell-4": "Opiskelijoiden siirtymistä työelämään tuetaan taitojen kartuttamisen lisäksi yritysvierailijoilla. Työn lomassa kuullaan asiantuntijoita projekteihin liittyvistä aiheista sekä tavataan edustajia eri yrityksistä. Opiskelijat pääsevät verkostoitumaan sekä toistensa että yritysten edustajien kanssa.",
+
+  "h2-companies": "Virtuaaliyritykset",
+
+  "h2-assignments": "Toimeksiannot",
+
+  "h4-assignments-1": "IoTitude",
+  "h3-assignments-1": "Web-pohjainen haastepeli mobiililaitteille",
+  "p-assignments-1": "IoTituden toimksiantona on päivittää Haastix -peliä. Haastepelin ideana on, että Pelimestari keksii haasteen pelaajille, esimerkiksi ”etsi leskenlehti, aikaa 15 minuuttia”. Pelaajat liittyvät koodilla peliin mukaan ja lähettävät Pelimestarille kuvan todistuksena suorituksesta. Pelimestari hylkää tai hyväksyy suoritukset.",
+
+  "h4-assignments-2": "Mysticons",
+  "h3-assignments-2": "Perusta WIMMA Lab SOC:ille",
+  "p-assignments-2": "Mysticonsin vastuualueena on valvoa muiden WIMMA Lab projektien kyberturvallisuutta monitoroimalla lokitapahtumia ja muita turvallisuuteen liittyviä asioita. Mysticons operoi Kubernetes -alustalla, joka toimii yhdessä SIEM:in kanssa.",
+
+  "h4-assignments-3": "Overflow",
+  "h3-assignments-3": "WIMMA Lab forum",
+  "p-assignments-3": "Overflow tiimin tehtävänä on suunnitella ja toteuttaa foorumi WIMMA Labille. Foorumi toteutetaan avoimen lähdekoodin Conduit -ohjelmistolla ja tulee sisältämään kaikki ominaisuudet, mitä modernilta vastaavanlaiselta palvelulta voitaisiin odottaa.",
+
+  "h4-assignments-4": "Pengwin Media",
+  "h3-assignments-4": "Wimmalab.org ja Media",
+  "p-assignments-4": "Pengwin Media hoitaa WIMMA Labin markkinoinnin. Tiimin vastuihin kuuluu myös graafisen materiaalin tekeminen muille tiimeille. Avoimien Ovien jälkeen Pengwin Media alkaa päivittämään tiimisivuja",
+
+  "more-button": "Lue lisää",
+
+  "h2-instructors": "Ohjaajat",
+
+  "h4-instructors-1": "Marko “Narsu” Rintamäki",
+  "p-instructors-1": "Product Owner",
+  "h4-instructors-2": "Eliel Taskinen",
+  "p-instructors-2": "Opiskelijaohjaaja",
+  "h4-instructors-3": "Paavo Nelimarkka",
+  "p-instructors-3": "Ohjaaja",
+  "h4-instructors-4": "Kari Pitkäniemi",
+  "p-instructors-4": "Ohjaaja",
+  "h4-instructors-5": "Teemu Kontio",
+  "p-instructors-5": "Ohjaaja",
+
+  "h2-history": "Historia",
+  "p-big-history": "WIMMA Lab -konsepti kehittyy vuosi vuodelta. Aiemmin se tunnettiin nimillä Challenge Factory (2014 – 2017) ja Summer Factory (2011 – 2014).",
+  
+  "h3-history-2021": "2021",
+
+  "p-history-2021": "WIMMA Lab järjestettiin virtuaalisesti.",
+
+  "h4-history-2021-1": "IoTitude",
+  "p-history-2021-1": "Suunnitteli ja toteutti Haastix-mobiilipelin WebSocketteja ja React Nativea käyttäen, joka kannustaa pelaajia liikkumaan ja tutkimaan lähiympäristöä. Pelissä Pelimestari antaa pelaajille tehtävän ja pelaajat ottavat kuvia älypuhelimillaan tehtävässä mainitusta asiasta.",
+  "h4-history-2021-2": "Overflow",
+  "p-history-2021-2": "Kehitti Future Factory Marketplace -palvelun JAMKille Reactilla ja ASP.NET Corella. Palvelun avulla opiskelijoiden on mahdollista tutustua toimeksiantoihin ja tiimiytyä muiden opiskelijoiden kanssa Future Factory -kurssille.",
+  "h4-history-2021-3": "Mysticons",
+  "p-history-2021-3": "Loi Kubernetes-alustan ja CI/CD-pipelinet WIMMA Labille, joiden avulla muiden virtuaaliyritysten palvelut toimivat. Mysticons kehitti myös Power Automate -työkalulla lomakkeen, jolla opettajat voivat luoda kursseille Microsoft Teams -kanavat ja GitLab-repositoriot helposti.",
+  "h4-history-2021-4": "Pengwin Media",
+  "p-history-2021-4": "Toteutti WIMMA Labin brändiuudistuksen uudistamalla logoja ja luomalla uudet verkkosivut käyttäen Next.js:ää. Pengwin Media tuki muita virtuaaliyrityksiä frontend-koodauksessa, testauksessa sekä mockuppien suunnittelussa. Lisäksi Pengwin Media päivitti WIMMA Labin sosiaalisen median kanavia.",
+
+  "h3-history-2020": "2020",
+  "p-history-2020": "WIMMA Lab oli tauolla COVID-19-tilanteen vuoksi.",
+
+  "h3-history-2019": "2019",
+
+  "h4-history-2019-1": "IoTitude",
+  "p-history-2019-1": "Kehitti jonotuspalvelu Jonoxin mobiililaitteille, jolla käyttäjä voi ilmoittautua jonoon ja seurata vuoronumeroaan. Palvelu toteutettiin progressiivisena verkkosovelluksena (PWA) Firebasea ja serverless-funktioita hyödyntäen.",
+  "h4-history-2019-2": "Overflow",
+  "p-history-2019-2": "Kehitti palvelun TACS airsoft-pelien hallintaa varten. Toimeksiantona oli laajentaa olemassaolevaa EHASA-järjestelmää, jolla pystyi luomaan ja hallitsemaan airsoft-pelejä. TACS antoi pelin järjestäjien nähdä pelaajien sijainnit reaaliajassa ja jakaa taktisia suunnitelmia tiimien kanssa.",
+  "h4-history-2019-3": "Mysticons",
+  "p-history-2019-3": "Työsti CI/CD pipelineä ja paransi nykyistä DevSecOps-mallia, kehitti ohjelman robotille ja uudisti sen uusilla toiminnallisuuksilla sekä helpotti sovelluksen avulla musiikin opiskelua Jyväskylän ammattikorkeakoulun opetustarkoituksiin.",
+  "h4-history-2019-4": "Pengwin Media",
+  "p-history-2019-4": "Tuotti mediasisältöä, videoita, grafiikkaa sekä UI-suunnittelua WIMMA Labille ja sen virtuaaliyrityksille, ja auttoi muita virtuaalisia yrityksiä heidän toimeksiannoissaan.",
+
+  "h3-history-year-2018": "2018",
+
+  "h4-history-2018-1": "IoTitude",
+  "p-history-2018-1": "Kehitti 'virtuaalinen ystävä' -pelijärjestelmän lapsille sairaalaympäristöön IoT-teknologiaa hyödyntäen.",
+  "h4-history-2018-2": "Overflow",
+  "p-history-2018-2": "Perehtyi sisätilapaikannukseen ja NB-IoT -teknologiaan, joka auttoi kehittämään MoTrak-seurantajärjestelmän, jolla voidaan paikantaa ja monitoroida avustavaa teknologiaa sisätiloissa.",
+  "h4-history-2018-3": "Mysticons",
+  "p-history-2018-3": "Kehitti RPA-botin helpottamaan Jyväskylän ammattikorkeakoulun sihteerien työtä ja kehitti työkalun, jolla voidaan seurata opiskelijoiden GitLab-aktiivisuutta.",
+  "h4-history-2018-4": "Pengwin Media",
+  "p-history-2018-4": "Tuotti mediasisältöä, videoita, grafiikkaa sekä UI-suunnittelua WIMMA Labille ja sen virtuaaliyrityksille, ja auttoi muita virtuaalisia yrityksiä heidän toimeksiannoissa.",
+
+  "h3-history-2017": "2017",
+  "p-big-history-2017": "WIMMA Lab -brändi luotiin.",
+
+  "h4-history-2017-1": "IoTitude",
+  "p-history-2017-1": "Kehitti Mood-O-Meterin, jolla kerättiin dataa ihmisten mielialoista. Data kerättiin IoT-laitteella, jossa oli painikkeet eri mielialoille ja tilastot pystyi nähdä reaaliaikaisesti käyttöliittymästä.",
+  "h4-history-2017-2": "Overflow",
+  "p-history-2017-2": "Tutki SDN-verkkojen mahdollisuuksia ja kehitti Puikkari-järjestelmän SDN-verkon ohjaukseen.",
+  "h4-history-2017-3": "Mysticons",
+  "p-history-2017-3": "Implementoi data-analyysin menetelmiä visualisoidakseen muiden virtuaaliyritysten keräämää dataa, kehitti sensorin vapaana olevien parkkipaikkojen tunnistamiseen koneoppimista hyödyntäen sekä loi pipelinen sensorien ja IoT-laitteiden monitorointiin.",
+  "h4-history-2017-4": "Pengwin Game",
+  "p-history-2017-4": "Kehitti Unity-pelimoottorin avulla mobiilipelin viinin valmistamisesta ja myymisestä Jyväskylän ammattikorkeakoulun matkailu- ja ravitsemusalan opintojen tueksi.",
+  "h4-history-2017-5": "Pengwin Media",
+  "p-history-2017-5": "Tuotti mediasisältöä, videoita, grafiikkaa sekä UI-suunnittelua WIMMA Labille ja sen virtuaaliyrityksille, ja auttoi muita virtuaalisia yrityksiä heidän toimeksiannoissa.",
+
+  "h3-history-2016": "2016",
+  "p-big-history-2016": "Virtuaaliyritykset luotiin. Kaikki kolme virtuaaliyritystä olivat mukana kehittämässä viemäriverkon seurantajärjestelmää IoT-teknologioin. Tavoitteena oli ehkäistä kaupunkien keskustojen tulvat ja nopeuttaa katujen ylläpitoa.",
+
+  "h4-history-2016-1": "IoTitude",
+  "p-history-2016-1": "Toimi mittaus-, seuranta- ja hallintasovellusten kehittäjänä. IoTitude Game -sisartiimi kehitti opetuksellisen pelin sosiaali- ja terveysalan opiskelijoiden käyttöön.",
+  "h4-history-2016-2": "Overflow",
+  "p-history-2016-2": "Kehitti SDN-verkkoratkaisun mittauslaitteiden ja pilvipalvelun väliin.",
+  "h4-history-2016-3": "Kumos",
+  "p-history-2016-3": "Tuotti Rancher-pilviajoalustan järjestelmän kontitetuille komponenteille.",
+
+  "h3-history-2015": "2015",
+
+  "h4-history-2015-1": "Contriboard",
+  "p-history-2015-1": "Reaaliaikainen työkalu tiimien yhteiseen ideointiin.",
+  "h4-history-2015-2": "Jarmo",
+  "p-history-2015-2": "Työkalu sovelluksen kuormituksen ja suorituskyvyn monitorointiin.",
+  "h4-history-2015-3": "Noise generator",
+  "p-history-2015-3": "Työkalu verkon kuormituksen simulointiin.",
+
+  "h3-history-2014": "2014",
+  "p-big-history-2014": "Kurssin nimi muuttui Challenge Factoryksi.",
+
+  "h4-history-2014": "Toolbar",
+  "p-history-2014": "Edellisten vuosien konseptia kehitettiin Toolbar-nimiseksi alustaksi, joka kokoaa tarvittavat työkalut ja sivustot yhteen paikkaan. Tämä teki Toolbarista joustavan ratkaisun erityyppisille projekteille.",
+
+  "h3-history-2011-2013": "2011-2013",
+  "p-big-history-2011-2013": "Kurssin nimi oli aluksi Summer Factory.",
+
+  "h4-history-2011-2013": "FreeNest",
+  "p-history-2011-2013": "Projektinhallinta-alusta, joka tarjoaa kokoelman työkaluja sujuvaan projektityöskentelyyn. Ominaisuuksia ovat muun muassa foorumit, yksityiset chatit ja tiedostojen jakaminen."
+
+}

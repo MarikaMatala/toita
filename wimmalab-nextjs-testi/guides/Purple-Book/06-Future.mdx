@@ -1,0 +1,57 @@
+# What to focus on in the future 
+
+## Further development of the SOC playbook 
+
+As said earlier, the SOC playbook is always a work in progress. Build upon what we have written and make the playbook look like your own.  Develop threat analysis information further, draw more incident flowcharts, look up best possible ways to respond to threats, investigate case studies and reflect those towards the other WIMMA Lab teams. Also see what we missed and write down your own thoughts. 
+
+## Deeper SOC role specifications 
+
+Understanding the roles that are linked to working in the SOC environment are important as they reflect how the center is run in real life. Clear roles also make it easier for everyone to function within the SOC and thus responsibilities are more easily shared. 
+
+## Filtering alert rules 
+
+Wazuh Dashboard gets filled with alerts with current setup. We get approximately 500 alerts in one hour. There are many “useless” alerts that need to be filtered and not shown on the dashboard. Configure Wazuh and Suricata alerts. 
+
+https://documentation.wazuh.com/current/proof-of-concept-guide/index.html  
+
+## Active response 
+
+Wazuh has a feature called Active Response, where you can add active responses to trigger when certain rule is triggered. Wazuh will automatically do certain tasks, for example block IP address to prevent more alerts from the same IP address. Adding more rules for Wazuh to actively respond. 
+
+https://documentation.wazuh.com/current/user-manual/capabilities/active-response/how-it-works.html  
+
+## Further collaboration with other WIMMA Lab teams 
+
+As the summer 2022 progressed we did not have too many changes to work together with the other WIMMA Lab teams. For the future this collaboration should be deepened, so that our SIEM can start monitoring actual traffic going on in the customer working environments.  
+
+## WIMMA Labs general cybersecurity principles 
+
+This one is a huge project and can all in all be the main focus for future summers. As we are writing this there currently are not any general cyber security principles that cover the whole of the WIMMA Lab. We even got advice from Elisa that each team should have a developer focused only on security issues of their own project.  
+
+## SIEM understanding alerts and other notifications  
+
+Understanding the alerts and notifications we see on our Wazuh and Cortex dashboards helps SOC team to react to them and know how to respond to them. 
+
+https://documentation.wazuh.com/current/learning-wazuh/index.html  
+
+https://suricata.readthedocs.io/en/suricata-6.0.0/rules/  
+
+## Other possible technologies that could be implemented within the SIEM 
+
+We have not researched all the possible technologies that could be implemented into the SIEM to make it run and look smoother. Further research on this topic is highly recommended.  
+
+Falco could be looked into. 
+
+https://falco.org/ 
+
+## Implementing SOAR systems 
+
+As of 2022 there is not any automation regarding the alerts or other SIEM components. Implementation of SOAR elements to the SIEM would require time and effort, which we did not have. Future WIMMA Lab generations should divide their focus on the possibilities that SOAR could provide.  
+
+## Ticketing system for the SOC team 
+
+Implementing a central event ticketing system based on roles for the SOC team. Maybe using TheHive project.  
+
+“TheHive is a scalable 3-in-1 open source and free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. It is the perfect companion to MISP.” 
+
+https://thehive-project.org/  

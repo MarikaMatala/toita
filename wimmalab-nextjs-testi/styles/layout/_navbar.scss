@@ -1,0 +1,501 @@
+// -----------------------------------------------------------------------------
+// Navbar and mobile menu styles
+// -----------------------------------------------------------------------------
+
+$navbar-height: 72px;
+
+.navbar {
+  background-color: $bg-black;
+  height: $navbar-height;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 1rem;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+
+  @include breakpoint(sm) {
+    padding: 0 1.5rem;
+  }
+
+  &__container {
+    width: 100%;
+    max-width: $breakpoint-xxl;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  a, a:active, a:visited {
+    color: $txt-white;
+  }
+
+  &__logo {
+    z-index: 999;
+    padding: 0.25rem;
+
+    svg {
+      width: 40px;
+      height: 20px;
+      margin-top: 0.1rem;
+    }
+  }
+}
+
+// ==============
+// Hamburger menu
+// ==============
+$bar-width: 27px;
+$bar-height: 2px;
+$bar-spacing: 8px;
+
+.mobile-menu {
+  display: block;
+
+  @include breakpoint(sm) {
+    display: none;
+  }
+
+  &__button {
+    cursor: pointer;
+    position: relative;
+    z-index: 998;
+
+    padding: 0.5rem 0.5rem 0.5rem 0.6rem;
+    margin: 0;
+    border: none;
+    border-radius: 8px;
+    background: transparent;
+
+    &:focus {
+      outline: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    &:hover,
+    &:active {
+      border: none;
+      outline: none;
+    }
+  }
+}
+
+.hamburger,
+.hamburger:after,
+.hamburger:before {
+  width: $bar-width;
+	height: $bar-height;
+  border-radius: 8px;
+}
+
+.hamburger {
+  &__wrapper {
+    width: $bar-width;
+    height: $bar-height + $bar-spacing*2;
+  }
+
+	transform: translateY($bar-spacing);
+	background: rgba(255, 255, 255, 1);
+	transition: all 0ms 300ms;
+  
+  &.animate {
+    background: rgba(255, 255, 255, 0); 
+  }
+}
+
+.hamburger:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	bottom: $bar-spacing;
+	background: rgba(255, 255, 255, 1);
+	transition: bottom 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.hamburger:after {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: $bar-spacing;
+	background: rgba(255, 255, 255, 1);
+	transition: top 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.hamburger.animate:after {
+	top: 0;
+	transform: rotate(45deg);
+	transition: top 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.hamburger.animate:before {
+	bottom: 0;
+	transform: rotate(-45deg);
+	transition: bottom 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 300ms 300ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+// =============================
+// Mobile menu overlay container
+// =============================
+@keyframes m-links {
+  0% {
+    opacity: 0;
+    transform: translateX(-20%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.mobile-menu {
+  &__container {
+    background-color: $bg-black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 99;
+    padding: 7rem 1rem 2rem;
+    opacity: 0;
+    visibility: hidden;
+    transform: translate3d(0, -100%, 0);
+    transition: all 0.55s cubic-bezier(0.77, 0, 0.175, 1);
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    li {
+      opacity: 0;
+    }
+  }
+
+  &__container.open {
+    transform: translateZ(0);
+    max-height: 100vh;
+    opacity: 1;
+    visibility: visible;
+
+    ul.mobile-menu__main-links {
+      opacity: 1;
+    }
+
+    .mobile-menu__main-links li {
+      animation-name: m-links;
+      animation-duration: 0.5s;
+      animation-iteration-count: 1;
+      animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      animation-fill-mode: forwards;
+
+      &:nth-child(1) {
+        animation-delay: 0.1125s;
+      }
+      &:nth-child(2) {
+        animation-delay: 0.175s;
+      }
+      &:nth-child(3) {
+        animation-delay: 0.2375s;
+      }
+      &:nth-child(4) {
+        animation-delay: 0.290s;
+      }
+      &:nth-child(5) {
+        animation-delay: 0.320s;
+      }
+    }
+
+    ul.mobile-menu__team-links {
+      opacity: 1;
+      margin-top: 2rem;
+    }
+
+    .mobile-menu__team-links li {
+      animation-name: m-links;
+      animation-duration: 0.5s;
+      animation-iteration-count: 1;
+      animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      animation-fill-mode: forwards;
+
+      &:nth-child(1) {
+        animation-delay: 0.2425s;
+      }
+      &:nth-child(2) {
+        animation-delay: 0.2425s;
+      }
+      &:nth-child(3) {
+        animation-delay: 0.2425s;
+      }
+      &:nth-child(4) {
+        animation-delay: 0.2425s;
+      }
+    }
+
+    ul.mobile-menu__locale-links {
+      opacity: 1;
+      margin-top: 2.5rem;
+    }
+
+    .mobile-menu__locale-links li {
+      animation-name: m-links;
+      animation-duration: 0.5s;
+      animation-iteration-count: 1;
+      animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      animation-fill-mode: forwards;
+
+      &:nth-child(1) {
+        animation-delay: 0.2725s;
+      }
+    }
+
+    ul.mobile-menu__social-links {
+      opacity: 1;
+    }
+
+    .mobile-menu__social-links li {
+      animation-name: m-links;
+      animation-duration: 0.5s;
+      animation-iteration-count: 1;
+      animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+      animation-fill-mode: forwards;
+      
+      &:nth-child(1) {
+        animation-delay: 0.3s;
+      }
+      &:nth-child(2) {
+        animation-delay: 0.32s;
+      }
+      &:nth-child(3) {
+        animation-delay: 0.34s;
+      }
+      &:nth-child(4) {
+        animation-delay: 0.35s;
+      }
+      &:nth-child(5) {
+        animation-delay: 0.36s;
+      }
+    }
+  }
+
+  &__container-links {
+    height: 100%;
+    max-height: 100vh;
+    overflow-y: scroll;
+  }
+
+  &__container-socials {
+    margin-top: 2rem;
+  }
+}
+
+// ===========================
+// Mobile menu content styling
+// ===========================
+.mobile-menu {
+  &__main-links {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    li a {
+      display: block;
+      margin: 0.25rem 0;
+      padding: 0.5rem;
+      font-size: 1.5rem;
+      color: $txt-white;
+      text-decoration: none;
+      font-weight: 400;
+      letter-spacing: -0.5px;
+    }
+  }
+
+  &__team-links {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    li a {
+      display: block;
+      margin: 0;
+      padding: 0.5rem;
+      font-size: 1.25rem;
+      color: $txt-white;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+  &__locale-links {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    li a {
+      display: block;
+      margin: 0;
+      padding: 0.5rem;
+      font-size: 1.125rem;
+      color: $txt-white;
+      text-decoration: none;
+      font-weight: 400;
+    }
+  }
+
+
+  &__social-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+    li a {
+      padding: 0.2rem;
+      margin: 0.2rem;
+      color: $txt-white;
+      text-decoration: none;
+    }
+  }
+}
+
+// ============
+// Desktop menu
+// ============
+.desktop-menu {
+  display: none;
+
+  @include breakpoint(sm) {
+    display: flex;
+    align-items: center;
+  }
+
+  .guides-link {
+    display: inline-flex;
+    align-items: center;
+
+    svg {
+      width: 10px;
+      height: auto;
+      margin-left: 0.5rem;
+      margin-top: 1px;
+    }
+  }
+
+  &__links {
+    list-style-type: none;
+    margin: 0 1rem 0 0;
+    padding: 0;
+
+    display: flex;
+    flex-direction: row;
+
+    li {
+      display: inline;
+      margin-left: 0.5rem;
+    }
+
+    .home {
+      border-radius: $border-radius;
+    }
+
+    a, a:visited, a:active {
+      display: inline-flex;
+      align-items: center;
+      height: $navbar-height;
+      color: $txt-white;
+      font-size: 1rem;
+      font-weight: 400;
+      padding: 0.2rem 0.8rem;
+      transition: background 0.1s ease-in-out;
+    }
+    
+    a:hover, a:focus {
+      background-color: $nav-hover;
+      border-top-left-radius: $border-radius;
+      border-top-right-radius: $border-radius;
+    }
+
+    
+    // ======================
+    // Drop-down menus starts
+    // ======================
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      top: $navbar-height;
+      background-color: $nav-hover;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
+      z-index: 1;
+      border-bottom-left-radius: $border-radius;
+      border-bottom-right-radius: $border-radius;
+    }
+
+    .dropdown-content a {
+      color: $txt-white;
+      padding: 1rem 2rem;
+      height: 3rem;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+      border-radius: 0;
+    }
+
+    div a:last-child {
+      border-bottom-left-radius: $border-radius;
+      border-bottom-right-radius: $border-radius;
+    }
+
+    .dropdown-content a:hover {
+      background-color: $link-color;
+    }
+
+    .dropdown:hover .dropbtn {
+      background-color: $nav-hover;
+    }
+
+    li:hover .dropdown-content {
+      display: block;
+    }
+  
+  // ====================
+  // Drop-down menus ends
+  // ====================
+  }
+
+  &__locale {
+    list-style-type: none;
+    padding: 0;
+    border-left: 1px solid $nav-hl;
+
+    li {
+      display: inline;
+      margin-left: 1rem;
+    }
+
+    select {
+      font-size: 1rem;
+      font-weight: 400;
+      font-family: inherit;
+      color: $txt-white;
+      height: 36px;
+      padding: 0 30px 0 12px;
+      border-radius: $border-radius;
+      background-color: transparent;
+      border: none;
+      background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iNiIgdmlld0JveD0iMCAwIDEwIDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMCAxLjE0MTdMOC44MjUgLTUuMTM2MDllLTA4TDUgMy43MDg1TDEuMTc1IC0zLjg1NzUzZS0wN0wtNC45OTA1M2UtMDggMS4xNDE3TDUgNkwxMCAxLjE0MTdaIiBmaWxsPSIjRkJGQkZCIi8+Cjwvc3ZnPgo=");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      background-size: 0.85rem;
+      appearance: none;
+      outline: none;
+      transition: background 0.1s ease-in-out;
+
+      &:hover, &:focus {
+        cursor: pointer;
+        background-color: $nav-hover;
+      }
+    }
+  }
+}

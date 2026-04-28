@@ -1,0 +1,49 @@
+# SIEM 
+
+Our SIEM solution works best if installed on a beefy virtual machine because of some of the requirements for the components, so plan accordingly. We chose to use Wazuh, because it’s free open source. Wazuh is a security platform that provides unified XDR and SIEM protection for endpoints and cloud workloads. The solution can be composed of three central components: the Wazuh server, the Wazuh indexer, and the Wazuh dashboard. Or Elasticstack based installment with Wazuh manager, Elasticsearch, Filebeat and Kibana. Both solutions use a single universal agent per monitored host. 
+
+Our Environment uses the Elasticstack based solution and we have guides written for the installation and usage. Follow our Wazuh guides here:
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/Wazuh-install/wazuh-elastic-license-install/  
+
+We also use Palo Alto Cortex XDR. Unfortunately, we got the license just a few weeks before the end of WIMMA Lab, but we got some experience with it. Cortex XDR is mission control for complete visibility into network traffic and user behavior. Cortex XDR applies machine learning at cloud scale to rich network, endpoint, and cloud data, so you can quickly find and stop targeted attacks, insider abuse and compromised endpoints and correlates data from the Cortex XDR Data Lake to reveal threat causalities and timelines. 
+
+## Wazuh Agent Deployment and Enrollment 
+
+The Wazuh agent is multi-platform and runs on the hosts that the user wants to monitor. It communicates with the Wazuh manager, sending data in near real time through an encrypted and authenticated channel. 
+
+Wazuh agent deployment is the same for both Wazuh install methods. Follow our Wazuh Agent guides here: 
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/Wazuh-install/wazuh-agent-install/  
+
+## Blocking malicious IP with AbuseIPDB 
+
+AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. AbuseIPDB is to help make the Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online.  
+
+AbuseIPDB connects to our Wazuh manager. 
+
+For our solution you need to create a free account to AbuseIPDB for free 1000 IP checks per day.  
+
+Follow our AbuseIPDB guide here: 
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/malicious-ip/ 
+
+## Suricata for Network Monitoring 
+
+Suricata is a Network Security Monitoring (NSM) tool that uses sets of community created and user defined signatures (also referred to as rules) to examine and process network traffic. Suricata can generate log events, trigger alerts, and drop traffic when it detects suspicious packets or requests to any number of different services running on a server.  
+
+By default Suricata works as a passive Intrusion Detection System (IDS) to scan for suspicious traffic on a server or network. It will generate and log alerts for further investigation. It can also be configured as an active Intrusion Prevention System (IPS) to log, alert, and completely block network traffic that matches specific rules. 
+
+In our environment Suricata is installed on the monitored host and configured to send its data to Wazuh through Wazuh agent. 
+
+Follow our Suricata guides here: 
+
+https://wimma-lab-2022.pages.labranet.jamk.fi/mysticons/core/30-Documentation/suricata-install/  
+
+## Prometheus + Grafana 
+
+Prometheus is a free software application used for event monitoring and alerting. It records real-time metrics in a time series database (allowing for high dimensionality) built using a HTTP pull model, with flexible queries and real-time alerting. 
+
+The current solution for prometheus grafana is to install the microk8s platform on a vm and then enable the prometheus addon. Then add the monitored hosts prometheus as a data source.  
+
+This solution needs improvement, like installing it independent of microk8s. The addon method comes with the kubernetes dashboards pre-installed so they need to be downloaded from elsewhere for the independent method. 
