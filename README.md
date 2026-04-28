@@ -4,7 +4,7 @@
 Tässä Githubissa on Matalamäki Marikan erilaisia työnäytteitä niin koulun kuin harrastusten kautta. Suurimmaksi osaksi työnäytteet ovat tieto- ja viestintätekniikan opintoihin liittyviä tehtäviä.
 
 # Githubista löytyvät mm.
-Tässä tarkempaa tietoa, mitä Github-sivulta löytyy.
+Tässä tarkempaa tietoa, mitä Github-sivulta mm. löytyy:
 - WIMMA Lab-tiimi. Harjoittelun tiimin kanssa tehtyjä asioita kesältä -22.
 - Ohjelmoinnin perusteet-kurssin koodeja syksyltä -20.
 - Tekoäly-kurssin koodeja syksyltä -21.
