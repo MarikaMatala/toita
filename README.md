@@ -1,109 +1,855 @@
-# Marika Matalamäki  
+# Marika Matalamäki – Työnäytteet, projektit ja osaaminen
 
-## Work Samples, Projects and Skills
+Tämä repository sisältää opintojeni, projektieni ja muun tekemiseni aikana syntyneitä työnäytteitä.
 
-This GitHub repository brings together my work samples, projects, and various projects completed during my studies. It includes both technical work and visual projects. I continuously update the repository and add new work samples as I complete new projects.
+Kansioissa on ohjelmointiin, web-kehitykseen, sovelluskehitykseen, digitaaliseen mediaan, data-analytiikkaan, tekoälyyn, skriptaukseen ja visuaaliseen suunnitteluun liittyviä tehtäviä ja projekteja.
 
-The repository contains a wide range of exercises, course projects, and other work from my Information and Communications Technology studies. It also includes visual work, graphic design, journalistic work, and other content I have created through my studies, internships, and personal projects.
+README-tiedostot ja kansioiden kuvaukset ovat saatavilla **suomeksi ja englanniksi**.
 
-## WIMMA Lab – Teamwork, Branding and Visual Design
+---
 
-WIMMA Lab is a summer project programme at JAMK University of Applied Sciences, where students work on real client projects in teams. I worked at WIMMA Lab in the summer of 2022 and was responsible for the teams' social media, visual identity, graphics, photography, and video content. Examples of this work can be found in the WIMMA Lab folder on this GitHub repository.
+# 🇫🇮 Suomeksi
 
-I also created a brand renewal for WIMMA Lab as part of my bachelor's thesis. The renewed brand was developed for WIMMA Capstone and is still in use. The work received a lot of positive feedback and was graded 3/5. The brand renewal included updating the visual identity, redesigning the logos and colour palette, and creating a complete brand book.
+## 📁 Sisältö
 
-## Journalism and Communications
+### 💻 Ohjelmointi ja sovelluskehitys
 
-I have worked as a journalist for a local newspaper in my hometown. The work taught me writing, content creation, interviewing, and the ability to react quickly to different situations. Examples of articles and editorial work can be found in the visual and text-based folders on GitHub.
+#### `ttc2030`
+Ohjelmoinnin perusteisiin liittyviä harjoituksia ja tehtäviä.
 
-In 2022, I worked as the Communications Officer for Jyväskylän Insinööriopiskelijat ry. I was responsible for the organisation's social media, advertisements, and website. The website was built with WordPress, and I used Elementor to create and edit the pages. The work combined visual design with technical implementation.
+**Aiheita:**
+- Ohjelmoinnin perusteet
+- Ohjelmointilogiikka
+- Tietorakenteet
+- Ongelmanratkaisu
+- Ohjelmien rakenne
+- Koodin kirjoittaminen
 
-## Web Development and WordPress Projects
+---
 
-The repository contains several web development projects, including web server programming, web visualisation, and front-end exercises. I have also completed a client project for Turku Distillery, where I created a WordPress website. The original Figma design shows how the website looked when the project was completed; the client has since made changes to the site:
+#### `olio-ohjelmointi`
+Olio-ohjelmointiin liittyviä harjoituksia ja työnäytteitä.
 
-https://www.figma.com/file/OqeZsx2WZba1NJ5c9FARZT/Kaiho?node-id=176%3A144
+**Aiheita:**
+- Olio-ohjelmointi
+- Luokat ja oliot
+- Metodit ja ominaisuudet
+- Ohjelmointilogiikka
+- Koodin rakenne
+- Uudelleenkäytettävyys
 
-## Cybersecurity and Competitions
+---
 
-I have been involved in the activities of Kyberkilta ry. In 2023, I participated in a Hack the Box competition where our team was the only Finnish team to place among the top 100. Our final ranking was 95th out of 955 teams.
+#### `ttc8440`
+Olio-ohjelmoinnin harjoituksia ja tehtäviä.
 
-## Programming and Technical Courses
+**Kielet ja työkalut:**
+- C#
+- .NET
+- Visual Studio
+- Git / GitLab
 
-The repository contains a wide range of programming courses and technical exercises. These include, for example:
+**Aiheita:**
+- Olio-ohjelmointi
+- Luokat ja oliot
+- Perintä
+- Polymorfismi
+- Kapselointi
+- Metodit ja ominaisuudet
+- Ohjelman rakenteen suunnittelu
 
-- programming fundamentals
-- object-oriented programming
-- web server programming
-- artificial intelligence exercises
-- mobile programming
-- web visualisation
-- PowerShell and Shell exercises
-- a Next.js test project
-- computer networking exercises
+---
 
-The folders contain course code, exercises, and complete projects that demonstrate my technical skills and the breadth of my studies.
+#### `android-exercises`
+Android-sovelluskehitykseen liittyviä harjoituksia ja tehtäviä.
 
-## Visual Work and Graphic Design
+**Kielet ja työkalut:**
+- Kotlin
+- Android Studio
 
-The repository also contains visual work, including Blender graphics, photography, editorial work, and other visual content. These projects demonstrate my background in audiovisual communication and my visual design skills.
+**Aiheita:**
+- Android-sovelluskehitys
+- Mobiilisovellukset
+- Käyttöliittymät
+- Sovelluslogiikka
+- Ohjelmointi
 
-## Contact and More Information
+---
 
-More information about me and my skills can be found on my LinkedIn profile.
+#### `mobile-exercises`
+Mobiilisovelluskehityksen harjoituksia ja tehtäviä.
 
-LinkedIn: https://www.linkedin.com/in/marika-matalamaki/
+**Aiheita:**
+- Mobiilisovelluskehitys
+- Käyttöliittymien toteuttaminen
+- Sovelluslogiikka
+- Ohjelmointi
+- Mobiilikäyttöliittymät
 
+---
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🌐 Web-kehitys
 
-## Työnäytteitä, projekteja ja osaamista
+#### `Web-palvelinohjelmointi`
+Web-palvelinohjelmointiin liittyviä harjoituksia ja tehtäviä.
 
-Tämä GitHub kokoaa yhteen työnäytteitäni, projektejani ja opintojeni aikaisia kokonaisuuksia. Mukana on sekä teknistä tekemistä että visuaalisia töitä. Päivitän sisältöä jatkuvasti ja lisään uusia työnäytteitä sitä mukaa, kun saan valmiiksi uusia projekteja.
+**Aiheita:**
+- Web-palvelinohjelmointi
+- Web-sovellukset
+- Palvelinpuolen ohjelmointi
+- Client-server-arkkitehtuuri
+- Web-palvelut
+- API:t
 
-GitHubista löytyy laaja kokonaisuus tieto‑ ja viestintätekniikan opintojeni harjoituksia, kurssitöitä ja projekteja. Mukana on myös visuaalisia töitä, grafiikkaa, toimitustöitä ja muuta sisältöä, joita olen tehnyt opintojen, harjoittelujen ja harrastusten kautta.
+---
 
-## WIMMA Lab – tiimityö, brändi ja visuaalinen kokonaisuus
+#### `ttc8430-3002`
+Web-palvelinohjelmointia ja backend-kehitystä sovelluskehyksen avulla.
 
-WIMMA Lab on JAMKin kesäinen projektiohjelma, jossa opiskelijat tekevät oikeita asiakasprojekteja tiimeissä. Työskentelin WIMMA Labissa kesällä 2022 ja vastasin tiimien somesta, visuaalisesta ilmeestä, grafiikasta, valokuvista ja videoista. Materiaaleja löytyy GitHubin WIMMA Lab ‑kansiosta.
+**Kielet ja teknologiat:**
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- REST API
+- JSON
+- Jest
+- SuperTest
+- npm
+- Git / GitLab
 
-Toteutin myös WIMMA Labin brändiuudistuksen osana opinnäytetyötäni. Brändiuudistus tehtiin WIMMA Capstoneksi ja se on edelleen käytössä. Sain työstä paljon kiitosta ja arvosanan kolme viidestä. Brändiuudistus sisälsi visuaalisen identiteetin päivittämisen, logojen ja värimaailman uudistamisen sekä kokonaisen brändikäsikirjan.
+**Aiheita:**
+- Backend-kehitys
+- REST API:t
+- CRUD
+- Tietokannat
+- API-testauksen perusteet
+- Client-server-arkkitehtuuri
+- Web-sovellusten rakenne
 
-## Journalistinen ja viestinnällinen osaaminen
+---
 
-Olen työskennellyt journalistina kotipaikkakuntani paikallislehdessä. Työ opetti kirjoittamista, sisällöntuotantoa, haastattelujen tekemistä ja nopeaa reagointia. Lehtijuttuja ja toimitustöitä löytyy GitHubin visuaalisista ja tekstipohjaisista kansioista.
+#### `wuip-exercises`
+Web-käyttöliittymiin ja frontend-kehitykseen liittyviä harjoituksia.
 
-Olen toiminut Jyväskylän insinööriopiskelijat ry:ssä viestintävastaavana vuonna 2022. Vastasin yhdistyksen somesta, mainoksista ja hallituksen verkkosivuista. Sivut olivat WordPress‑pohjaiset ja rakensin niitä Elementorilla. Työ sisälsi sekä visuaalista suunnittelua että teknistä toteutusta.
+**Kielet ja teknologiat:**
+- HTML
+- CSS
+- JavaScript
+- JSON
+- DOM
+- Web API:t
+- Git / versionhallinta
 
-## Web‑kehitys ja WordPress‑projektit
+**Aiheita:**
+- Frontend-kehitys
+- Web-käyttöliittymät
+- JavaScript
+- Interaktiiviset web-sovellukset
+- DOM
+- JSON-datan käsittely
+- Web API:t
 
-GitHubista löytyy useita web‑kehitykseen liittyviä projekteja, kuten web‑palvelinohjelmointia, web‑visualisointia ja front‑end‑harjoituksia. Olen tehnyt myös asiakasprojektin Turku Distillerylle, jossa toteutin WordPress‑sivuston. Sivuston alkuperäinen Figma‑luonnos, miltä sivusto näytti (asiakas on jälkikäteen muutellut sivua): https://www.figma.com/file/OqeZsx2WZba1NJ5c9FARZT/Kaiho?node-id=176%3A144
+---
 
-## Kyberturvallisuus ja kilpailut
+#### `web-visualisointi`
+Web-visualisointiin liittyviä harjoituksia ja tehtäviä.
 
-Olen ollut mukana Kyberkilta ry:n toiminnassa. Osallistuin Hack the Box ‑kilpailuun vuonna 2023, jossa joukkueemme oli ainoa suomalainen tiimi, joka sijoittui sadan parhaan joukkoon. Lopullinen sijoituksemme oli 95/955.
+**Aiheita:**
+- Web-kehitys
+- Frontend-kehitys
+- Web-visualisointi
+- Visuaalinen suunnittelu
+- Datan visuaalinen esittäminen
+- Käyttöliittymien toteuttaminen
 
-## Ohjelmointi ja tekniset kurssit
+---
 
-GitHubista löytyy laaja kokonaisuus ohjelmointikursseja ja teknisiä harjoituksia. Mukana on esimerkiksi:
+#### `web-visualisointi-kurssi`
+Web-visualisointiin liittyviä opintojakson harjoituksia ja työnäytteitä.
 
-- ohjelmoinnin perusteita  
-- olio‑ohjelmointia  
-- web‑palvelinohjelmointia  
-- tekoälyharjoituksia  
-- mobiiliohjelmointia  
-- web‑visualisointia  
-- Powershell‑ ja Shell‑tehtäviä  
-- Next.js‑testiprojekti  
-- data‑verkkojen harjoituksia  
+**Aiheita:**
+- Web-teknologiat
+- Ohjelmointi
+- Web-kehitys
+- Visualisointi
+- Käyttöliittymät
+- Visuaalinen suunnittelu
 
-Kansiot sisältävät kurssikoodeja, harjoituksia ja kokonaisia projekteja, jotka kuvaavat teknistä osaamistani ja opintojeni laajuutta.
+---
 
-## Visuaaliset työt ja grafiikka
+#### `web-visualisointi-kurssi-jamk`
+JAMKin Web-visualisointi-opintojaksolla tehtyjä harjoituksia ja tehtäviä.
 
-GitHubissa on myös visuaalisia töitä, kuten Blender‑grafiikkaa, valokuvia, toimitustöitä ja muuta visuaalista sisältöä. Nämä työt kuvaavat audiovisuaalisen viestinnän osaamistani ja visuaalista silmääni.
+**Aiheita:**
+- Web-kehitys
+- Frontend-kehitys
+- Web-visualisointi
+- Datan visuaalinen esittäminen
+- Käyttöliittymät
+- Ohjelmointi
 
-## Yhteys ja lisätietoja
+---
 
-Lisätietoa minusta ja osaamisestani löytyy LinkedIn‑profiilistani.  
-LinkedIn: https://www.linkedin.com/in/marika-matalamaki/
+## 🤖 Tekoäly ja data-analytiikka
+
+#### `ttc2050-exercises-tekoaly`
+Tekoälyyn, koneoppimiseen ja data-analytiikkaan liittyviä harjoituksia.
+
+**Kielet ja työkalut:**
+- Python
+- JupyterLab
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+- Anaconda
+
+**Aiheita:**
+- Tekoälyn perusteet
+- Data-analytiikka
+- Koneoppimisen perusteet
+- K-Means-klusterointi
+- K-Nearest Neighbors (KNN)
+- Datan käsittely
+- Datan analysointi
+- Datan visualisointi
+
+---
+
+#### `ttc2050-exercises`
+Data-analytiikkaan liittyviä harjoituksia ja tehtäviä.
+
+**Kielet ja työkalut:**
+- Python
+- Jupyter Notebook / JupyterLab
+- Pandas
+- NumPy
+- Matplotlib
+- scikit-learn
+- Git / GitLab
+
+**Aiheita:**
+- Data-analytiikka
+- Datan käsittely
+- Datan analysointi
+- Datan visualisointi
+- Datan esikäsittely
+- Koneoppimisen perusteet
+- Ongelmanratkaisu
+
+---
+
+## ⚙️ Skriptaus ja automaatio
+
+#### `ttc2060`
+Skriptaamisen ja automatisoinnin perusteisiin liittyviä harjoituksia.
+
+**Kielet ja työkalut:**
+- PowerShell
+- Bash / Shell
+- Linux
+- Windows
+- SSH
+- Git / GitLab
+- Visual Studio Code
+
+**Aiheita:**
+- Skriptaaminen
+- Automatisointi
+- Komentorivityöskentely
+- Tiedostojen ja hakemistojen käsittely
+- Prosessien hallinta
+- Muuttujat
+- Ehtolauseet
+- Silmukat
+- Funktiot
+- SSH ja etäyhteydet
+- Järjestelmänhallinnan perusteet
+
+---
+
+#### `Powershell-Shell`
+PowerShell- ja shell-komentoihin liittyviä harjoituksia ja tehtäviä.
+
+**Kielet ja työkalut:**
+- PowerShell
+- Shell
+- Komentorivi
+- Skriptaus
+
+**Aiheita:**
+- Komentorivityöskentely
+- Skriptaaminen
+- Tiedostojen ja hakemistojen käsittely
+- Järjestelmänhallinnan perusteet
+
+---
+
+## 🚀 WIMMA Lab
+
+#### `wimmalab-nextjs-testi`
+WIMMA Lab -projektin yhteydessä tehty Next.js-kehitykseen liittyvä testi ja harjoitustyö.
+
+**Kielet ja teknologiat:**
+- JavaScript
+- React
+- Next.js
+- Git / GitLab
+
+**Aiheita:**
+- Next.js-sovelluskehitys
+- React-kehitys
+- Frontend-kehitys
+- Web-sovellukset
+- Komponenttipohjainen kehitys
+
+WIMMA Lab -kokemukseeni kuuluu lisäksi web-kehitystä, digitaalista mediaa, visuaalista suunnittelua ja sisällöntuotantoa.
+
+---
+
+## 🎨 Digitaalinen media ja visuaalinen suunnittelu
+
+Repository sisältää myös digitaaliseen mediaan, graafiseen suunnitteluun, videoon, valokuvaukseen ja visuaaliseen viestintään liittyviä työnäytteitä.
+
+**Ohjelmistot ja työkalut:**
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Canva
+- Figma
+- Blender
+- DaVinci Resolve
+- Avid
+- Final Cut Pro
+- WordPress
+- Elementor
+
+**Osaamista:**
+- Graafinen suunnittelu
+- Kuvankäsittely
+- Videotuotanto
+- Videoeditointi
+- Valokuvaus
+- UI/UX
+- Web-suunnittelu
+- Sosiaalisen median sisällöntuotanto
+- Visuaalinen viestintä
+
+---
+
+# 🛠️ Teknologiat ja työkalut
+
+Portfolioon kuuluvissa töissä olen käyttänyt muun muassa seuraavia kieliä, teknologioita ja ohjelmistoja.
+
+### Ohjelmointikielet
+
+- JavaScript
+- TypeScript
+- C#
+- Python
+- Kotlin
+- HTML
+- CSS
+- PowerShell
+- Bash / Shell
+
+### Web ja frontend
+
+- React
+- Next.js
+- Node.js
+- Express
+- REST API
+- JSON
+- DOM
+- Web API:t
+- WordPress
+- Elementor
+
+### Backend ja tietokannat
+
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- REST API
+- CRUD
+- JSON
+
+### Data ja tekoäly
+
+- Python
+- Jupyter Notebook
+- JupyterLab
+- Pandas
+- NumPy
+- Matplotlib
+- scikit-learn
+- K-Means
+- K-Nearest Neighbors (KNN)
+
+### Kehitystyökalut ja versionhallinta
+
+- Git
+- GitHub
+- GitLab
+- Git Bash
+- Visual Studio Code
+- Visual Studio
+- Android Studio
+- npm
+
+### Digitaalinen media ja suunnittelu
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Canva
+- Figma
+- Blender
+- DaVinci Resolve
+- Avid
+- Final Cut Pro
+- WordPress
+- Elementor
+
+---
+
+# 🎓 Taustaa
+
+Olen keväällä 2026 valmistunut tieto- ja viestintätekniikan insinööri (Bachelor of Engineering, Information and Communications Technology) Jyväskylän ammattikorkeakoulusta.
+
+Opintoni painottuivat erityisesti **sovelluskehitykseen ja digitaaliseen mediaan**. Portfolio sisältää näytteitä molemmilta osa-alueilta sekä niiden yhdistämisestä.
+
+Osaamisessani yhdistyvät tekninen frontend- ja sovelluskehitys sekä visuaalinen suunnittelu ja digitaalisen median tuotanto.
+
+---
+
+# 🇬🇧 English
+
+## Marika Matalamäki – Work Samples, Projects and Skills
+
+This repository contains work samples from my studies, projects and other practical work.
+
+The folders include exercises and projects related to programming, web development, application development, digital media, data analytics, artificial intelligence, scripting and visual design.
+
+The README files and folder descriptions are available in **both Finnish and English**.
+
+---
+
+## 📁 Contents
+
+### 💻 Programming and Application Development
+
+#### `ttc2030`
+Programming fundamentals exercises and assignments.
+
+**Topics:**
+- Programming fundamentals
+- Programming logic
+- Data structures
+- Problem-solving
+- Program structure
+- Writing code
+
+---
+
+#### `olio-ohjelmointi`
+Exercises and work samples related to object-oriented programming.
+
+**Topics:**
+- Object-oriented programming
+- Classes and objects
+- Methods and properties
+- Programming logic
+- Code structure
+- Code reusability
+
+---
+
+#### `ttc8440`
+Object-oriented programming exercises and assignments.
+
+**Languages and tools:**
+- C#
+- .NET
+- Visual Studio
+- Git / GitLab
+
+**Topics:**
+- Object-oriented programming
+- Classes and objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Methods and properties
+- Program structure and design
+
+---
+
+#### `android-exercises`
+Exercises related to Android application development.
+
+**Languages and tools:**
+- Kotlin
+- Android Studio
+
+**Topics:**
+- Android application development
+- Mobile applications
+- User interfaces
+- Application logic
+- Programming
+
+---
+
+#### `mobile-exercises`
+Exercises related to mobile application development.
+
+**Topics:**
+- Mobile application development
+- User interface implementation
+- Application logic
+- Programming
+- Mobile UI
+
+---
+
+## 🌐 Web Development
+
+#### `Web-palvelinohjelmointi`
+Exercises related to web server programming.
+
+**Topics:**
+- Web server programming
+- Web applications
+- Server-side programming
+- Client-server architecture
+- Web services
+- APIs
+
+---
+
+#### `ttc8430-3002`
+Web server programming and backend development using an application framework.
+
+**Languages and technologies:**
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- REST API
+- JSON
+- Jest
+- SuperTest
+- npm
+- Git / GitLab
+
+**Topics:**
+- Backend development
+- REST APIs
+- CRUD
+- Databases
+- API testing
+- Client-server architecture
+- Web application architecture
+
+---
+
+#### `wuip-exercises`
+Exercises related to web user interfaces and frontend development.
+
+**Languages and technologies:**
+- HTML
+- CSS
+- JavaScript
+- JSON
+- DOM
+- Web APIs
+- Git / version control
+
+**Topics:**
+- Frontend development
+- Web user interfaces
+- JavaScript
+- Interactive web applications
+- DOM
+- JSON data handling
+- Web APIs
+
+---
+
+#### `web-visualisointi`
+Exercises related to web visualisation.
+
+**Topics:**
+- Web development
+- Frontend development
+- Web visualisation
+- Visual design
+- Data visualisation
+- User interface implementation
+
+---
+
+#### `web-visualisointi-kurssi`
+Exercises and work samples related to web visualisation.
+
+**Topics:**
+- Web technologies
+- Programming
+- Web development
+- Visualisation
+- User interfaces
+- Visual design
+
+---
+
+#### `web-visualisointi-kurssi-jamk`
+Exercises completed during JAMK's Web Visualisation course.
+
+**Topics:**
+- Web development
+- Frontend development
+- Web visualisation
+- Data visualisation
+- User interfaces
+- Programming
+
+---
+
+## 🤖 Artificial Intelligence and Data Analytics
+
+#### `ttc2050-exercises-tekoaly`
+Exercises related to artificial intelligence, machine learning and data analytics.
+
+**Languages and tools:**
+- Python
+- JupyterLab
+- NumPy
+- Pandas
+- Matplotlib
+- scikit-learn
+- Anaconda
+
+**Topics:**
+- Artificial intelligence fundamentals
+- Data analytics
+- Machine learning fundamentals
+- K-Means clustering
+- K-Nearest Neighbors (KNN)
+- Data processing
+- Data analysis
+- Data visualisation
+
+---
+
+#### `ttc2050-exercises`
+Data analytics exercises and assignments.
+
+**Languages and tools:**
+- Python
+- Jupyter Notebook / JupyterLab
+- Pandas
+- NumPy
+- Matplotlib
+- scikit-learn
+- Git / GitLab
+
+**Topics:**
+- Data analytics
+- Data processing
+- Data analysis
+- Data visualisation
+- Data preprocessing
+- Machine learning fundamentals
+- Problem-solving
+
+---
+
+## ⚙️ Scripting and Automation
+
+#### `ttc2060`
+Exercises related to scripting and automation.
+
+**Languages and tools:**
+- PowerShell
+- Bash / Shell
+- Linux
+- Windows
+- SSH
+- Git / GitLab
+- Visual Studio Code
+
+**Topics:**
+- Scripting
+- Automation
+- Command-line usage
+- File and directory management
+- Process management
+- Variables
+- Conditional statements
+- Loops
+- Functions
+- SSH and remote access
+- System administration fundamentals
+
+---
+
+#### `Powershell-Shell`
+Exercises related to PowerShell and shell commands.
+
+**Languages and tools:**
+- PowerShell
+- Shell
+- Command line
+- Scripting
+
+**Topics:**
+- Command-line usage
+- Scripting
+- File and directory management
+- System administration fundamentals
+
+---
+
+## 🚀 WIMMA Lab
+
+#### `wimmalab-nextjs-testi`
+A Next.js development test and exercise completed in connection with the WIMMA Lab project.
+
+**Languages and technologies:**
+- JavaScript
+- React
+- Next.js
+- Git / GitLab
+
+**Topics:**
+- Next.js application development
+- React development
+- Frontend development
+- Web applications
+- Component-based development
+
+My WIMMA Lab experience also includes web development, digital media, visual design and content production.
+
+---
+
+## 🎨 Digital Media and Visual Design
+
+The repository also contains work samples related to digital media, graphic design, video, photography and visual communication.
+
+**Software and tools:**
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Canva
+- Figma
+- Blender
+- DaVinci Resolve
+- Avid
+- Final Cut Pro
+- WordPress
+- Elementor
+
+**Skills:**
+- Graphic design
+- Image editing
+- Video production
+- Video editing
+- Photography
+- UI/UX
+- Web design
+- Social media content production
+- Visual communication
+
+---
+
+# 🛠️ Technologies and Tools
+
+The projects in this portfolio include experience with the following programming languages, technologies and software.
+
+### Programming Languages
+
+- JavaScript
+- TypeScript
+- C#
+- Python
+- Kotlin
+- HTML
+- CSS
+- PowerShell
+- Bash / Shell
+
+### Web and Frontend
+
+- React
+- Next.js
+- Node.js
+- Express
+- REST API
+- JSON
+- DOM
+- Web APIs
+- WordPress
+- Elementor
+
+### Backend and Databases
+
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- REST API
+- CRUD
+- JSON
+
+### Data and AI
+
+- Python
+- Jupyter Notebook
+- JupyterLab
+- Pandas
+- NumPy
+- Matplotlib
+- scikit-learn
+- K-Means
+- K-Nearest Neighbors (KNN)
+
+### Development Tools and Version Control
+
+- Git
+- GitHub
+- GitLab
+- Git Bash
+- Visual Studio Code
+- Visual Studio
+- Android Studio
+- npm
+
+### Digital Media and Design
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe Premiere Pro
+- Canva
+- Figma
+- Blender
+- DaVinci Resolve
+- Avid
+- Final Cut Pro
+- WordPress
+- Elementor
+
+---
+
+# 🎓 Background
+
+I graduated in spring 2026 from Jyväskylä University of Applied Sciences (JAMK) with a **Bachelor of Engineering in Information and Communications Technology**.
+
+My studies focused especially on **application development and digital media**. This portfolio contains work samples from both areas and examples of how they can be combined.
+
+My skill set combines technical frontend and application development with visual design and digital media production.
