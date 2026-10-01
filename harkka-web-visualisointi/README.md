@@ -1,26 +1,43 @@
-# harkka-web-visualisointi
+# Web Visualisation
 
+## 🇫🇮 Suomeksi
 
+Tässä kansiossa on web-visualisointiin liittyvä opintojen aikana tehty harjoitustyö.
 
-# Web-visualisointi
+Työssä on harjoiteltu datan esittämistä web-ympäristössä sekä interaktiivisten ja visuaalisten sisältöjen toteuttamista. Työ yhdistää web-kehitystä, ohjelmointia ja visuaalista suunnittelua.
 
-Matalamäki Marikan Web-visualisoinnin kurssin materiaalia.
+Kansio toimii työnäytteenä web-kehityksen, frontend-toteutuksen ja visuaalisen esittämisen osaamisestani.
 
-Muut tehtävät löytyvät: [Nettisivu tehtäville](https://student.labranet.jamk.fi/~AA4495/web-visualisointi-1/harkat.html)
+### Osaamista
 
+- Web-kehitys
+- Frontend-kehitys
+- Web-visualisointi
+- Datan visuaalinen esittäminen
+- HTML
+- CSS
+- JavaScript
+- Käyttöliittymien toteuttaminen
+- Visuaalinen suunnittelu
 
-**Harkan raportti**
+---
 
-Tein harjoitustyönäni portfoliosivun. Sivut löytyvät täältä:
+## 🇬🇧 English
 
-[HARKKATYÖ](https://aa4495.pages.labranet.jamk.fi/harkka-web-visualisointi/)
+This folder contains a web visualisation project completed during my studies.
 
-Käytin sivun tekemiseen noin 20h, jäi vähän kesken ja ei lopputuloksesta tullut niin hyvä sairastelun takia ja sen takia piti vähän keventää tekokuormaa. En tiedä kans mitä möhlin, kun pages-sivun poistin vahongossa ja en saanut sitä enää takaisin. :/
+The project focuses on presenting data in a web environment and creating interactive and visual content. It combines web development, programming and visual design.
 
-Tein portfoliosivun sen takia, kun ajattelin että se olisi helppo toteuttaa ja sellaiset tarvitsin.
+This folder serves as a work sample demonstrating my skills in web development, frontend implementation and visual data presentation.
 
-Värimaailmaksi valitsin aika synkän loppujen lopuksi, mutta tykkäsin kyllä väriyhdistelmistä. Jos aikaa olisi ollut enemmän olisin tehnyt light ja dark modet ja lisännyt enemmän liikettä sivulle mm. videoiden avulla; nyt tausta jää vähän "orvoksi".
+### Skills
 
-Antaisin itselleni 1-2 arvosanan, parempaan olisin pystynyt, jos en olisi niin paljoa sairastellut nyt syksyllä.
-
-Erittäin hyvä ja opettavainen kurssi, sain paljon uutta osaamista ja eväitä työelämään. Itseäni kiinnostaisi UI ja UX, muta vielä on paljon opittavaa.
+- Web development
+- Frontend development
+- Web visualisation
+- Data visualisation
+- HTML
+- CSS
+- JavaScript
+- User interface implementation
+- Visual design
