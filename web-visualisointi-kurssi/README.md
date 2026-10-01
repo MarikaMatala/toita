@@ -1,24 +1,45 @@
 # Web-visualisointi
 
-Matalamäki Marikan Web-visualisoinnin kurssin materiaalia.
+## 🇫🇮 Suomeksi
 
-Muut tehtävät löytyvät: [Nettisivu tehtäville](https://student.labranet.jamk.fi/~AA4495/web-visualisointi-1/harkat.html)
+Tässä kansiossa on JAMKin Web-visualisointi-opintojaksolla tehtyjä harjoituksia, tehtäviä ja työnäytteitä.
 
+Opintojaksolla perehdyttiin web-ympäristössä tapahtuvaan visuaaliseen esittämiseen sekä web-teknologioiden hyödyntämiseen visuaalisen sisällön toteuttamisessa. Harjoituksissa yhdistyvät ohjelmointi, web-kehitys ja visuaalinen suunnittelu.
 
-**Harkan raportti**
+Web-visualisointi kuuluu JAMKin tieto- ja viestintätekniikan sovelluskehityksen ja digitaalisen median opintoihin. Opintojakson laajuus on 5 opintopistettä. :contentReference[oaicite:1]{index=1}
 
-Tein harjoitustyönäni portfoliosivun. Sivut löytyvät mm. täältä:
+Kansio toimii työnäytteenä web-kehityksen, frontend-toteutuksen ja visuaalisen esittämisen osaamisestani.
 
-[HARKKATYÖ](https://student.labranet.jamk.fi/~AA4495/web-visualisointi-1/HARKKATYO/omasivusto.html)
+### Osaamista
 
-Käytin sivun tekemiseen noin 20h, jäi vähän kesken ja ei lopputuloksesta tullut niin hyvä sairastelun takia ja sen takia piti vähän keventää tekokuormaa. En tiedä kans mitä möhlin, kun pages-sivun poistin vahongossa ja en saanut sitä enää takaisin. :/
+- Web-kehitys
+- Frontend-kehitys
+- Web-visualisointi
+- Visuaalinen esittäminen
+- Käyttöliittymien toteuttaminen
+- Ohjelmointi
+- Web-teknologiat
+- Visuaalinen suunnittelu
 
-Tein portfoliosivun sen takia, kun ajattelin että se olisi helppo toteuttaa ja sellaiset tarvitsin.
+---
 
-Värimaailmaksi valitsin aika synkän loppujen lopuksi, mutta tykkäsin kyllä väriyhdistelmistä. Jos aikaa olisi ollut enemmän olisin tehnyt light ja dark modet ja lisännyt enemmän liikettä sivulle mm. videoiden avulla; nyt tausta jää vähän "orvoksi".
+## 🇬🇧 English
 
-Antaisin itselleni 1-2 arvosanan, parempaan olisin pystynyt, jos en olisi niin paljoa sairastellut nyt syksyllä.
+This folder contains exercises, assignments and work samples completed during JAMK's Web Visualisation course.
 
-Erittäin hyvä ja opettavainen kurssi, sain paljon uutta osaamista ja eväitä työelämään. Itseäni kiinnostaisi UI ja UX, muta vielä on paljon opittavaa.
+The course focused on visual presentation in web environments and using web technologies to create visual content. The exercises combine programming, web development and visual design.
 
+Web Visualisation is part of JAMK's Information and Communications Technology studies within both application development and digital media. The course is worth 5 ECTS credits. :contentReference[oaicite:2]{index=2}
 
+This folder serves as a work sample demonstrating my skills in web development, frontend implementation and visual presentation.
+
+### Skills
+
+- Web development
+- Frontend development
+- Web visualisation
+- Visual presentation
+- User interface implementation
+- Programming
+- Web technologies
+- Visual design
