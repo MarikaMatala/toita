@@ -215,6 +215,8 @@ Tämä repositorio kokoaa yhteen ammatillisen profiilini, osaamiseni, kokemuksen
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marika-matalamaki"><img src="https://img.shields.io/badge/LinkedIn-Profiilini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-profiili"></a>
+  <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Support%20my%20work-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
+  <a href="https://github.com/sponsors/MarikaMatala"><img src="https://img.shields.io/badge/GitHub%20Sponsors-Tue%20tyotani-8957E5?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors"></a>
   <a href="https://buymeacoffee.com/marikamatala"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Tue%20tyotani-CE8147?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee"></a>
 </p>
 
