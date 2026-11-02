@@ -2,14 +2,15 @@
 
 *This README is presented first in English, followed by the same information in Finnish.*
 
-My personal website is **currently being updated**, so some content and portfolio examples may still be added or changed.
+My portfolio is my personal website, created to bring together my work samples, projects, skills and experience in one place. It gives a closer look at what I can do across web and frontend development, UI/UX, visual design and digital media. You can explore selected projects, see examples of my work and learn more about my background beyond what fits in a GitHub profile or CV. I update the site as I develop new skills and add work samples.
 
-To visit my website, click the **Portfolio** or **Visit my website** button/link in this README.
+To visit my portfolio, click the button below.
 
 <p align="center">
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-Open%20portfolio-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my personal website"></a>
 </p>
 
+<p align="center"><b>⬆️ Explore my portfolio website using the button above! ⬆️</b><br><b>⬆️ Tutustu portfoliooni yllä olevan painikkeen kautta! ⬆️</b></p>
 
 ## Introduction
 
@@ -105,7 +106,7 @@ I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa**, Fi
 
 ## Portfolio and work samples
 
-My portfolio website is currently being developed and updated:
+My portfolio website brings together selected projects, work samples and information about my skills and experience. I update it as I develop new skills and add work samples:
 
 <p>
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-marikamatala.github.io-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio"></a>
@@ -126,9 +127,9 @@ This repository is a public overview of my professional profile, skills, experie
 
 *Tämä README alkaa englanninkielisellä esittelyllä. Sen jälkeen samat tiedot löytyvät suomeksi.*
 
-Omat kotisivuni ovat **parhaillaan päivityksen alla**, joten sisältöä ja työnäytteitä lisätään ja muokataan vielä.
+Portfolio on oma verkkosivustoni, jonka olen tehnyt kootakseni työnäytteeni, projektini, osaamiseni ja työkokemukseni yhteen paikkaan. Sivustolla pääsee tutustumaan tarkemmin osaamiseeni web- ja frontend-kehityksessä, UI/UX-suunnittelussa, visuaalisessa suunnittelussa ja digitaalisessa mediassa. Sieltä löydät valikoituja projektejani, esimerkkejä tekemästäni työstä sekä lisätietoa taustastani. Päivitän sivustoa sitä mukaa, kun kehitän osaamistani ja lisään uusia työnäytteitä.
 
-Pääset kotisivuilleni klikkaamalla README-tiedoston **Portfolio**- tai **Avaa kotisivuni** -painiketta tai linkkiä.
+Pääset portfoliooni klikkaamalla alla olevaa painiketta.
 
 <p align="center">
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/AVAA%20KOTISIVUNI-Siirry%20portfolioon-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avaa omat kotisivuni"></a>
@@ -137,7 +138,7 @@ Pääset kotisivuilleni klikkaamalla README-tiedoston **Portfolio**- tai **Avaa 
 
 ## Esittely
 
-Olen Marika, toukokuussa 2026 JAMKista valmistunut tietotekniikan insinööri. Osaamiseni yhdistää sovelluskehitystä ja digitaalista mediaa, ja minua kiinnostavat tehtävät, joissa pääsen yhdistämään teknologiaa, visuaalista suunnittelua ja luovuutta.
+Olen Marika, toukokuussa 2026 JAMKista valmistunut tieto- ja viestintätekniikan insinööri. Osaamiseni yhdistää sovelluskehitystä ja digitaalista mediaa, ja minua kiinnostavat tehtävät, joissa pääsen yhdistämään teknologiaa, visuaalista suunnittelua ja luovuutta.
 
 Tein tämän repositorion esitelläkseni itseni ja kootakseni osaamiseni, työkokemukseni, valikoituja projektejani ja ammatilliset linkkini yhteen paikkaan. Sen avulla työnantajat, yhteistyökumppanit ja muut vierailijat saavat yleiskuvan osaamisestani ja siitä, millaisia työmahdollisuuksia etsin. Repository täydentää portfoliotani, johon kokoan työnäytteitä vähitellen.
 
@@ -145,7 +146,7 @@ Tein tämän repositorion esitelläkseni itseni ja kootakseni osaamiseni, työko
 
 **Tietotekniikan insinööri | Frontend- ja web-kehitys | UI/UX | Visuaalinen suunnittelu ja digitaalinen media**
 
-Valmistuin toukokuussa 2026 tietotekniikan insinööriksi Jyväskylän ammattikorkeakoulusta (JAMK). Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan. Osaamiseni yhdistää ohjelmisto- ja web-kehitystä, visuaalista suunnittelua, viestintää sekä audiovisuaalista tuotantoa.
+Valmistuin toukokuussa 2026 tieto- ja viestintätekniikan insinööriksi Jyväskylän ammattikorkeakoulusta (JAMK). Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan. Osaamiseni yhdistää ohjelmisto- ja web-kehitystä, visuaalista suunnittelua, viestintää sekä audiovisuaalista tuotantoa.
 
 Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden ja saavutettavien verkkopalveluiden rakentaminen sekä ideoiden toteuttaminen visuaalisesti ja digitaalisia medioita hyödyntäen.
 
@@ -202,7 +203,7 @@ Ensisijaiset sijaintini ovat **Helsinki, Espoo ja Vantaa**. Minua kiinnostavat l
 
 ## Portfolio ja työnäytteet
 
-Omat verkkosivuni ovat parhaillaan kehitteillä ja päivittyvät työn edetessä.
+Portfolio kokoaa yhteen työnäytteeni, projektini, osaamiseni ja kokemukseni. Päivitän sitä sitä mukaa, kun kehitän osaamistani ja lisään uusia työnäytteitä.
 
 <p>
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/AVAA%20PORTFOLIO-marikamatala.github.io-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avaa portfolio"></a>
