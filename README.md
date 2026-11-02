@@ -44,6 +44,10 @@ I am especially interested in frontend development, full-stack development, UI/U
 - 🌍 Open to remote work and international collaboration, including distributed teams
 - 📍 Based in Finland
 
+### Job search and work preferences
+
+My primary job search areas are **Helsinki, Espoo and Vantaa**. I am primarily interested in on-site or hybrid work. I am also open to remote positions, international opportunities and work-related travel abroad if the right opportunity comes along.
+
 ## Skills
 
 The following are selected examples of my strongest skills, which I have rated **4/5 or 5/5** in my self-assessment. This is not a complete list of all the technologies, programming languages and tools I have used. You can find a more detailed overview and the full skill ratings on my [About and Skills page](https://marikamatala.github.io/minusta.html).
@@ -144,6 +148,10 @@ Tein tämän repositorion esitelläkseni itseni ja kootakseni osaamiseni, työko
 Valmistuin toukokuussa 2026 tietotekniikan insinööriksi Jyväskylän ammattikorkeakoulusta (JAMK). Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan. Osaamiseni yhdistää ohjelmisto- ja web-kehitystä, visuaalista suunnittelua, viestintää sekä audiovisuaalista tuotantoa.
 
 Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden ja saavutettavien verkkopalveluiden rakentaminen sekä ideoiden toteuttaminen visuaalisesti ja digitaalisia medioita hyödyntäen.
+
+### Työnhakualueet ja työskentelytavat
+
+Ensisijaiset työnhakualueeni ovat **Helsinki, Espoo ja Vantaa**. Etsin ensisijaisesti lähi- tai hybridityötä. Huomioin myös etätyömahdollisuudet ja kansainväliset tehtävät sekä mahdollisuuden matkustaa ulkomaille työn vuoksi, jos sopiva työmahdollisuus tulee vastaan.
 
 ## Osaaminen
 
