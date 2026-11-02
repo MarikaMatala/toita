@@ -2,6 +2,13 @@
 
 *This README is presented first in English, followed by the same information in Finnish.*
 
+My personal website is **currently being updated**, so some content and portfolio examples may still be added or changed.
+
+<p align="center">
+  <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-Open%20portfolio-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my personal website"></a>
+</p>
+
+
 ## Introduction
 
 I'm Marika, an ICT Engineer who graduated from JAMK University of Applied Sciences in May 2026. My background combines application development and digital media, and I'm interested in work that brings together technology, visual design and creativity.
@@ -109,6 +116,13 @@ This repository is a public overview of my professional profile, skills, experie
 # Suomeksi
 
 *Tämä README alkaa englanninkielisellä esittelyllä. Sen jälkeen samat tiedot löytyvät suomeksi.*
+
+Omat kotisivuni ovat **parhaillaan päivityksen alla**, joten sisältöä ja työnäytteitä lisätään ja muokataan vielä.
+
+<p align="center">
+  <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/AVAA%20KOTISIVUNI-Siirry%20portfolioon-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avaa omat kotisivuni"></a>
+</p>
+
 
 ## Esittely
 
