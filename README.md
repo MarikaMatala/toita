@@ -49,7 +49,7 @@ I am especially interested in frontend development, full-stack development, UI/U
 The following are selected examples of my strongest skills, which I have rated **4/5 or 5/5** in my self-assessment. This is not a complete list of all the technologies, programming languages and tools I have used. You can find a more detailed overview and the full skill ratings on my [About and Skills page](https://marikamatala.github.io/minusta.html).
 
 **Web, design and tools**
-- HTML, CSS and responsive web design
+- Frontend development, HTML, CSS and responsive web design
 - Git, GitHub, GitLab, Visual Studio and Visual Studio Code
 - Visual website design and visual communication
 - Adobe Photoshop, Adobe Illustrator, Adobe Creative Suite and Canva
@@ -150,7 +150,7 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 Alla on esimerkkejä vahvimmista taidoistani, joille olen antanut itsearvioinnissani arvosanan **4/5 tai 5/5**. Luettelo ei kata kaikkia käyttämiäni teknologioita, ohjelmointikieliä tai työkaluja. Tarkemman esittelyn ja taitojen täydet arviot löydät [Minusta ja osaamisestani -sivulta](https://marikamatala.github.io/minusta.html).
 
 **Web, visuaalinen suunnittelu ja työkalut**
-- HTML, CSS ja responsiivinen verkkosuunnittelu
+- Frontend-kehitys, HTML, CSS ja responsiivinen verkkosuunnittelu
 - Git, GitHub, GitLab, Visual Studio ja Visual Studio Code
 - Verkkosivujen visuaalinen suunnittelu ja visuaalinen viestintä
 - Adobe Photoshop, Adobe Illustrator, Adobe Creative Suite ja Canva
