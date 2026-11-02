@@ -67,8 +67,11 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ## Selected experience and projects
 
-### WIMMA Capstone — Brand renewal
-Worked on the rebranding of WIMMA Lab into WIMMA Capstone. My responsibilities included the visual identity, logo and colour palette, brand guidelines, landing page design, and attention to accessibility, usability and UI/UX. I also helped transfer existing information into the renewed brand.
+### WIMMA Lab and WIMMA Capstone — JAMK project-based learning environments
+WIMMA Lab and WIMMA Capstone were project-based learning environments at **JAMK University of Applied Sciences (Jyväskylä University of Applied Sciences)**, where students developed practical skills by working in multidisciplinary teams on real projects.
+
+**WIMMA Capstone — Brand renewal**  
+I worked on the rebranding of WIMMA Lab into WIMMA Capstone. My responsibilities included the visual identity, logo and colour palette, brand guidelines, landing page design, and attention to accessibility, usability and UI/UX. I also helped transfer existing information into the renewed brand.
 
 ### WIMMA Lab / Pengwin Media — Development and media
 Worked in multidisciplinary student teams as an Assistant Team Lead / Deputy Team Leader, Junior Developer and Media Producer. Contributed to web development, teamwork, visual materials and social media content, including images, text and video.
@@ -163,7 +166,10 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 
 ## Kokemusta ja projekteja
 
-- **WIMMA Capstone:** Osallistuin WIMMA Labin brändiuudistukseen. Vastuualueisiini kuuluivat visuaalinen ilme, logo, väripaletti, brändiohjeisto ja laskeutumissivun suunnittelu sekä saavutettavuuden, käytettävyyden ja UI/UX:n huomioiminen.
+**WIMMA Lab ja WIMMA Capstone – JAMKin projektioppimisympäristöt**  
+WIMMA Lab ja WIMMA Capstone olivat Jyväskylän ammattikorkeakoulun (JAMK) projektioppimisympäristöjä. Niissä opiskelijat kehittivät osaamistaan käytännön projekteissa ja työskentelivät monialaisissa tiimeissä.
+
+- **WIMMA Capstone – brändiuudistus:** Osallistuin WIMMA Labin brändiuudistukseen. Vastuualueisiini kuuluivat visuaalinen ilme, logo, väripaletti, brändiohjeisto ja laskeutumissivun suunnittelu sekä saavutettavuuden, käytettävyyden ja UI/UX:n huomioiminen.
 - **WIMMA Lab / Pengwin Media:** Työskentelin monialaisissa opiskelijatiimeissä apulaistiiminvetäjänä / varatiiminvetäjänä, junior-kehittäjänä ja mediatuottajana. Tein web-kehitystä sekä visuaalisia materiaaleja ja sosiaalisen median sisältöjä.
 - **JIO – Jyväskylän Insinööriopiskelijat ry:** Toimin viestintävastaavana ja suunnittelin sekä toteutin sosiaalisen median sisältöjä ja muuta järjestön viestintää.
 - **Journalismi ja mediatuotanto:** Aiempiin tehtäviini kuuluu journalismia, haastatteluja, valokuvausta sekä video- ja äänimateriaalien editointia.
