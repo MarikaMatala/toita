@@ -4,6 +4,8 @@
 
 My personal website is **currently being updated**, so some content and portfolio examples may still be added or changed.
 
+To visit my website, click the **Portfolio** or **Visit my website** button/link in this README.
+
 <p align="center">
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/VISIT%20MY%20WEBSITE-Open%20portfolio-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my personal website"></a>
 </p>
@@ -121,6 +123,8 @@ This repository is a public overview of my professional profile, skills, experie
 *Tämä README alkaa englanninkielisellä esittelyllä. Sen jälkeen samat tiedot löytyvät suomeksi.*
 
 Omat kotisivuni ovat **parhaillaan päivityksen alla**, joten sisältöä ja työnäytteitä lisätään ja muokataan vielä.
+
+Pääset kotisivuilleni klikkaamalla README-tiedoston **Portfolio**- tai **Avaa kotisivuni** -painiketta tai linkkiä.
 
 <p align="center">
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/AVAA%20KOTISIVUNI-Siirry%20portfolioon-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Avaa omat kotisivuni"></a>
