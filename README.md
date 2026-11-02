@@ -47,7 +47,7 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ### Job search and work preferences
 
-My primary job search areas are **Helsinki, Espoo and Vantaa**. I am primarily interested in on-site or hybrid work. I am also open to remote positions, international opportunities and work-related travel abroad if the right opportunity comes along.
+My primary job search area is the **Helsinki metropolitan area (Helsinki, Espoo and Vantaa), Finland**. I currently live in Jyväskylä and am also open to opportunities there if the right role comes along. I am willing to relocate for work. I am primarily interested in on-site or hybrid work, but I am also interested in remote positions and roles involving travel, both in Finland and internationally, if a good opportunity arises.
 
 ## Skills
 
@@ -102,7 +102,7 @@ I am currently looking for **junior and entry-level opportunities** in areas suc
 
 I am interested in permanent roles as well as **paid trainee, graduate and early-career programmes that are open to people who have already graduated**. I am not looking for degree-required university of applied sciences internships, as I have completed my degree, or unpaid positions.
 
-I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa**, Finland. Hybrid and on-site work are welcome, and I am also open to remote work and international teams.
+I am primarily interested in opportunities in the **Helsinki metropolitan area (Helsinki, Espoo and Vantaa), Finland**, while also considering Jyväskylä if the right role comes along. I currently live in Jyväskylä and am willing to relocate for work. On-site and hybrid work are preferred, but I am also open to remote positions and roles involving travel in Finland and internationally.
 
 ## Portfolio and work samples
 
@@ -152,7 +152,7 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 
 ### Työnhakualueet ja työskentelytavat
 
-Ensisijaiset työnhakualueeni ovat **Helsinki, Espoo ja Vantaa**. Etsin ensisijaisesti lähi- tai hybridityötä. Huomioin myös etätyömahdollisuudet ja kansainväliset tehtävät sekä mahdollisuuden matkustaa ulkomaille työn vuoksi, jos sopiva työmahdollisuus tulee vastaan.
+Ensisijainen työnhakualueeni on **pääkaupunkiseutu (Helsinki, Espoo ja Vantaa)**. Asun tällä hetkellä Jyväskylässä ja otan huomioon myös Jyväskylän työmahdollisuudet, jos sopiva tehtävä löytyy. Olen valmis muuttamaan työn perässä. Etsin ensisijaisesti lähi- tai hybridityötä, mutta olen kiinnostunut myös etätyöstä sekä matkustamista edellyttävistä tehtävistä Suomessa ja kansainvälisesti, jos hyvä mahdollisuus tulee vastaan.
 
 ## Osaaminen
 
@@ -199,7 +199,7 @@ Etsin tällä hetkellä junior- ja uransa alkuvaiheen työmahdollisuuksia esimer
 
 Olen kiinnostunut vakituisista työtehtävistä sekä palkallisista trainee-, graduate- ja muista uran alkuvaiheen ohjelmista, joihin jo valmistuneet voivat hakea. En etsi tutkintoon kuuluvia AMK-harjoittelupaikkoja, sillä olen jo valmistunut, enkä palkattomia työ- tai harjoittelupaikkoja.
 
-Ensisijaiset sijaintini ovat **Helsinki, Espoo ja Vantaa**. Minua kiinnostavat lähi- ja hybridityö sekä etätyö ja kansainväliset tiimit.
+Ensisijaisesti haen töitä **pääkaupunkiseudulta (Helsinki, Espoo ja Vantaa)**, mutta otan huomioon myös Jyväskylän, jos sopiva tehtävä löytyy. Asun tällä hetkellä Jyväskylässä ja olen valmis muuttamaan työn perässä. Lähi- ja hybridityö ovat ensisijaisia, mutta olen kiinnostunut myös etätyöstä sekä matkustamista edellyttävistä tehtävistä Suomessa ja kansainvälisesti.
 
 ## Portfolio ja työnäytteet
 
