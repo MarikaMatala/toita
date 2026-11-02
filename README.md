@@ -46,26 +46,26 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ## Skills
 
-**Development**
-- HTML, CSS, JavaScript, TypeScript
-- React, Next.js, Node.js
-- Python, C#, Kotlin and Android Studio
-- REST APIs, JSON, MongoDB and software testing
-- Git, GitHub, GitLab and Visual Studio Code
+The following are selected examples of my strongest skills, which I have rated **4/5 or 5/5** in my self-assessment. This is not a complete list of all the technologies, programming languages and tools I have used. You can find a more detailed overview and the full skill ratings on my [About and Skills page](https://marikamatala.github.io/minusta.html).
 
-**Design and media**
-- UI/UX and web design
-- Figma, Adobe Photoshop and Illustrator
-- Adobe Premiere Pro and video editing
-- Photography, audio and video production
-- Blender and 3D graphics
-- WordPress, Elementor and Canva
+**Web, design and tools**
+- HTML, CSS and responsive web design
+- Git, GitHub, GitLab, Visual Studio and Visual Studio Code
+- Visual website design and visual communication
+- Adobe Photoshop, Adobe Illustrator, Adobe Creative Suite and Canva
 
-**Other areas**
-- Digital communications and social media
-- Content creation and visual storytelling
-- Journalism, interviewing and editorial work
-- Team collaboration and project work
+**Media and content production**
+- Photography, videography, video production and video editing
+- Adobe Premiere Pro and Final Cut Pro
+- Audio production and editing
+- Radio presenting and radio production
+
+**Communications and collaboration**
+- Journalism, interviewing, writing and content creation
+- Social media, digital marketing and content planning
+- Publishing, editorial work and copywriting
+- Team coordination, project work, communication and collaboration
+- Time management and learning new tools and technologies
 
 ## Selected experience and projects
 
@@ -147,26 +147,26 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 
 ## Osaaminen
 
-**Ohjelmistokehitys ja web**
-- HTML, CSS, JavaScript ja TypeScript
-- React, Next.js ja Node.js
-- Python, C#, Kotlin ja Android Studio
-- REST API:t, JSON, MongoDB ja ohjelmistotestaus
-- Git, GitHub, GitLab ja Visual Studio Code
+Alla on esimerkkejä vahvimmista taidoistani, joille olen antanut itsearvioinnissani arvosanan **4/5 tai 5/5**. Luettelo ei kata kaikkia käyttämiäni teknologioita, ohjelmointikieliä tai työkaluja. Tarkemman esittelyn ja taitojen täydet arviot löydät [Minusta ja osaamisestani -sivulta](https://marikamatala.github.io/minusta.html).
 
-**Visuaalinen suunnittelu ja media**
-- UI/UX- ja verkkosivusuunnittelu
-- Figma, Adobe Photoshop ja Illustrator
-- Adobe Premiere Pro ja videoeditointi
-- Valokuvaus sekä ääni- ja videotuotanto
-- Blender ja 3D-grafiikka
-- WordPress, Elementor ja Canva
+**Web, visuaalinen suunnittelu ja työkalut**
+- HTML, CSS ja responsiivinen verkkosuunnittelu
+- Git, GitHub, GitLab, Visual Studio ja Visual Studio Code
+- Verkkosivujen visuaalinen suunnittelu ja visuaalinen viestintä
+- Adobe Photoshop, Adobe Illustrator, Adobe Creative Suite ja Canva
 
-**Muu osaaminen**
-- Digitaalinen viestintä ja sosiaalinen media
-- Sisällöntuotanto ja visuaalinen tarinankerronta
-- Journalismi, haastattelut ja toimitustyö
-- Tiimityöskentely ja projektityö
+**Media ja sisällöntuotanto**
+- Valokuvaus, videokuvaus, videotuotanto ja videoeditointi
+- Adobe Premiere Pro ja Final Cut Pro
+- Äänituotanto ja äänen editointi
+- Radiojuontaminen ja radiotuotanto
+
+**Viestintä ja yhteistyö**
+- Journalismi, haastattelut, kirjoittaminen ja sisällöntuotanto
+- Sosiaalinen media, digitaalinen markkinointi ja sisältösuunnittelu
+- Julkaisu- ja toimitustyö sekä copywriting
+- Tiimin koordinointi, projektityö, viestintä ja yhteistyö
+- Ajanhallinta sekä uusien työkalujen ja teknologioiden opettelu
 
 ## Kokemusta ja projekteja
 
