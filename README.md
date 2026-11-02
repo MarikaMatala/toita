@@ -58,8 +58,6 @@ Worked on the rebranding of WIMMA Lab into WIMMA Capstone. My responsibilities i
 ### WIMMA Lab / Pengwin Media — Development and media
 Worked in multidisciplinary student teams as an Assistant Team Lead / Deputy Team Leader, Junior Developer and Media Producer. Contributed to web development, teamwork, visual materials and social media content, including images, text and video.
 
-### Turku Distillery — WordPress website
-Participated in a team project creating a WordPress website and its content. The work included photography and contributing to the website implementation.
 
 ### JIO — Communications
 Worked as Communications Officer for Jyväskylän Insinööriopiskelijat ry. Created and planned social media content and supported communications through channels including Facebook, Instagram and WordPress.
@@ -137,7 +135,6 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 
 - **WIMMA Capstone:** Osallistuin WIMMA Labin brändiuudistukseen. Vastuualueisiini kuuluivat visuaalinen ilme, logo, väripaletti, brändiohjeisto ja laskeutumissivun suunnittelu sekä saavutettavuuden, käytettävyyden ja UI/UX:n huomioiminen.
 - **WIMMA Lab / Pengwin Media:** Työskentelin monialaisissa opiskelijatiimeissä apulaistiiminvetäjänä / varatiiminvetäjänä, junior-kehittäjänä ja mediatuottajana. Tein web-kehitystä sekä visuaalisia materiaaleja ja sosiaalisen median sisältöjä.
-- **Turku Distillery:** Osallistuin tiimissä WordPress-verkkosivuston ja sen sisällön toteutukseen. Projektiin kuului myös valokuvausta.
 - **JIO – Jyväskylän Insinööriopiskelijat ry:** Toimin viestintävastaavana ja suunnittelin sekä toteutin sosiaalisen median sisältöjä ja muuta järjestön viestintää.
 - **Journalismi ja mediatuotanto:** Aiempiin tehtäviini kuuluu journalismia, haastatteluja, valokuvausta sekä video- ja äänimateriaalien editointia.
 
