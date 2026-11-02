@@ -1,5 +1,13 @@
 # Marika Matalamäki
 
+*This README is presented first in English, followed by the same information in Finnish.*
+
+## Introduction
+
+I'm Marika, an ICT Engineer who graduated from JAMK University of Applied Sciences in May 2026. My background combines application development and digital media, and I'm interested in work that brings together technology, visual design and creativity.
+
+I created this repository to introduce myself and bring my skills, experience, selected projects and professional links together in one place. It gives potential employers, collaborators and other visitors an overview of what I can do and the kind of opportunities I'm looking for. It also complements my portfolio website, where I am gradually collecting work samples.
+
 **ICT Engineer | Frontend & Web Development | UI/UX | Visual Design & Digital Media**
 
 I graduated in May 2026 with a Bachelor of Engineering in Information and Communications Technology from **JAMK University of Applied Sciences**, Finland. My background combines application development and digital media with experience in web development, visual design, communications and audiovisual production.
@@ -99,6 +107,14 @@ This repository is a public overview of my professional profile, skills, experie
 ---
 
 # Suomeksi
+
+*Tämä README alkaa englanninkielisellä esittelyllä. Sen jälkeen samat tiedot löytyvät suomeksi.*
+
+## Esittely
+
+Olen Marika, toukokuussa 2026 JAMKista valmistunut tietotekniikan insinööri. Osaamiseni yhdistää sovelluskehitystä ja digitaalista mediaa, ja minua kiinnostavat tehtävät, joissa pääsen yhdistämään teknologiaa, visuaalista suunnittelua ja luovuutta.
+
+Tein tämän repositorion esitelläkseni itseni ja kootakseni osaamiseni, työkokemukseni, valikoituja projektejani ja ammatilliset linkkini yhteen paikkaan. Sen avulla työnantajat, yhteistyökumppanit ja muut vierailijat saavat yleiskuvan osaamisestani ja siitä, millaisia työmahdollisuuksia etsin. Repository täydentää portfoliotani, johon kokoan työnäytteitä vähitellen.
 
 ## Marika Matalamäki
 
