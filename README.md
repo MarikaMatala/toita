@@ -201,7 +201,7 @@ Etsin tällä hetkellä junior- ja uransa alkuvaiheen työmahdollisuuksia esimer
 
 Olen kiinnostunut vakituisista työtehtävistä sekä palkallisista trainee-, graduate- ja muista uran alkuvaiheen ohjelmista, joihin jo valmistuneet voivat hakea. En etsi tutkintoon kuuluvia AMK-harjoittelupaikkoja, sillä olen jo valmistunut, enkä palkattomia työ- tai harjoittelupaikkoja.
 
-Ensisijaisesti haen töitä **pääkaupunkiseudulta (Helsinki, Espoo ja Vantaa)**, mutta otan huomioon myös Jyväskylän, jos sopiva tehtävä löytyy. Asun tällä hetkellä Jyväskylässä ja olen valmis muuttamaan työn perässä. Lähi- ja hybridityö ovat ensisijaisia, mutta olen kiinnostunut myös etätyöstä sekä matkustamista edellyttävistä tehtävistä Suomessa ja kansainvälisesti.
+Ensisijaisesti haen töitä **pääkaupunkiseudulta (Helsinki, Espoo ja Vantaa)**, mutta otan huomioon myös sopivat tehtävät Jyväskylässä. Lähi- ja hybridityö ovat ensisijaisia, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja ulkomaille suuntautuvasta reissutyöstä. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
 
 Työnäytteet-sivulla voi katsella suoraan sivulle upotettuina PDF-esikatseluina **Sana Vapaa -tapahtumajulistetta**, joka on tehty Jyvässeudun 4H-yhdistyksen Luotsaamo-hankkeessa järjestettyyn tapahtumaan, sekä audiovisuaalisen viestinnän portfoliotani. PDF-tiedostoja ei tarvitse avata erilliselle sivulle.
 
