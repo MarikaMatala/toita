@@ -144,7 +144,7 @@ Tein tämän repositorion esitelläkseni itseni ja kootakseni osaamiseni, työko
 
 ## Marika Matalamäki
 
-**Tietotekniikan insinööri | Frontend- ja web-kehitys | UI/UX | Visuaalinen suunnittelu ja digitaalinen media**
+**Tieto- ja viestintätekniikan insinööri | Frontend- ja web-kehitys | UI/UX | Visuaalinen suunnittelu ja digitaalinen media**
 
 Valmistuin toukokuussa 2026 tieto- ja viestintätekniikan insinööriksi Jyväskylän ammattikorkeakoulusta (JAMK). Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan. Osaamiseni yhdistää ohjelmisto- ja web-kehitystä, visuaalista suunnittelua, viestintää sekä audiovisuaalista tuotantoa.
 
