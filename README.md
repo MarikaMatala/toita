@@ -47,7 +47,7 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ### Job search and work preferences
 
-My primary job search area is **Helsinki, Espoo and Vantaa, Finland**. I am primarily interested in on-site or hybrid roles, but I am also open to remote work and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
+My primary job search area is **Helsinki, Espoo and Vantaa, Finland**, but I am also open to suitable opportunities in **Jyväskylä**. I am primarily interested in on-site or hybrid roles, but I am also open to remote work and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
 
 ## Skills
 
@@ -102,7 +102,7 @@ I am currently looking for **junior and entry-level opportunities** in areas suc
 
 I am interested in permanent roles as well as **paid trainee, graduate and early-career programmes that are open to people who have already graduated**. I am not looking for degree-required university of applied sciences internships, as I have completed my degree, or unpaid positions.
 
-I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa, Finland**. On-site and hybrid work are preferred, but I am also open to remote positions and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
+I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa, Finland**, while also considering suitable roles in **Jyväskylä**. On-site and hybrid work are preferred, but I am also open to remote positions and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
 
 ## Portfolio and work samples
 
