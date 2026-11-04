@@ -28,7 +28,7 @@ I enjoy combining technical frontend skills with visual design to create clear, 
   <a href="https://marikamatala.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-2E0014?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/marika-matalamaki"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/MarikaMatala"><img src="https://img.shields.io/badge/GitHub-Profile-1C1E20?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:marika.matalamaki@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-CE8147?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+  <a href="mailto:marika.matalamaki@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-CE8147?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -47,7 +47,7 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ### Job search and work preferences
 
-My primary job search area is the **Helsinki metropolitan area (Helsinki, Espoo and Vantaa), Finland**. I currently live in Jyväskylä and am also open to opportunities there if the right role comes along. I am willing to relocate for work. I am primarily interested in on-site or hybrid work, but I am also interested in remote positions and roles involving travel, both in Finland and internationally, if a good opportunity arises.
+My primary job search area is **Helsinki, Espoo and Vantaa, Finland**. I am primarily interested in on-site or hybrid roles, but I am also open to remote work and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
 
 ## Skills
 
@@ -78,7 +78,7 @@ The following are selected examples of my strongest skills, which I have rated *
 WIMMA Lab and WIMMA Capstone were project-based learning environments at **JAMK University of Applied Sciences (Jyväskylä University of Applied Sciences)**, where students developed practical skills by working in multidisciplinary teams on real projects.
 
 **WIMMA Capstone — Brand renewal**  
-I worked on the rebranding of WIMMA Lab into WIMMA Capstone. My responsibilities included the visual identity, logo and colour palette, brand guidelines, landing page design, and attention to accessibility, usability and UI/UX. I also helped transfer existing information into the renewed brand.
+I worked on the rebranding of WIMMA Lab into WIMMA Capstone. My responsibilities included the visual identity, logo and colour palette, landing page design, and attention to accessibility, usability and UI/UX. I also helped transfer existing information into the renewed brand.
 
 ### WIMMA Lab / Pengwin Media — Development and media
 Worked in multidisciplinary student teams as an Assistant Team Lead / Deputy Team Leader, Junior Developer and Media Producer. Contributed to web development, teamwork, visual materials and social media content, including images, text and video.
@@ -102,7 +102,7 @@ I am currently looking for **junior and entry-level opportunities** in areas suc
 
 I am interested in permanent roles as well as **paid trainee, graduate and early-career programmes that are open to people who have already graduated**. I am not looking for degree-required university of applied sciences internships, as I have completed my degree, or unpaid positions.
 
-I am primarily interested in opportunities in the **Helsinki metropolitan area (Helsinki, Espoo and Vantaa), Finland**, while also considering Jyväskylä if the right role comes along. I currently live in Jyväskylä and am willing to relocate for work. On-site and hybrid work are preferred, but I am also open to remote positions and roles involving travel in Finland and internationally.
+I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa, Finland**. On-site and hybrid work are preferred, but I am also open to remote positions and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
 
 ## Portfolio and work samples
 
@@ -182,7 +182,7 @@ Alla on esimerkkejä vahvimmista taidoistani, joille olen antanut itsearvioinnis
 **WIMMA Lab ja WIMMA Capstone – JAMKin projektioppimisympäristöt**  
 WIMMA Lab ja WIMMA Capstone olivat Jyväskylän ammattikorkeakoulun (JAMK) projektioppimisympäristöjä. Niissä opiskelijat kehittivät osaamistaan käytännön projekteissa ja työskentelivät monialaisissa tiimeissä.
 
-- **WIMMA Capstone – brändiuudistus:** Osallistuin WIMMA Labin brändiuudistukseen. Vastuualueisiini kuuluivat visuaalinen ilme, logo, väripaletti, brändiohjeisto ja laskeutumissivun suunnittelu sekä saavutettavuuden, käytettävyyden ja UI/UX:n huomioiminen.
+- **WIMMA Capstone – brändiuudistus:** Osallistuin WIMMA Labin brändiuudistukseen. Vastuualueisiini kuuluivat visuaalinen ilme, logo, väripaletti ja laskeutumissivun suunnittelu sekä saavutettavuuden, käytettävyyden ja UI/UX:n huomioiminen.
 - **WIMMA Lab / Pengwin Media:** Työskentelin monialaisissa opiskelijatiimeissä apulaistiiminvetäjänä / varatiiminvetäjänä, junior-kehittäjänä ja mediatuottajana. Tein web-kehitystä sekä visuaalisia materiaaleja ja sosiaalisen median sisältöjä.
 - **JIO – Jyväskylän Insinööriopiskelijat ry:** Toimin viestintävastaavana ja suunnittelin sekä toteutin sosiaalisen median sisältöjä ja muuta järjestön viestintää.
 - **Journalismi ja mediatuotanto:** Aiempiin tehtäviini kuuluu journalismia, haastatteluja, valokuvausta sekä video- ja äänimateriaalien editointia.
