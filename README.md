@@ -47,7 +47,7 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ### Job search and work preferences
 
-My primary job search area is **Helsinki, Espoo and Vantaa, Finland**. I prefer on-site and hybrid roles, and I am also open to remote work, international opportunities and work involving travel in Finland or abroad. My preferred start date for on-site work is **January 2027**.
+My first preference is on-site and hybrid work in **Helsinki, Espoo and Vantaa, Finland**, where there are more companies in my field and I have friends and acquaintances. I also consider suitable opportunities in **Jyväskylä** and am willing to relocate to the Helsinki metropolitan area for work. I am also open to remote work, international opportunities and work involving travel in Finland or abroad. My preferred start date for on-site work is **January 2027**.
 
 ## Skills
 
@@ -96,7 +96,7 @@ I am currently looking for **junior and entry-level opportunities** in areas suc
 
 I am interested in permanent roles as well as **paid trainee, graduate and early-career programmes that are open to people who have already graduated**. I am not looking for degree-required university of applied sciences internships, as I have completed my degree, or unpaid positions.
 
-I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa, Finland**. On-site and hybrid work are preferred, but I am also open to remote positions, international opportunities and roles involving travel in Finland or abroad. I am available to start in January 2027.
+My first preference is on-site and hybrid work in **Helsinki, Espoo and Vantaa, Finland**, where there are more companies in my field and I have friends and acquaintances. I also consider suitable opportunities in **Jyväskylä** and am willing to relocate to the Helsinki metropolitan area for work. I am also open to remote work, international opportunities and work involving travel in Finland or abroad. My preferred start date for on-site work is **January 2027**.
 
 The Work Samples page includes embedded previews of the **Sana Vapaa** event poster (created as part of the Luotsaamo project run by Jyvässeudun 4H-yhdistys) and my audiovisual communications portfolio. The PDF documents can be viewed directly on the page, without opening them separately.
 
@@ -148,7 +148,7 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 
 ### Työnhakualueet ja työskentelytavat
 
-Ensisijainen työnhakualueeni on **Helsinki, Espoo ja Vantaa**. Etsin ensisijaisesti lähi- tai hybridityötä, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
+Ensisijaisesti haen lähi- ja hybridityötä **Helsingistä, Espoosta ja Vantaalta**, koska pääkaupunkiseudulla on enemmän oman alani yrityksiä ja minulla on siellä tuttuja ja ystäviä. Haen myös **Jyväskylästä**, jos sopiva työ löytyy, ja olen valmis muuttamaan pääkaupunkiseudulle työn perässä. Olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
 
 ## Osaaminen
 
@@ -189,7 +189,7 @@ Etsin tällä hetkellä junior- ja uransa alkuvaiheen työmahdollisuuksia esimer
 
 Olen kiinnostunut vakituisista työtehtävistä sekä palkallisista trainee-, graduate- ja muista uran alkuvaiheen ohjelmista, joihin jo valmistuneet voivat hakea. En etsi tutkintoon kuuluvia AMK-harjoittelupaikkoja, sillä olen jo valmistunut, enkä palkattomia työ- tai harjoittelupaikkoja.
 
-Ensisijaisesti haen töitä **Helsingistä, Espoosta ja Vantaalta**. Lähi- ja hybridityö ovat ensisijaisia, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
+Ensisijaisesti haen lähi- ja hybridityötä **Helsingistä, Espoosta ja Vantaalta**, koska pääkaupunkiseudulla on enemmän oman alani yrityksiä ja minulla on siellä tuttuja ja ystäviä. Haen myös **Jyväskylästä**, jos sopiva työ löytyy, ja olen valmis muuttamaan pääkaupunkiseudulle työn perässä. Olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
 
 Työnäytteet-sivulla voi katsella suoraan sivulle upotettuina PDF-esikatseluina **Sana Vapaa -tapahtumajulistetta**, joka on tehty Jyvässeudun 4H-yhdistyksen Luotsaamo-hankkeessa järjestettyyn tapahtumaan, sekä audiovisuaalisen viestinnän portfoliotani. PDF-tiedostoja ei tarvitse avata erilliselle sivulle.
 
