@@ -1,5 +1,7 @@
 # Marika Matalamäki
 
+<!-- Last updated: 2026-11-06 20:27 (Europe/Helsinki). -->
+
 *This README is presented first in English, followed by the same information in Finnish.*
 
 My portfolio is my personal website, created to bring together my work samples, projects, skills and experience in one place. It gives a closer look at what I can do across web and frontend development, UI/UX, visual design and digital media. You can explore selected projects, see examples of my work and learn more about my background beyond what fits in a GitHub profile or CV. I update the site as I develop new skills and add work samples.
@@ -99,6 +101,12 @@ I am interested in permanent roles as well as **paid trainee, graduate and early
 My first preference is on-site and hybrid work in **Helsinki, Espoo and Vantaa, Finland**, where there are more companies in my field and I have friends and acquaintances. I also consider suitable opportunities in **Jyväskylä** and am willing to relocate to the Helsinki metropolitan area for work. I am also open to remote work, international opportunities and work involving travel in Finland or abroad. My preferred start date for on-site work is **January 2027**.
 
 The Work Samples page includes embedded previews of the **Sana Vapaa** event poster (created as part of the Luotsaamo project run by Jyvässeudun 4H-yhdistys) and my audiovisual communications portfolio. The PDF documents can be viewed directly on the page, without opening them separately.
+
+## Selected current project | Uusin projektityönäyte
+
+**The Cultured Vault** is a cultural-catalogue concept presented as an installable browser-based PWA demo. The demo contains 500 sample works across films, series, animation, documentaries, podcasts, music, games and books. It includes catalogue search and filters, a personal-rating placeholder, separately labelled IMDb reference ratings, and a local-only suggestion form. It is a front-end prototype: suggestions are not transmitted to a server, and user accounts, shared ratings and a production backend are not implemented.
+
+[Open the demo](https://marikamatala.github.io/The-Cultured-Vault-demo/) · [View the project repository](https://github.com/MarikaMatala/The-Cultured-Vault)
 
 ## Portfolio and work samples
 
