@@ -14,7 +14,7 @@ To visit my portfolio, click the button below.
 
 ## Introduction
 
-I'm Marika, an ICT Engineer who graduated from JAMK University of Applied Sciences in May 2026. My background combines application development and digital media, and I'm interested in work that brings together technology, visual design and creativity.
+I'm Marika, an ICT Engineer who graduated from JAMK University of Applied Sciences in May 2026, completing 265 ECTS credits. My background combines application development and digital media, and I'm interested in work that brings together technology, visual design and creativity.
 
 I created this repository to introduce myself and bring my skills, experience, selected projects and professional links together in one place. It gives potential employers, collaborators and other visitors an overview of what I can do and the kind of opportunities I'm looking for. It also complements my portfolio website, where I am gradually collecting work samples.
 
@@ -142,7 +142,7 @@ Tein tämän repositorion esitelläkseni itseni ja kootakseni osaamiseni, työko
 
 **Tieto- ja viestintätekniikan insinööri | Frontend- ja web-kehitys | UI/UX | Visuaalinen suunnittelu ja digitaalinen media**
 
-Valmistuin toukokuussa 2026 tieto- ja viestintätekniikan insinööriksi Jyväskylän ammattikorkeakoulusta (JAMK). Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan. Osaamiseni yhdistää ohjelmisto- ja web-kehitystä, visuaalista suunnittelua, viestintää sekä audiovisuaalista tuotantoa.
+Valmistuin toukokuussa 2026 tieto- ja viestintätekniikan insinööriksi Jyväskylän ammattikorkeakoulusta (JAMK). Tutkintoon kertyi 265 opintopistettä. Opintoni painottuivat sovelluskehitykseen ja digitaaliseen mediaan. Osaamiseni yhdistää ohjelmisto- ja web-kehitystä, visuaalista suunnittelua, viestintää sekä audiovisuaalista tuotantoa.
 
 Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden ja saavutettavien verkkopalveluiden rakentaminen sekä ideoiden toteuttaminen visuaalisesti ja digitaalisia medioita hyödyntäen.
 
