@@ -47,28 +47,22 @@ I am especially interested in frontend development, full-stack development, UI/U
 
 ### Job search and work preferences
 
-My primary job search area is **Helsinki, Espoo and Vantaa, Finland**, while I also consider suitable opportunities in **Jyväskylä**. I prefer on-site and hybrid roles, but I am also open to remote work, international opportunities and work involving travel abroad when the opportunity is a good fit. My preferred start date for on-site work is **January 2027**.
+My primary job search area is **Helsinki, Espoo and Vantaa, Finland**. I prefer on-site and hybrid roles, and I am also open to remote work, international opportunities and work involving travel in Finland or abroad. My preferred start date for on-site work is **January 2027**.
 
 ## Skills
 
-The following are selected examples of my strongest skills, which I have rated **4/5 or 5/5** in my self-assessment. This is not a complete list of all the technologies, programming languages and tools I have used. You can find a more detailed overview and the full skill ratings on my [About and Skills page](https://marikamatala.github.io/minusta.html).
+The following are selected examples of my strengths. This is not a complete list of all the technologies, programming languages and tools I have used. You can find a more detailed overview and my self-assessed skill ratings on my [About and Skills page](https://marikamatala.github.io/minusta.html).
 
-**Web, design and tools**
-- Frontend development, HTML, CSS and responsive web design
-- Git, GitHub, GitLab, Visual Studio and Visual Studio Code
-- Visual website design and visual communication
-- Adobe Photoshop, Adobe Illustrator, Adobe Creative Suite and Canva
+**Web development and design**
+- Frontend development, responsive web design and visual website design
 
 **Media and content production**
 - Photography, videography, video production and video editing
-- Adobe Premiere Pro and Final Cut Pro
-- Audio production and editing
-- Radio presenting and radio production
+- Audio production, radio presenting and radio production
 
 **Communications and collaboration**
-- Journalism, interviewing, writing and content creation
-- Social media, digital marketing and content planning
-- Publishing, editorial work and copywriting
+- Journalism, interviewing, writing, content creation and copywriting
+- Social media, digital marketing, publishing and editorial work
 - Team coordination, project work, communication and collaboration
 - Time management and learning new tools and technologies
 
@@ -102,7 +96,7 @@ I am currently looking for **junior and entry-level opportunities** in areas suc
 
 I am interested in permanent roles as well as **paid trainee, graduate and early-career programmes that are open to people who have already graduated**. I am not looking for degree-required university of applied sciences internships, as I have completed my degree, or unpaid positions.
 
-I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa, Finland**, while also considering suitable roles in **Jyväskylä**. On-site and hybrid work are preferred, but I am also open to remote positions and international opportunities, including roles involving travel abroad when the opportunity is a good fit. I am available to start in January 2027.
+I am primarily interested in opportunities in **Helsinki, Espoo and Vantaa, Finland**. On-site and hybrid work are preferred, but I am also open to remote positions, international opportunities and roles involving travel in Finland or abroad. I am available to start in January 2027.
 
 The Work Samples page includes embedded previews of the **Sana Vapaa** event poster (created as part of the Luotsaamo project run by Jyvässeudun 4H-yhdistys) and my audiovisual communications portfolio. The PDF documents can be viewed directly on the page, without opening them separately.
 
@@ -154,28 +148,22 @@ Minua kiinnostaa erityisesti teknologian ja luovuuden yhdistäminen: selkeiden j
 
 ### Työnhakualueet ja työskentelytavat
 
-Ensisijainen työnhakualueeni on **pääkaupunkiseutu (Helsinki, Espoo ja Vantaa)**, mutta otan huomioon myös sopivat työmahdollisuudet **Jyväskylässä**. Etsin ensisijaisesti lähi- tai hybridityötä, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja ulkomaille suuntautuvasta reissutyöstä, jos hyvä mahdollisuus tulee vastaan. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
+Ensisijainen työnhakualueeni on **Helsinki, Espoo ja Vantaa**. Etsin ensisijaisesti lähi- tai hybridityötä, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
 
 ## Osaaminen
 
-Alla on esimerkkejä vahvimmista taidoistani, joille olen antanut itsearvioinnissani arvosanan **4/5 tai 5/5**. Luettelo ei kata kaikkia käyttämiäni teknologioita, ohjelmointikieliä tai työkaluja. Tarkemman esittelyn ja taitojen täydet arviot löydät [Minusta ja osaamisestani -sivulta](https://marikamatala.github.io/minusta.html).
+Alla on esimerkkejä vahvuuksistani. Luettelo ei kata kaikkia käyttämiäni teknologioita, ohjelmointikieliä tai työkaluja. Tarkemman esittelyn ja taitojen itsearvioinnit löydät [Minusta ja osaamisestani -sivulta](https://marikamatala.github.io/minusta.html).
 
-**Web, visuaalinen suunnittelu ja työkalut**
-- Frontend-kehitys, HTML, CSS ja responsiivinen verkkosuunnittelu
-- Git, GitHub, GitLab, Visual Studio ja Visual Studio Code
-- Verkkosivujen visuaalinen suunnittelu ja visuaalinen viestintä
-- Adobe Photoshop, Adobe Illustrator, Adobe Creative Suite ja Canva
+**Web-kehitys ja suunnittelu**
+- Frontend-kehitys, responsiivinen verkkosuunnittelu ja verkkosivujen visuaalinen suunnittelu
 
 **Media ja sisällöntuotanto**
 - Valokuvaus, videokuvaus, videotuotanto ja videoeditointi
-- Adobe Premiere Pro ja Final Cut Pro
-- Äänituotanto ja äänen editointi
-- Radiojuontaminen ja radiotuotanto
+- Äänituotanto, radiojuontaminen ja radiotuotanto
 
 **Viestintä ja yhteistyö**
-- Journalismi, haastattelut, kirjoittaminen ja sisällöntuotanto
-- Sosiaalinen media, digitaalinen markkinointi ja sisältösuunnittelu
-- Julkaisu- ja toimitustyö sekä copywriting
+- Journalismi, haastattelut, kirjoittaminen, sisällöntuotanto ja copywriting
+- Sosiaalinen media, digitaalinen markkinointi sekä julkaisu- ja toimitustyö
 - Tiimin koordinointi, projektityö, viestintä ja yhteistyö
 - Ajanhallinta sekä uusien työkalujen ja teknologioiden opettelu
 
@@ -201,7 +189,7 @@ Etsin tällä hetkellä junior- ja uransa alkuvaiheen työmahdollisuuksia esimer
 
 Olen kiinnostunut vakituisista työtehtävistä sekä palkallisista trainee-, graduate- ja muista uran alkuvaiheen ohjelmista, joihin jo valmistuneet voivat hakea. En etsi tutkintoon kuuluvia AMK-harjoittelupaikkoja, sillä olen jo valmistunut, enkä palkattomia työ- tai harjoittelupaikkoja.
 
-Ensisijaisesti haen töitä **pääkaupunkiseudulta (Helsinki, Espoo ja Vantaa)**, mutta otan huomioon myös sopivat tehtävät Jyväskylässä. Lähi- ja hybridityö ovat ensisijaisia, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja ulkomaille suuntautuvasta reissutyöstä. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
+Ensisijaisesti haen töitä **Helsingistä, Espoosta ja Vantaalta**. Lähi- ja hybridityö ovat ensisijaisia, mutta olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
 
 Työnäytteet-sivulla voi katsella suoraan sivulle upotettuina PDF-esikatseluina **Sana Vapaa -tapahtumajulistetta**, joka on tehty Jyvässeudun 4H-yhdistyksen Luotsaamo-hankkeessa järjestettyyn tapahtumaan, sekä audiovisuaalisen viestinnän portfoliotani. PDF-tiedostoja ei tarvitse avata erilliselle sivulle.
 
