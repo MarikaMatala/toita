@@ -252,3 +252,13 @@ Tämä repositorio kokoaa yhteen ammatillisen profiilini, osaamiseni, kokemuksen
 ---
 
 <p align="center"><i>Thanks for visiting! / Kiitos vierailusta!</i></p>
+
+
+---
+
+## Privacy, copyright and reuse | Tietosuoja, tekijänoikeudet ja käyttö
+
+- [Privacy and data handling / Tietosuoja ja tietojen käsittely](PRIVACY.md)
+- [Copyright and permitted use / Tekijänoikeudet ja materiaalin käyttö](COPYRIGHT.md)
+
+These documents describe this repository and its current project boundaries. They are informational notices, not general contract terms. / Nämä dokumentit kuvaavat tämän repositorion ja projektin nykyisiä toimintarajoja. Ne ovat informatiivisia selosteita, eivät yleisiä sopimusehtoja.
