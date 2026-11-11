@@ -12,7 +12,7 @@ Tämä repositorio on työnäytteitä ja osaamista esittelevä README-kokonaisuu
 Tämän projektin lähdekoodin ja dokumentaation ylläpitäjä on Marika Matalamäki. Tietosuojaa koskevat kysymykset voi lähettää osoitteeseen marika.matalamaki@gmail.com. Tämä yhteystieto ei tarkoita, että projekti keräisi kävijöiden henkilötietoja.
 
 ### Evästeet ja analytiikka
-Projektin ylläpitäjä ei lisää tähän projektiin omia mainos- tai seurant evästeitä eikä omaa analytiikkapalvelua, ellei tässä dokumentissa tai sovelluksen dokumentaatiossa nimenomaisesti toisin kerrota. GitHubin, GitHub Pagesin, hosting-palvelun ja ulkoisten palveluiden tekninen tietojenkäsittely määräytyy niiden omien tietosuojakäytäntöjen mukaan. Jos projektin toiminnallisuus tai palveluntarjoajat muuttuvat, tämä dokumentti päivitetään.
+Projektin ylläpitäjä ei lisää tähän projektiin omia mainos- tai seurantaevästeitä eikä omaa analytiikkapalvelua, ellei tässä dokumentissa tai sovelluksen dokumentaatiossa nimenomaisesti toisin kerrota. GitHubin, GitHub Pagesin, hosting-palvelun ja ulkoisten palveluiden tekninen tietojenkäsittely määräytyy niiden omien tietosuojakäytäntöjen mukaan. Jos projektin toiminnallisuus tai palveluntarjoajat muuttuvat, tämä dokumentti päivitetään.
 
 ### Oikeudet ja lisätiedot
 Voit pyytää itseäsi koskevien mahdollisten projektin ylläpitäjän hallussa olevien tietojen tarkastamista tai poistamista ottamalla yhteyttä yllä mainittuun sähköpostiosoitteeseen. Lakisääteiset oikeudet riippuvat siitä, käsitelläänkö henkilötietoja ja millä oikeusperusteella. GitHubin omiin tietoihin liittyvät pyynnöt tulee osoittaa GitHubille.
