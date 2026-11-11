@@ -1,6 +1,6 @@
 # Marika Matalamäki
 
-<!-- Last updated: 2026-11-06 20:27 (Europe/Helsinki). -->
+<!-- Last updated: 2026-11-11 (Europe/Helsinki). -->
 
 *This README is presented first in English, followed by the same information in Finnish.*
 
@@ -102,11 +102,23 @@ My first preference is on-site and hybrid work in **Helsinki, Espoo and Vantaa, 
 
 The Work Samples page includes embedded previews of the **Sana Vapaa** event poster (created as part of the Luotsaamo project run by Jyvässeudun 4H-yhdistys) and my audiovisual communications portfolio. The PDF documents can be viewed directly on the page, without opening them separately.
 
-## Selected current project | Uusin projektityönäyte
+## Selected current projects
 
-**The Cultured Vault** is a cultural-catalogue concept presented as an installable browser-based PWA demo. The demo contains 500 sample works across films, series, animation, documentaries, podcasts, music, games and books. It includes catalogue search and filters, a personal-rating placeholder, separately labelled IMDb reference ratings, and a local-only suggestion form. It is a front-end prototype: suggestions are not transmitted to a server, and user accounts, shared ratings and a production backend are not implemented.
+**The Cultured Vault** is a cross-media catalogue browser demo with 1,000 manually curated sample entries across films, series, animation, documentaries, podcasts, music, games and books. Visitors can search, filter and browse the catalogue. Personal demo ratings, optional comments and suggestions are stored locally in the visitor's browser; they are not sent to a server. The demo has no user accounts or production backend and is not currently presented as a verified installable PWA.
 
 [Open the demo](https://marikamatala.github.io/The-Cultured-Vault-demo/) · [View the project repository](https://github.com/MarikaMatala/The-Cultured-Vault)
+
+**Access & Subtitle QA Toolkit** is a browser-based learning project for checking selected HTML accessibility issues and SRT/WebVTT subtitle structure. The published demo processes pasted HTML and selected subtitle files locally in the browser. Automated results are indicative and do not replace manual accessibility testing.
+
+[Open the browser demo](https://marikamatala.github.io/access-subtitle-qa-toolkit/) · [View the project repository](https://github.com/MarikaMatala/access-subtitle-qa-toolkit)
+
+**Remote Job Fit** is an experimental Python command-line tool and TypeScript dashboard for exploring job listings and comparing their requirements with a locally configured skills profile. Matching results are heuristic and must be checked against the original job advertisement. A hosted interactive demo is not currently available.
+
+[View the project repository](https://github.com/MarikaMatala/remote-job-fit)
+
+**Personal Style & Colour Guide** is a bilingual manual colour-exploration and style-inspiration demo. It explores colour families and offers suggestions for clothing, makeup, hair and accessories. Its results are illustrative rather than definitive; the current version does not perform image-based analysis.
+
+[Open the browser demo](https://marikamatala.github.io/personal-style-colour-guide/) · [View the project repository](https://github.com/MarikaMatala/personal-style-colour-guide)
 
 ## Portfolio and work samples
 
@@ -200,6 +212,24 @@ Olen kiinnostunut vakituisista työtehtävistä sekä palkallisista trainee-, gr
 Ensisijaisesti haen lähi- ja hybridityötä **Helsingistä, Espoosta ja Vantaalta**, koska pääkaupunkiseudulla on enemmän oman alani yrityksiä ja minulla on siellä tuttuja ja ystäviä. Haen myös **Jyväskylästä**, jos sopiva työ löytyy, ja olen valmis muuttamaan pääkaupunkiseudulle työn perässä. Olen kiinnostunut myös etätyöstä, kansainvälisistä tehtävistä ja matkustamista edellyttävästä työstä Suomessa tai ulkomailla. Toivottu aloitusajankohtani lähityössä on **tammikuu 2027**.
 
 Työnäytteet-sivulla voi katsella suoraan sivulle upotettuina PDF-esikatseluina **Sana Vapaa -tapahtumajulistetta**, joka on tehty Jyvässeudun 4H-yhdistyksen Luotsaamo-hankkeessa järjestettyyn tapahtumaan, sekä audiovisuaalisen viestinnän portfoliotani. PDF-tiedostoja ei tarvitse avata erilliselle sivulle.
+
+## Uusimmat projektit
+
+**The Cultured Vault** on eri medioita yhdistävä selainpohjainen katalogidemo, jossa on 1 000 käsin kuratoitua esimerkkitietuetta elokuvista, sarjoista, animaatioista, dokumenteista, podcasteista, musiikista, peleistä ja kirjoista. Katalogia voi hakea ja suodattaa. Kävijän omat demomerkinnät, vapaaehtoiset kommentit ja ehdotukset tallentuvat vain hänen selaimensa paikalliseen tallennustilaan, eikä niitä lähetetä palvelimelle. Demossa ei ole käyttäjätilejä tai tuotantokäytössä olevaa taustajärjestelmää, eikä sitä tällä hetkellä esitellä varmennettuna asennettavana PWA-sovelluksena.
+
+[Avaa demo](https://marikamatala.github.io/The-Cultured-Vault-demo/) · [Avaa projektin repositorio](https://github.com/MarikaMatala/The-Cultured-Vault)
+
+**Access & Subtitle QA Toolkit** on selainpohjainen oppimisprojekti, jolla voi tarkistaa valittuja HTML-saavutettavuusasioita sekä SRT- ja WebVTT-tekstitystiedostojen rakennetta. Julkinen demo käsittelee liitetyn HTML:n ja valitut tekstitystiedostot paikallisesti selaimessa. Automaattiset tulokset ovat suuntaa-antavia eivätkä korvaa manuaalista saavutettavuustestausta.
+
+[Avaa selain-demo](https://marikamatala.github.io/access-subtitle-qa-toolkit/) · [Avaa projektin repositorio](https://github.com/MarikaMatala/access-subtitle-qa-toolkit)
+
+**Remote Job Fit** on kokeellinen Python-komentorivityökalu ja TypeScript-dashboard, joiden avulla voi tutkia työpaikkailmoituksia ja verrata niiden vaatimuksia paikallisesti määriteltyyn osaamisprofiiliin. Vertailutulokset perustuvat heuristiikkaan, ja ne on aina tarkistettava alkuperäisestä työpaikkailmoituksesta. Julkista interaktiivista demoa ei ole tällä hetkellä saatavilla.
+
+[Avaa projektin repositorio](https://github.com/MarikaMatala/remote-job-fit)
+
+**Personal Style & Colour Guide** on kaksikielinen manuaaliseen väriominaisuuksien tarkasteluun ja tyylivinkkeihin perustuva demo. Se esittelee väriperheitä ja tarjoaa inspiraatiota vaatteisiin, meikkeihin, hiuksiin ja asusteisiin. Tulokset ovat suuntaa-antavia, eikä nykyinen versio analysoi kuvia.
+
+[Avaa selain-demo](https://marikamatala.github.io/personal-style-colour-guide/) · [Avaa projektin repositorio](https://github.com/MarikaMatala/personal-style-colour-guide)
 
 ## Portfolio ja työnäytteet
 
